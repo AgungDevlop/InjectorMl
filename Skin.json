@@ -8,5 +8,15 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/icon_781e6edc.jpg",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/19b01b05022fb78f6281d1d19aa055c8_3e2774cc.jpg",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/archive_f783c47d.zip"
+  },
+  {
+    "id": "AtZs0QmCke",
+    "hero": "Alucard",
+    "name": "Alucard Starlight",
+    "type": "Upgrade",
+    "squad": "Starlight",
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/icon_94450759.jpg",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/19b01b05022fb78f6281d1d19aa055c8_aa29ac23.jpg",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/archive_80e85e48.zip"
   }
 ]
