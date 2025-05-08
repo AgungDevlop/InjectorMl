@@ -11,5 +11,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/icon_9992fb9a.jpg",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/19b01b05022fb78f6281d1d19aa055c8_6ab14315.jpg",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/archive_e55c1f36_48a1fbb0.zip"
+  },
+  {
+    "id": "304dad16-6",
+    "hero": "Zilong",
+    "name": "Zilong Epic",
+    "type": "Original",
+    "role": [
+      "Fighter",
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/surya_037f6f4d.jpg",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/unnamed_6839f638.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/archive_88e596ab.zip"
   }
 ]
