@@ -59,5 +59,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/20250521_220720_e52f22e9.jpg",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250521_220656_b1c0f6e1.jpg",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/11skin_abf7d7a1.zip"
+  },
+  {
+    "id": "c71f6e9e-f",
+    "hero": "Arlot",
+    "name": "Arlot Collector ",
+    "type": "Original",
+    "role": [
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/20250521_220720_d33fc007.jpg",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250521_220942_24f2f5c8.jpg",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/11skin_c81593d2.zip"
   }
 ]
