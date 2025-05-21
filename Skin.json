@@ -71,5 +71,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/20250521_220720_d33fc007.jpg",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250521_220942_24f2f5c8.jpg",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/11skin_c81593d2.zip"
+  },
+  {
+    "id": "0b03ceb2-e",
+    "hero": "Nolan",
+    "name": "Nolan Starlight",
+    "type": "Original",
+    "role": [
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/20250521_221825_b6f9b0f7.jpg",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250521_221834_eb6f9fd7.jpg",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/11skin_5b9533fb.zip"
   }
 ]
