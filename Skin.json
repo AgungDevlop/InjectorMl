@@ -113,5 +113,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/1000008673_fa02763c.jpg",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/1000008954_0cd2972f.jpg",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/AamonNarutoKcm_d0fd8c88.zip"
+  },
+  {
+    "id": "eee44aa1-f",
+    "hero": "Akai",
+    "name": "Backup Akai",
+    "type": "Backup",
+    "role": [
+      "Tank",
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/1000009398_f27db298.jpg",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/1000009398_acfd73e7.jpg",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/BackupAkai_9ad3b8bb.zip"
   }
 ]
