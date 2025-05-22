@@ -100,5 +100,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/1000008673_fb176d53.jpg",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/1000008675_a73d70da.jpg",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/AamonNightsEdge_6e9f05aa.zip"
+  },
+  {
+    "id": "34a86812-f",
+    "hero": "Aamon",
+    "name": "Aamon Naruto Kcm",
+    "type": "Custom Skin",
+    "role": [
+      "Mage",
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/1000008673_fa02763c.jpg",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/1000008954_0cd2972f.jpg",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/AamonNarutoKcm_d0fd8c88.zip"
   }
 ]
