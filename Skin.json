@@ -126,5 +126,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/1000009398_f27db298.jpg",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/1000009398_acfd73e7.jpg",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/BackupAkai_9ad3b8bb.zip"
+  },
+  {
+    "id": "88718c11-3",
+    "hero": "Akai",
+    "name": "Akai Kungfu Panda",
+    "type": "Original",
+    "role": [
+      "Tank",
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/20250522_233752_f55096b0.jpg",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/1000009484_c789d309.jpg",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/AkaiKungfuPanda_5f00b5f5.zip"
   }
 ]
