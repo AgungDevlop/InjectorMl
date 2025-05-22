@@ -1,18 +1,5 @@
 [
   {
-    "id": "552671e5-a",
-    "hero": "Alucard",
-    "name": "Alucard Lightborn",
-    "type": "Original",
-    "role": [
-      "Fighter",
-      "Assassin"
-    ],
-    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/1000008247_a3073f3d.jpg",
-    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/1000008250_ab20670b.jpg",
-    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/Alucard%20Lightborn_c46bf933.zip"
-  },
-  {
     "id": "9b410925-6",
     "hero": "Aamon",
     "name": "Aamon Elite",
