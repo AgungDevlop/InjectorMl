@@ -152,5 +152,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/1000009398_b9a14807.jpg",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/1000009566_c2c15341.jpg",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/AkaiMarvelous_852177ec.zip"
+  },
+  {
+    "id": "e49bed5d-6",
+    "hero": "Aldous ",
+    "name": "Aldous Collector ",
+    "type": "Original",
+    "role": [
+      "Fighter",
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/20250523_230351_81fe414d.jpg",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250523_230344_59423312.jpg",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/11skin_dc7c7fa3.zip"
   }
 ]
