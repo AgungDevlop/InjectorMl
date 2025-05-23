@@ -178,5 +178,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/20250523_230351_40f9a5aa.jpg",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250523_230709_3a024c85.jpg",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/11skin_ca917c5d.zip"
+  },
+  {
+    "id": "13478a14-8",
+    "hero": "Aldous ",
+    "name": "Aldous M1",
+    "type": "Original",
+    "role": [
+      "Fighter",
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/20250523_230351_9b20a169.jpg",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250523_230859_9b744d55.jpg",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/11skin_de8a6efe.zip"
   }
 ]
