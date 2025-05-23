@@ -289,5 +289,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/20250523_233308_16d5b1fa.jpg",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250523_233513_7c2c26ae.jpg",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/11skin_c2e21532.zip"
+  },
+  {
+    "id": "ae7913e5-3",
+    "hero": "khaleed",
+    "name": "khaleed epic",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/20250523_233308_d3655187.jpg",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250523_233749_cbd6da6d.jpg",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/11skin_6d71d026.zip"
   }
 ]
