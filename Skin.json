@@ -204,5 +204,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/20250523_230351_e228055a.jpg",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250523_231101_f09f3806.jpg",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/11skin_8d04c028.zip"
+  },
+  {
+    "id": "b41c85e0-2",
+    "hero": "Kalea",
+    "name": "Kalea Naruto",
+    "type": "Original",
+    "role": [
+      "Fighter",
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/20250523_231524_4d31213a.jpg",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250523_231532_fa03187a.jpg",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/11skin_7ea38ccc.zip"
   }
 ]
