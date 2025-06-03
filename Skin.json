@@ -3,7 +3,7 @@
     "id": "Aamon-NQwA-ydywxKI90hc3gk",
     "hero": "Aamon",
     "name": "Aamon Skin",
-    "type": "Skin",
+    "type": "Original",
     "role": [
       "Assassin",
       "Mage"
@@ -16,7 +16,7 @@
     "id": "Aamon-lMHFfndyCF",
     "hero": "Aamon",
     "name": "Aamon Star",
-    "type": "Star",
+    "type": "Original",
     "role": [
       "Assassin",
       "Mage"
@@ -29,7 +29,7 @@
     "id": "Aamon-kWIoqMAZCT",
     "hero": "Aamon",
     "name": "Aamon Alhaitham",
-    "type": "Alhaitham",
+    "type": "Original",
     "role": [
       "Assassin",
       "Mage"
@@ -42,7 +42,7 @@
     "id": "Aamon-xzakYGzRUm",
     "hero": "Aamon",
     "name": "Aamon Soul Vessel",
-    "type": "Soul Vessel",
+    "type": "Original",
     "role": [
       "Assassin",
       "Mage"
@@ -55,7 +55,7 @@
     "id": "Akai-NQwB2sjLsuGu3HxeZ00",
     "hero": "Akai",
     "name": "Akai R",
-    "type": "R",
+    "type": "Original",
     "role": [
       "Tank",
       "Support"
@@ -68,7 +68,7 @@
     "id": "Akai-kegT8Ydvce",
     "hero": "Akai",
     "name": "Akai Kung Fu Pnada",
-    "type": "Kung Fu Pnada",
+    "type": "Original",
     "role": [
       "Tank",
       "Support"
@@ -81,7 +81,7 @@
     "id": "Akai-MoGTCVBFFb",
     "hero": "Akai",
     "name": "Akai Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Tank",
       "Support"
@@ -94,7 +94,7 @@
     "id": "Aldous-rShRF07U7b",
     "hero": "Aldous",
     "name": "Aldous Realm Watcher",
-    "type": "Realm Watcher",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -106,7 +106,7 @@
     "id": "Aldous-NQwB7zliG75hhqmHvod",
     "hero": "Aldous",
     "name": "Aldous",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Fighter"
     ],
@@ -118,7 +118,7 @@
     "id": "Aldous-vuJs3lTryo",
     "hero": "Aldous",
     "name": "Aldous transformers",
-    "type": "transformers",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -130,7 +130,7 @@
     "id": "Aldous-cIuV4srzzb",
     "hero": "Aldous",
     "name": "Aldous M1",
-    "type": "M1",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -142,7 +142,7 @@
     "id": "Aldous-VS4vaP95ae",
     "hero": "Aldous",
     "name": "Aldous Mistbender",
-    "type": "Mistbender",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -154,7 +154,7 @@
     "id": "Aldous-j9RDLRlMFg",
     "hero": "Aldous",
     "name": "Aldous Saitama",
-    "type": "Saitama",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -166,7 +166,7 @@
     "id": "Aldous-jyUibJpCPi",
     "hero": "Aldous",
     "name": "Aldous Blazing",
-    "type": "Blazing",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -178,7 +178,7 @@
     "id": "Aldous-Id4HJ4cm2Y",
     "hero": "Aldous",
     "name": "Aldous Starlight",
-    "type": "Starlight",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -190,7 +190,7 @@
     "id": "Aldous-S6iIGZM6vV",
     "hero": "Aldous",
     "name": "Aldous Dragon Fall Knight",
-    "type": "Dragon Fall Knight",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -202,7 +202,7 @@
     "id": "Alice-NQwBCOZe9rhmqupYRwV",
     "hero": "Alice",
     "name": "Alice",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Mage",
       "Tank"
@@ -215,7 +215,7 @@
     "id": "Alice-N9Hitmcdne",
     "hero": "Alice",
     "name": "Alice Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Mage",
       "Tank"
@@ -228,7 +228,7 @@
     "id": "Alice-BwhEWNozox",
     "hero": "Alice",
     "name": "Alice Star",
-    "type": "Star",
+    "type": "Original",
     "role": [
       "Mage",
       "Tank"
@@ -241,7 +241,7 @@
     "id": "Alice-FdNjMYOejr",
     "hero": "Alice",
     "name": "Alice Special",
-    "type": "Special",
+    "type": "Original",
     "role": [
       "Mage",
       "Tank"
@@ -254,7 +254,7 @@
     "id": "Alice-JGvd5FbK7r",
     "hero": "Alice",
     "name": "Alice Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Mage",
       "Tank"
@@ -267,7 +267,7 @@
     "id": "Alpha-IQZ8oFx35v",
     "hero": "Alpha",
     "name": "Alpha General Void",
-    "type": "General Void",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -279,7 +279,7 @@
     "id": "Alpha-NQwBFv6bxA3xR1aH_r0",
     "hero": "Alpha",
     "name": "Alpha",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Fighter"
     ],
@@ -291,7 +291,7 @@
     "id": "Alpha-mNJ132xbP8",
     "hero": "Alpha",
     "name": "Alpha Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -303,7 +303,7 @@
     "id": "Alpha-BszFskC1xX",
     "hero": "Alpha",
     "name": "Alpha Star",
-    "type": "Star",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -315,7 +315,7 @@
     "id": "Alpha-VuGYH57ne5",
     "hero": "Alpha",
     "name": "Alpha Collector",
-    "type": "Collector",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -327,7 +327,7 @@
     "id": "Alucard-syRKpPb0Mc",
     "hero": "Alucard",
     "name": "Alucard Obsidian Blade",
-    "type": "Obsidian Blade",
+    "type": "Original",
     "role": [
       "Fighter",
       "Assassin"
@@ -340,7 +340,7 @@
     "id": "Alucard-NQwBJ-7zl4JyA21DPYi",
     "hero": "Alucard",
     "name": "Alucard",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Fighter",
       "Assassin"
@@ -353,7 +353,7 @@
     "id": "Alucard-51pjAVTAnv",
     "hero": "Alucard",
     "name": "Alucard Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Fighter",
       "Assassin"
@@ -366,7 +366,7 @@
     "id": "Alucard-aMJx9JcH7a",
     "hero": "Alucard",
     "name": "Alucard Lightborn",
-    "type": "Lightborn",
+    "type": "Original",
     "role": [
       "Fighter",
       "Assassin"
@@ -379,7 +379,7 @@
     "id": "Alucard-LpkD9egPDR",
     "hero": "Alucard",
     "name": "Alucard Valentine",
-    "type": "Valentine",
+    "type": "Original",
     "role": [
       "Fighter",
       "Assassin"
@@ -392,7 +392,7 @@
     "id": "Alucard-G0mNNQGuQB",
     "hero": "Alucard",
     "name": "Alucard Tanjiro",
-    "type": "Tanjiro",
+    "type": "Original",
     "role": [
       "Fighter",
       "Assassin"
@@ -405,7 +405,7 @@
     "id": "Alucard-6Art1LCY7d",
     "hero": "Alucard",
     "name": "Alucard Star Wars",
-    "type": "Star Wars",
+    "type": "Original",
     "role": [
       "Fighter",
       "Assassin"
@@ -418,7 +418,7 @@
     "id": "Alucard-FkJNZovJBY",
     "hero": "Alucard",
     "name": "Alucard kyo kusanagi",
-    "type": "kyo kusanagi",
+    "type": "Original",
     "role": [
       "Fighter",
       "Assassin"
@@ -431,7 +431,7 @@
     "id": "Alucard-odYZ2RJkhZ",
     "hero": "Alucard",
     "name": "Alucard Rengoku",
-    "type": "Rengoku",
+    "type": "Original",
     "role": [
       "Fighter",
       "Assassin"
@@ -444,7 +444,7 @@
     "id": "Alucard-tluUXcaBKS",
     "hero": "Alucard",
     "name": "Alucard Shanks",
-    "type": "Shanks",
+    "type": "Original",
     "role": [
       "Fighter",
       "Assassin"
@@ -457,7 +457,7 @@
     "id": "Alucard-gIoI8BLAqr",
     "hero": "Alucard",
     "name": "Alucard Ichigo",
-    "type": "Ichigo",
+    "type": "Original",
     "role": [
       "Fighter",
       "Assassin"
@@ -470,7 +470,7 @@
     "id": "Angela-mlVbp7z6Bs",
     "hero": "Angela",
     "name": "Angela Heartstring",
-    "type": "Heartstring",
+    "type": "Original",
     "role": [
       "Support"
     ],
@@ -482,7 +482,7 @@
     "id": "Angela-NQwBikaPrtQLxuK0LYQ",
     "hero": "Angela",
     "name": "Angela",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Support"
     ],
@@ -494,7 +494,7 @@
     "id": "Angela-Ry31WbhBGJ",
     "hero": "Angela",
     "name": "Angela Aspirant",
-    "type": "Aspirant",
+    "type": "Original",
     "role": [
       "Support"
     ],
@@ -506,7 +506,7 @@
     "id": "Angela-bfn4z2tOXr",
     "hero": "Angela",
     "name": "Angela Annual star",
-    "type": "Annual star",
+    "type": "Original",
     "role": [
       "Support"
     ],
@@ -518,7 +518,7 @@
     "id": "Angela-slIShSSQ8J",
     "hero": "Angela",
     "name": "Angela Collector",
-    "type": "Collector",
+    "type": "Original",
     "role": [
       "Support"
     ],
@@ -530,7 +530,7 @@
     "id": "Angela-UzOl75tziw",
     "hero": "Angela",
     "name": "Angela Halloween",
-    "type": "Halloween",
+    "type": "Original",
     "role": [
       "Support"
     ],
@@ -542,7 +542,7 @@
     "id": "Angela-Z37eIDe7aa",
     "hero": "Angela",
     "name": "Angela Summer",
-    "type": "Summer",
+    "type": "Original",
     "role": [
       "Support"
     ],
@@ -554,7 +554,7 @@
     "id": "Angela-cJPSzPgfTK",
     "hero": "Angela",
     "name": "Angela V.E.N.O.M",
-    "type": "V.E.N.O.M",
+    "type": "Original",
     "role": [
       "Support"
     ],
@@ -566,7 +566,7 @@
     "id": "Angela-HcTfgNcNEr",
     "hero": "Angela",
     "name": "Angela Kishin Densetsu",
-    "type": "Kishin Densetsu",
+    "type": "Original",
     "role": [
       "Support"
     ],
@@ -578,7 +578,7 @@
     "id": "Argus-sHxZZv8vhM",
     "hero": "Argus",
     "name": "Argus Darth Vader",
-    "type": "Darth Vader",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -590,7 +590,7 @@
     "id": "Argus-NQwBlcXo9pbO-YRr7AX",
     "hero": "Argus",
     "name": "Argus",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Fighter"
     ],
@@ -602,7 +602,7 @@
     "id": "Argus-9Xyg9hxP3b",
     "hero": "Argus",
     "name": "Argus Star",
-    "type": "Star",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -614,7 +614,7 @@
     "id": "Arlott-NQwBrrcFLAubAhH9N0b",
     "hero": "Arlott",
     "name": "Arlott 1",
-    "type": "1",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -626,7 +626,7 @@
     "id": "Arlott-BsoB4sakKN",
     "hero": "Arlott",
     "name": "Arlott Arlot Lightning (Aneh Gaming)",
-    "type": "Arlot Lightning (Aneh Gaming)",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -638,7 +638,7 @@
     "id": "Arlott-yoL9Va5ini",
     "hero": "Arlott",
     "name": "Arlott Star",
-    "type": "Star",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -650,7 +650,7 @@
     "id": "Arlott-7Rof7FXqMD",
     "hero": "Arlott",
     "name": "Arlott Iguro Obanai",
-    "type": "Iguro Obanai",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -662,7 +662,7 @@
     "id": "Arlott-lqTPd6l6X1",
     "hero": "Arlott",
     "name": "Arlott Kirito",
-    "type": "Kirito",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -674,7 +674,7 @@
     "id": "Atlas-NQwByj2-Eqkl1Mx6fxe",
     "hero": "Atlas",
     "name": "Atlas",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Tank"
     ],
@@ -686,7 +686,7 @@
     "id": "Atlas-xI1fEnjrj7",
     "hero": "Atlas",
     "name": "Atlas Elite",
-    "type": "Elite",
+    "type": "Original",
     "role": [
       "Tank"
     ],
@@ -698,7 +698,7 @@
     "id": "Atlas-5ITfqXWj4N",
     "hero": "Atlas",
     "name": "Atlas Star",
-    "type": "Star",
+    "type": "Original",
     "role": [
       "Tank"
     ],
@@ -710,7 +710,7 @@
     "id": "Atlas-VbyEBTJ8CQ",
     "hero": "Atlas",
     "name": "Atlas MSC",
-    "type": "MSC",
+    "type": "Original",
     "role": [
       "Tank"
     ],
@@ -722,7 +722,7 @@
     "id": "Atlas-6Qu5Tr2RzL",
     "hero": "Atlas",
     "name": "Atlas Collector",
-    "type": "Collector",
+    "type": "Original",
     "role": [
       "Tank"
     ],
@@ -734,7 +734,7 @@
     "id": "Aulus-NQwC0XRp2JuJ6JrTg2R",
     "hero": "Aulus",
     "name": "Aulus",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Fighter"
     ],
@@ -746,7 +746,7 @@
     "id": "Aulus-FIN5NTeJjE",
     "hero": "Aulus",
     "name": "Aulus Special",
-    "type": "Special",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -758,7 +758,7 @@
     "id": "Aulus-n7VFfKi7KY",
     "hero": "Aulus",
     "name": "Aulus Basic",
-    "type": "Basic",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -770,7 +770,7 @@
     "id": "Aulus-CSdLe4w2tp",
     "hero": "Aulus",
     "name": "Aulus Elite",
-    "type": "Elite",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -782,7 +782,7 @@
     "id": "Aurora-NQwC31v0qloYxDI65pB",
     "hero": "Aurora",
     "name": "Aurora",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Mage"
     ],
@@ -794,7 +794,7 @@
     "id": "Aurora-GHFhXIB7D0",
     "hero": "Aurora",
     "name": "Aurora Kula Diamond",
-    "type": "Kula Diamond",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -806,7 +806,7 @@
     "id": "Aurora-YMZcxAmNvR",
     "hero": "Aurora",
     "name": "Aurora Zodiac",
-    "type": "Zodiac",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -818,7 +818,7 @@
     "id": "Aurora-Qw636RF2xN",
     "hero": "Aurora",
     "name": "Aurora Conan",
-    "type": "Conan",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -830,7 +830,7 @@
     "id": "Aurora-Ul3Tvxj6Rd",
     "hero": "Aurora",
     "name": "Aurora Collector",
-    "type": "Collector",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -842,7 +842,7 @@
     "id": "Badang-NQwCJx3whcYI75w6Ua9",
     "hero": "Badang",
     "name": "Badang",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Fighter"
     ],
@@ -854,7 +854,7 @@
     "id": "Badang-38kzEzWy5a",
     "hero": "Badang",
     "name": "Badang saint seiya",
-    "type": "saint seiya",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -866,7 +866,7 @@
     "id": "Badang-PRK2wgUTk5",
     "hero": "Badang",
     "name": "Badang Collector",
-    "type": "Collector",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -878,7 +878,7 @@
     "id": "Badang-i8kaatDLdU",
     "hero": "Badang",
     "name": "Badang Zodiac",
-    "type": "Zodiac",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -890,7 +890,7 @@
     "id": "Badang-JdiPCghzBB",
     "hero": "Badang",
     "name": "Badang Neji",
-    "type": "Neji",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -902,7 +902,7 @@
     "id": "Badang-jpA4Y5dDiu",
     "hero": "Badang",
     "name": "Badang Genos",
-    "type": "Genos",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -914,7 +914,7 @@
     "id": "Badang-LIC84QsI33",
     "hero": "Badang",
     "name": "Badang Madara",
-    "type": "Madara",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -926,7 +926,7 @@
     "id": "Badang-uXcSL1rVhU",
     "hero": "Badang",
     "name": "Badang Pegasus Seiya",
-    "type": "Pegasus Seiya",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -938,7 +938,7 @@
     "id": "Badang-e2qLvUD6oT",
     "hero": "Badang",
     "name": "Badang akaza",
-    "type": "akaza",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -950,7 +950,7 @@
     "id": "Balerick-NQwCMEhvMg248ERAJQZ",
     "hero": "Balerick",
     "name": "Balerick",
-    "type": "Original",
+    "type": "Backup",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Belerick.png/revision/latest?cb=20191129092353",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Belerick.png/revision/latest?cb=20191129092353",
@@ -960,7 +960,7 @@
     "id": "Balerick-bxs90qzP4T",
     "hero": "Balerick",
     "name": "Balerick Elite",
-    "type": "Elite",
+    "type": "Original",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Torch_Guardian_%28rework%29.jpg/revision/latest?cb=20211222023805",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Torch_Guardian_%28rework%29.jpg/revision/latest?cb=20211222023805",
@@ -970,7 +970,7 @@
     "id": "Balerick-RNpmOmlNPm",
     "hero": "Balerick",
     "name": "Balerick Special",
-    "type": "Special",
+    "type": "Original",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Emerald_Guardian.jpg/revision/latest?cb=20220324085057",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Emerald_Guardian.jpg/revision/latest?cb=20220324085057",
@@ -980,7 +980,7 @@
     "id": "Balmond-NQwCOpt1B3h6oEM2gbO",
     "hero": "Balmond",
     "name": "Balmond",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Fighter",
       "Tank"
@@ -993,7 +993,7 @@
     "id": "Balmond-FMbNsbAq8k",
     "hero": "Balmond",
     "name": "Balmond Collector",
-    "type": "Collector",
+    "type": "Original",
     "role": [
       "Fighter",
       "Tank"
@@ -1006,7 +1006,7 @@
     "id": "Balmond-AnvW81tIqT",
     "hero": "Balmond",
     "name": "Balmond Special",
-    "type": "Special",
+    "type": "Original",
     "role": [
       "Fighter",
       "Tank"
@@ -1019,7 +1019,7 @@
     "id": "Balmond-0hfheCXaGk",
     "hero": "Balmond",
     "name": "Balmond Starlight",
-    "type": "Starlight",
+    "type": "Original",
     "role": [
       "Fighter",
       "Tank"
@@ -1032,7 +1032,7 @@
     "id": "Balmond-yehmOJbfEs",
     "hero": "Balmond",
     "name": "Balmond Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Fighter",
       "Tank"
@@ -1045,7 +1045,7 @@
     "id": "Bane-NQwCROSU0-EhAvdhiBw",
     "hero": "Bane",
     "name": "Bane",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Fighter",
       "Mage"
@@ -1058,7 +1058,7 @@
     "id": "Bane-fYj1JFUbCG",
     "hero": "Bane",
     "name": "Bane Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Fighter",
       "Mage"
@@ -1071,7 +1071,7 @@
     "id": "Barats-NQwCTd8il-x5XE7DceG",
     "hero": "Barats",
     "name": "Barats",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Tank",
       "Fighter"
@@ -1084,7 +1084,7 @@
     "id": "Barats-8SUStg8Qju",
     "hero": "Barats",
     "name": "Barats Colossal Titan",
-    "type": "Colossal Titan",
+    "type": "Original",
     "role": [
       "Tank",
       "Fighter"
@@ -1097,7 +1097,7 @@
     "id": "Baxia-NQwCW82bXXuTRH2S1oV",
     "hero": "Baxia",
     "name": "Baxia",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Tank"
     ],
@@ -1109,7 +1109,7 @@
     "id": "Baxia-jbKk0PwOru",
     "hero": "Baxia",
     "name": "Baxia Special",
-    "type": "Special",
+    "type": "Original",
     "role": [
       "Tank"
     ],
@@ -1121,7 +1121,7 @@
     "id": "Beatrix-svmEwjpGiP",
     "hero": "Beatrix",
     "name": "Beatrix",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Marksman"
     ],
@@ -1133,7 +1133,7 @@
     "id": "Beatrix-1yPvb7746z",
     "hero": "Beatrix",
     "name": "Beatrix Star",
-    "type": "Star",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -1145,7 +1145,7 @@
     "id": "Beatrix-nVIPKthh92",
     "hero": "Beatrix",
     "name": "Beatrix Elite",
-    "type": "Elite",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -1157,7 +1157,7 @@
     "id": "Beatrix-fAqF1eGZAq",
     "hero": "Beatrix",
     "name": "Beatrix M4",
-    "type": "M4",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -1169,7 +1169,7 @@
     "id": "Beatrix-ykfOwRMn1g",
     "hero": "Beatrix",
     "name": "Beatrix Vibrant Fiesta",
-    "type": "Vibrant Fiesta",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -1181,7 +1181,7 @@
     "id": "Beatrix-X4XHSTQCsH",
     "hero": "Beatrix",
     "name": "Beatrix Prime",
-    "type": "Prime",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -1193,7 +1193,7 @@
     "id": "Benedetta-IU0LM3saZg",
     "hero": "Benedetta",
     "name": "Benedetta Death Oath",
-    "type": "Death Oath",
+    "type": "Original",
     "role": [
       "Assassin",
       "Fighter"
@@ -1206,7 +1206,7 @@
     "id": "Benedetta-uBkMblVEeu",
     "hero": "Benedetta",
     "name": "Benedetta Panigale V4S Rider",
-    "type": "Panigale V4S Rider",
+    "type": "Original",
     "role": [
       "Assassin",
       "Fighter"
@@ -1219,7 +1219,7 @@
     "id": "Benedetta-NQwChQs9vtZLB3S2RHf",
     "hero": "Benedetta",
     "name": "Benedetta Skin",
-    "type": "Skin",
+    "type": "Original",
     "role": [
       "Assassin",
       "Fighter"
@@ -1232,7 +1232,7 @@
     "id": "Benedetta-oqxPC4iTvh",
     "hero": "Benedetta",
     "name": "Benedetta Okita Souji",
-    "type": "Okita Souji",
+    "type": "Original",
     "role": [
       "Assassin",
       "Fighter"
@@ -1245,7 +1245,7 @@
     "id": "Benedetta-beQD72S5UK",
     "hero": "Benedetta",
     "name": "Benedetta Shinobu",
-    "type": "Shinobu",
+    "type": "Original",
     "role": [
       "Assassin",
       "Fighter"
@@ -1258,7 +1258,7 @@
     "id": "Benedetta-y5vPXlO8Ym",
     "hero": "Benedetta",
     "name": "Benedetta Special",
-    "type": "Special",
+    "type": "Original",
     "role": [
       "Assassin",
       "Fighter"
@@ -1271,7 +1271,7 @@
     "id": "Benedetta-IwqeS1fDCw",
     "hero": "Benedetta",
     "name": "Benedetta Starlight",
-    "type": "Starlight",
+    "type": "Original",
     "role": [
       "Assassin",
       "Fighter"
@@ -1284,7 +1284,7 @@
     "id": "Benedetta-LhdltaeR1d",
     "hero": "Benedetta",
     "name": "Benedetta MPL",
-    "type": "MPL",
+    "type": "Original",
     "role": [
       "Assassin",
       "Fighter"
@@ -1297,7 +1297,7 @@
     "id": "Brody-pDI7P6fsr3",
     "hero": "Brody",
     "name": "Brody Ore-chemist",
-    "type": "Ore-chemist",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -1309,7 +1309,7 @@
     "id": "Brody-NQwCk7Uhdo1Z0hg2iPr",
     "hero": "Brody",
     "name": "Brody",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Marksman"
     ],
@@ -1321,7 +1321,7 @@
     "id": "Brody-BZdZK2LiTs",
     "hero": "Brody",
     "name": "Brody S.T.U.N",
-    "type": "S.T.U.N",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -1333,7 +1333,7 @@
     "id": "Brody-1GD9dr7SDg",
     "hero": "Brody",
     "name": "Brody MPL",
-    "type": "MPL",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -1345,7 +1345,7 @@
     "id": "Brody-hIYAqTK113",
     "hero": "Brody",
     "name": "Brody Star",
-    "type": "Star",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -1357,7 +1357,7 @@
     "id": "Bruno-NQwCmhN3cqNac3QgcLZ",
     "hero": "Bruno",
     "name": "Bruno",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Marksman"
     ],
@@ -1369,7 +1369,7 @@
     "id": "Bruno-gJ0IQCtmsQ",
     "hero": "Bruno",
     "name": "Bruno Firebolt",
-    "type": "Firebolt",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -1381,7 +1381,7 @@
     "id": "Bruno-h2YcPyNSqA",
     "hero": "Bruno",
     "name": "Bruno Tsubasa",
-    "type": "Tsubasa",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -1393,7 +1393,7 @@
     "id": "Bruno-oLNhnaITPG",
     "hero": "Bruno",
     "name": "Bruno Hello Striker",
-    "type": "Hello Striker",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -1405,7 +1405,7 @@
     "id": "Bruno-GAjFVWc7RS",
     "hero": "Bruno",
     "name": "Bruno Star",
-    "type": "Star",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -1417,7 +1417,7 @@
     "id": "Carmilla-NQwCpV0Q8_DcEV-Rq14",
     "hero": "Carmilla",
     "name": "Carmilla",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Support"
     ],
@@ -1429,7 +1429,7 @@
     "id": "Carmilla-5fjjDqeBQZ",
     "hero": "Carmilla",
     "name": "Carmilla Valentine",
-    "type": "Valentine",
+    "type": "Original",
     "role": [
       "Support"
     ],
@@ -1441,7 +1441,7 @@
     "id": "Carmilla-8bnsCZsJ4w",
     "hero": "Carmilla",
     "name": "Carmilla Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Support"
     ],
@@ -1453,7 +1453,7 @@
     "id": "Cecilion-NQwCsIVO8PK-1ksTqON",
     "hero": "Cecilion",
     "name": "Cecilion",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Mage"
     ],
@@ -1465,7 +1465,7 @@
     "id": "Cecilion-g3tB7vYUbx",
     "hero": "Cecilion",
     "name": "Cecilion Collector",
-    "type": "Collector",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -1477,7 +1477,7 @@
     "id": "Cecilion-Zk4lI6IhEo",
     "hero": "Cecilion",
     "name": "Cecilion Elite",
-    "type": "Elite",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -1489,7 +1489,7 @@
     "id": "Cecilion-uvIMfnKJPQ",
     "hero": "Cecilion",
     "name": "Cecilion Valentine",
-    "type": "Valentine",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -1501,7 +1501,7 @@
     "id": "Cecilion-URjVJ0hW91",
     "hero": "Cecilion",
     "name": "Cecilion Star",
-    "type": "Star",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -1513,7 +1513,7 @@
     "id": "Cecilion-1bqbmGt1ZE",
     "hero": "Cecilion",
     "name": "Cecilion Geto",
-    "type": "Geto",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -1525,7 +1525,7 @@
     "id": "Chang'e-NQwCvJPOhZyGOlrK6h4",
     "hero": "Chang'e",
     "name": "Chang'e",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Mage"
     ],
@@ -1537,7 +1537,7 @@
     "id": "Chang'e-6wXHE7hqSn",
     "hero": "Chang'e",
     "name": "Chang'e Sanrio",
-    "type": "Sanrio",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -1549,7 +1549,7 @@
     "id": "Chang'e-EtFWCO2RLx",
     "hero": "Chang'e",
     "name": "Chang'e Lunar Fest",
-    "type": "Lunar Fest",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -1561,7 +1561,7 @@
     "id": "Chang'e-hmokFw0piQ",
     "hero": "Chang'e",
     "name": "Chang'e Aspirant",
-    "type": "Aspirant ",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -1573,7 +1573,7 @@
     "id": "Chang'e-QJzNDaBthm",
     "hero": "Chang'e",
     "name": "Chang'e Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -1585,7 +1585,7 @@
     "id": "Chang'e-oUvOLiLIW8",
     "hero": "Chang'e",
     "name": "Chang'e Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -1597,7 +1597,7 @@
     "id": "Chip-fQ5Wyr8t8d",
     "hero": "Chip",
     "name": "Chip Skin",
-    "type": "Skin",
+    "type": "Original",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero1241-portrait.png/revision/latest?cb=20240321084340",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero1241-portrait.png/revision/latest?cb=20240321084340",
@@ -1607,7 +1607,7 @@
     "id": "Chou-pzv7nlUVAE",
     "hero": "Chou",
     "name": "Chou Iori Yagami",
-    "type": "Iori Yagami",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -1619,7 +1619,7 @@
     "id": "Chou-M3EjxJk3CA",
     "hero": "Chou",
     "name": "Chou ECHO",
-    "type": "ECHO",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -1631,7 +1631,7 @@
     "id": "Chou-r",
     "hero": "Chou",
     "name": "Chou",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Fighter"
     ],
@@ -1643,7 +1643,7 @@
     "id": "Chou-X2P7szOdud",
     "hero": "Chou",
     "name": "Chou Saint Seiya",
-    "type": "Saint Seiya",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -1655,7 +1655,7 @@
     "id": "Chou-rjlTd3JOeB",
     "hero": "Chou",
     "name": "Chou S.T.U.N",
-    "type": "S.T.U.N",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -1667,7 +1667,7 @@
     "id": "Chou-81Ykulxgiz",
     "hero": "Chou",
     "name": "Chou Zero One",
-    "type": "Zero One",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -1679,7 +1679,7 @@
     "id": "Chou-usokSRf87P",
     "hero": "Chou",
     "name": "Chou Rock Lee",
-    "type": "Rock Lee",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -1691,7 +1691,7 @@
     "id": "Chou-oUgXTO1AaF",
     "hero": "Chou",
     "name": "Chou Eren",
-    "type": "Eren",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -1703,7 +1703,7 @@
     "id": "Chou-HFKbAyLzSp",
     "hero": "Chou",
     "name": "Chou Armored Titan",
-    "type": "Armored Titan",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -1715,7 +1715,7 @@
     "id": "Chou-c9dW0YQZp7",
     "hero": "Chou",
     "name": "Chou Itadori",
-    "type": "Itadori",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -1727,7 +1727,7 @@
     "id": "Chou-ULhyE58qZ4",
     "hero": "Chou",
     "name": "Chou Dragon Shiryu",
-    "type": "Dragon Shiryu",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -1739,7 +1739,7 @@
     "id": "Chou-s4WaNA0tJa",
     "hero": "Chou",
     "name": "Chou Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -1751,7 +1751,7 @@
     "id": "Chou-uTmhwjb5cg",
     "hero": "Chou",
     "name": "Chou Dawning",
-    "type": "Dawning",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -1763,7 +1763,7 @@
     "id": "Chou-0yLdu79ug3",
     "hero": "Chou",
     "name": "Chou Starlight",
-    "type": "Starlight",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -1775,7 +1775,7 @@
     "id": "Chou-1xH3Y1oLRT",
     "hero": "Chou",
     "name": "Chou Sanji",
-    "type": "Sanji",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -1787,7 +1787,7 @@
     "id": "Chou-fngGFwnwnG",
     "hero": "Chou",
     "name": "Chou yuji",
-    "type": "yuji",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -1799,7 +1799,7 @@
     "id": "Cici-Bkoamu72LR",
     "hero": "Cici",
     "name": "Cici Skin",
-    "type": "Skin",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -1811,7 +1811,7 @@
     "id": "Cici-nghgg0jkQe",
     "hero": "Cici",
     "name": "Cici Basic",
-    "type": "Basic",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -1823,7 +1823,7 @@
     "id": "Claude-Re8eR0TVFQ",
     "hero": "Claude",
     "name": "Claude Heaart Aflame",
-    "type": "Heaart Aflame",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -1835,7 +1835,7 @@
     "id": "Claude-hks2dvJTgy",
     "hero": "Claude",
     "name": "Claude bad bro",
-    "type": "bad bro",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -1847,7 +1847,7 @@
     "id": "Claude-NQwD6YWOextsnmuOPz0",
     "hero": "Claude",
     "name": "Claude",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Marksman"
     ],
@@ -1859,7 +1859,7 @@
     "id": "Claude-0044KiRM6g",
     "hero": "Claude",
     "name": "Claude Christmas",
-    "type": "Christmas",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -1871,7 +1871,7 @@
     "id": "Claude-bWZVrlp9l5",
     "hero": "Claude",
     "name": "Claude Konohamaru",
-    "type": "Konohamaru",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -1883,7 +1883,7 @@
     "id": "Claude-2qGMF0h1Y1",
     "hero": "Claude",
     "name": "Claude Blazing",
-    "type": "Blazing",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -1895,7 +1895,7 @@
     "id": "Claude-GJ5cp5NYXK",
     "hero": "Claude",
     "name": "Claude Summer",
-    "type": "Summer",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -1907,7 +1907,7 @@
     "id": "Claude-cmD0f6kxa9",
     "hero": "Claude",
     "name": "Claude Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -1919,7 +1919,7 @@
     "id": "Clint-lxnSpJxjoI",
     "hero": "Clint",
     "name": "Clint Collector",
-    "type": "Collector",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -1931,7 +1931,7 @@
     "id": "Clint-DuMcyAyCOn",
     "hero": "Clint",
     "name": "Clint M2",
-    "type": "M2",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -1943,7 +1943,7 @@
     "id": "Clint-s9z2DfrCCq",
     "hero": "Clint",
     "name": "Clint Special",
-    "type": "Special",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -1955,7 +1955,7 @@
     "id": "Clint-SpDb3fhgg2",
     "hero": "Clint",
     "name": "Clint Star",
-    "type": "Star",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -1967,7 +1967,7 @@
     "id": "Clint-urvVLo3F2E",
     "hero": "Clint",
     "name": "Clint Skin",
-    "type": "Skin",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -1979,7 +1979,7 @@
     "id": "Clint-7f221WUEd8",
     "hero": "Clint",
     "name": "Clint Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -1991,7 +1991,7 @@
     "id": "Cyclops-NQwDB0rwo5UDzfiQf9v",
     "hero": "Cyclops",
     "name": "Cyclops",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Mage"
     ],
@@ -2003,7 +2003,7 @@
     "id": "Cyclops-zlJbuEB8DG",
     "hero": "Cyclops",
     "name": "Cyclops Stars War",
-    "type": "Stars War",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -2015,7 +2015,7 @@
     "id": "Cyclops-LCTdNEsVHk",
     "hero": "Cyclops",
     "name": "Cyclops Collector",
-    "type": "Collector",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -2027,7 +2027,7 @@
     "id": "Cyclops-u3kEChYfA6",
     "hero": "Cyclops",
     "name": "Cyclops Halloween",
-    "type": "Halloween",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -2039,7 +2039,7 @@
     "id": "Diggie-NQwFIXKdKv2dAx07faR",
     "hero": "Diggie",
     "name": "Diggie",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Support"
     ],
@@ -2051,7 +2051,7 @@
     "id": "Diggie-yq1d6cAgO6",
     "hero": "Diggie",
     "name": "Diggie Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Support"
     ],
@@ -2063,7 +2063,7 @@
     "id": "Dyrroth-EqrmEgTEbe",
     "hero": "Dyrroth",
     "name": "Dyrroth Naraka Flame",
-    "type": "Naraka Flame",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -2075,7 +2075,7 @@
     "id": "Dyrroth-Mn0Qg8PuWD",
     "hero": "Dyrroth",
     "name": "Dyrroth",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Fighter"
     ],
@@ -2087,7 +2087,7 @@
     "id": "Dyrroth-4j5GDWlbKT",
     "hero": "Dyrroth",
     "name": "Dyrroth KOF",
-    "type": "KOF",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -2099,7 +2099,7 @@
     "id": "Dyrroth-fCC9SYd45Q",
     "hero": "Dyrroth",
     "name": "Dyrroth Kaneki",
-    "type": "Kaneki",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -2111,7 +2111,7 @@
     "id": "Dyrroth-DsOeL84LBD",
     "hero": "Dyrroth",
     "name": "Dyrroth Killua Zolydick",
-    "type": "Killua Zolydick",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -2123,7 +2123,7 @@
     "id": "Dyrroth-htMFiD1YZC",
     "hero": "Dyrroth",
     "name": "Dyrroth Lightborn fan art",
-    "type": "Lightborn fan art",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -2135,7 +2135,7 @@
     "id": "Dyrroth-B3YQJr7fnH",
     "hero": "Dyrroth",
     "name": "Dyrroth Starlight",
-    "type": "Starlight",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -2147,7 +2147,7 @@
     "id": "Dyrroth-sqyT0VqL0w",
     "hero": "Dyrroth",
     "name": "Dyrroth Venom",
-    "type": "Venom",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -2159,7 +2159,7 @@
     "id": "Dyrroth-re0aJ3B9W5",
     "hero": "Dyrroth",
     "name": "Dyrroth Sasuke",
-    "type": "Sasuke",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -2171,7 +2171,7 @@
     "id": "Edith-zrNC83x5jn",
     "hero": "Edith",
     "name": "Edith Beyond Clouds",
-    "type": "Beyond Clouds",
+    "type": "Original",
     "role": [
       "Tank",
       "Marksman"
@@ -2184,7 +2184,7 @@
     "id": "Edith-NQwFTSCkLiTjkbWyC9z",
     "hero": "Edith",
     "name": "Edith",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Tank",
       "Marksman"
@@ -2197,7 +2197,7 @@
     "id": "Edith-hJ7FwJVQ4M",
     "hero": "Edith",
     "name": "Edith Star",
-    "type": "Star",
+    "type": "Original",
     "role": [
       "Tank",
       "Marksman"
@@ -2210,7 +2210,7 @@
     "id": "Edith-bMtRkSrPVW",
     "hero": "Edith",
     "name": "Edith Collector",
-    "type": "Collector",
+    "type": "Original",
     "role": [
       "Tank",
       "Marksman"
@@ -2223,7 +2223,7 @@
     "id": "Esmeralda-NQwFWLb85-PeAuURlWd",
     "hero": "Esmeralda",
     "name": "Esmeralda",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Mage",
       "Tank"
@@ -2236,7 +2236,7 @@
     "id": "Esmeralda-EeoLQRzw5q",
     "hero": "Esmeralda",
     "name": "Esmeralda Dawning",
-    "type": "Dawning",
+    "type": "Original",
     "role": [
       "Mage",
       "Tank"
@@ -2249,7 +2249,7 @@
     "id": "Esmeralda-KgEs6dogFA",
     "hero": "Esmeralda",
     "name": "Esmeralda Collector",
-    "type": "Collector",
+    "type": "Original",
     "role": [
       "Mage",
       "Tank"
@@ -2262,7 +2262,7 @@
     "id": "Esmeralda-mIWfEymVWa",
     "hero": "Esmeralda",
     "name": "Esmeralda Blazing",
-    "type": "Blazing",
+    "type": "Original",
     "role": [
       "Mage",
       "Tank"
@@ -2275,7 +2275,7 @@
     "id": "Esmeralda-cZXTpCyFwL",
     "hero": "Esmeralda",
     "name": "Esmeralda All Star",
-    "type": "All Star",
+    "type": "Original",
     "role": [
       "Mage",
       "Tank"
@@ -2288,7 +2288,7 @@
     "id": "Estes-NQwFZK7zuy3nL4S8wuf",
     "hero": "Estes",
     "name": "Estes",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Support"
     ],
@@ -2300,7 +2300,7 @@
     "id": "Estes-XN658eK9WD",
     "hero": "Estes",
     "name": "Estes Dragon Tamer",
-    "type": "Dragon Tamer",
+    "type": "Original",
     "role": [
       "Support"
     ],
@@ -2312,7 +2312,7 @@
     "id": "Estes-wHi3sUQR1b",
     "hero": "Estes",
     "name": "Estes Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Support"
     ],
@@ -2324,7 +2324,7 @@
     "id": "Estes-zY7SnNCuGu",
     "hero": "Estes",
     "name": "Estes Champion",
-    "type": "Champion",
+    "type": "Original",
     "role": [
       "Support"
     ],
@@ -2336,7 +2336,7 @@
     "id": "Estes-tEhnv851hI",
     "hero": "Estes",
     "name": "Estes Sparkle",
-    "type": "Sparkle",
+    "type": "Original",
     "role": [
       "Support"
     ],
@@ -2348,7 +2348,7 @@
     "id": "Eudora-NQwFaebjVb8I-G90Tyt",
     "hero": "Eudora",
     "name": "Eudora",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Mage"
     ],
@@ -2360,7 +2360,7 @@
     "id": "Eudora-XdViNO9Ufg",
     "hero": "Eudora",
     "name": "Eudora Atomic",
-    "type": "Atomic",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -2372,7 +2372,7 @@
     "id": "Eudora-Fe4911Euel",
     "hero": "Eudora",
     "name": "Eudora Christmas",
-    "type": "Christmas",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -2384,7 +2384,7 @@
     "id": "Eudora-26zr99TQZ1",
     "hero": "Eudora",
     "name": "Eudora Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -2396,7 +2396,7 @@
     "id": "Eudora-nvEMOWvD37",
     "hero": "Eudora",
     "name": "Eudora Limited",
-    "type": "Limited",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -2408,7 +2408,7 @@
     "id": "Fanny-NQwFczlPbDLlvDklebY",
     "hero": "Fanny",
     "name": "Fanny",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Assassin"
     ],
@@ -2420,7 +2420,7 @@
     "id": "Fanny-gC2aHDKWqD",
     "hero": "Fanny",
     "name": "Fanny Aspirants",
-    "type": "Aspirants",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -2432,7 +2432,7 @@
     "id": "Fanny-eJSglWoZz1",
     "hero": "Fanny",
     "name": "Fanny Skylark",
-    "type": "Skylark",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -2444,7 +2444,7 @@
     "id": "Fanny-0aHb9RBlGA",
     "hero": "Fanny",
     "name": "Fanny valentine",
-    "type": "valentine",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -2456,7 +2456,7 @@
     "id": "Fanny-ipHpbDrfWp",
     "hero": "Fanny",
     "name": "Fanny Christmas",
-    "type": "Christmas",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -2468,7 +2468,7 @@
     "id": "Fanny-xIVHUyq7PB",
     "hero": "Fanny",
     "name": "Fanny Lightborn",
-    "type": "Lightborn",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -2480,7 +2480,7 @@
     "id": "Fanny-MuWJYtReMy",
     "hero": "Fanny",
     "name": "Fanny Summer",
-    "type": "Summer",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -2492,7 +2492,7 @@
     "id": "Fanny-YhxufX2lyi",
     "hero": "Fanny",
     "name": "Fanny Mikasa",
-    "type": "Mikasa",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -2504,7 +2504,7 @@
     "id": "Faramis-NQwFfLwiBEoGxQoBup0",
     "hero": "Faramis",
     "name": "Faramis",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Mage",
       "Support"
@@ -2517,7 +2517,7 @@
     "id": "Faramis-Qqt7GaVGCh",
     "hero": "Faramis",
     "name": "Faramis Mythic",
-    "type": "Mythic",
+    "type": "Original",
     "role": [
       "Mage",
       "Support"
@@ -2530,7 +2530,7 @@
     "id": "Faramis-d4HbxolLZG",
     "hero": "Faramis",
     "name": "Faramis Summer",
-    "type": "Summer",
+    "type": "Original",
     "role": [
       "Mage",
       "Support"
@@ -2543,7 +2543,7 @@
     "id": "Floryn-NQwFheKjRPYH4e5kPE0",
     "hero": "Floryn",
     "name": "Floryn",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Support"
     ],
@@ -2555,7 +2555,7 @@
     "id": "Floryn-6AjGXQzoQl",
     "hero": "Floryn",
     "name": "Floryn Sanrio",
-    "type": "Sanrio",
+    "type": "Original",
     "role": [
       "Support"
     ],
@@ -2567,7 +2567,7 @@
     "id": "Floryn-zFlFRYIsiT",
     "hero": "Floryn",
     "name": "Floryn Elite",
-    "type": "Elite",
+    "type": "Original",
     "role": [
       "Support"
     ],
@@ -2579,7 +2579,7 @@
     "id": "Floryn-iZcbBuXaMD",
     "hero": "Floryn",
     "name": "Floryn Summer",
-    "type": "Summer",
+    "type": "Original",
     "role": [
       "Support"
     ],
@@ -2591,7 +2591,7 @@
     "id": "Franco-bOQkqXBC1k",
     "hero": "Franco",
     "name": "Franco",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Tank"
     ],
@@ -2603,7 +2603,7 @@
     "id": "Franco-55k54xRfdb",
     "hero": "Franco",
     "name": "Franco Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Tank"
     ],
@@ -2615,7 +2615,7 @@
     "id": "Franco-yQSQROZUE8",
     "hero": "Franco",
     "name": "Franco Blazing",
-    "type": "Blazing",
+    "type": "Original",
     "role": [
       "Tank"
     ],
@@ -2627,7 +2627,7 @@
     "id": "Franco-DJ3F54BlCr",
     "hero": "Franco",
     "name": "Franco Special",
-    "type": "Special",
+    "type": "Original",
     "role": [
       "Tank"
     ],
@@ -2639,7 +2639,7 @@
     "id": "Franco-CinpptJxNi",
     "hero": "Franco",
     "name": "Franco Legend",
-    "type": "Legend",
+    "type": "Original",
     "role": [
       "Tank"
     ],
@@ -2651,7 +2651,7 @@
     "id": "Fredrin-LFbiukm1Fi",
     "hero": "Fredrin",
     "name": "Fredrin Neobeast",
-    "type": "Neobeast",
+    "type": "Original",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero1174-portrait.png/revision/latest?cb=20230805043932",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero1174-portrait.png/revision/latest?cb=20230805043932",
@@ -2661,7 +2661,7 @@
     "id": "Fredrin-C1V41292f7",
     "hero": "Fredrin",
     "name": "Fredrin Skins",
-    "type": "Skins",
+    "type": "Original",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero1171-portrait.png/revision/latest?cb=20240114032237",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero1171-portrait.png/revision/latest?cb=20240114032237",
@@ -2671,7 +2671,7 @@
     "id": "Fredrin-H5mm51BL7K",
     "hero": "Fredrin",
     "name": "Fredrin *Sparkle*",
-    "type": "*Sparkle*",
+    "type": "Original",
     "role": [],
     "img1": "https://raw.githubusercontent.com/rahasia55/tes/main/fredrinn%20sparkle.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/fredrinn%20sparkle.png",
@@ -2681,7 +2681,7 @@
     "id": "Freya-NQwFmkLOo_fjLX7Wa82",
     "hero": "Freya",
     "name": "Freya",
-    "type": "Original",
+    "type": "Backup",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero221-portrait.png/revision/latest?cb=20231230160944",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero221-portrait.png/revision/latest?cb=20231230160944",
@@ -2691,7 +2691,7 @@
     "id": "Freya-O0pI0Vp3Fd",
     "hero": "Freya",
     "name": "Freya Freya Legend",
-    "type": "Freya Legend",
+    "type": "Original",
     "role": [],
     "img1": "https://raw.githubusercontent.com/AnehGamingOfficial/temp-ml/main/temp/iyk62r1izkimages%20(37)-picsay.png",
     "img2": "https://raw.githubusercontent.com/AnehGamingOfficial/temp-ml/main/temp/iyk62r1izkimages%20(37)-picsay.png",
@@ -2701,7 +2701,7 @@
     "id": "Freya-DiJ7oiLLcb",
     "hero": "Freya",
     "name": "Freya Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero228-portrait.png/revision/latest?cb=20220525164807",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero228-portrait.png/revision/latest?cb=20220525164807",
@@ -2711,7 +2711,7 @@
     "id": "Freya-JuywDKtKFX",
     "hero": "Freya",
     "name": "Freya S.A.B.E.R",
-    "type": "S.A.B.E.R",
+    "type": "Original",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero229-portrait.png/revision/latest?cb=20220525164809",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero229-portrait.png/revision/latest?cb=20220525164809",
@@ -2721,7 +2721,7 @@
     "id": "Freya-gFOZZICMB5",
     "hero": "Freya",
     "name": "Freya Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [],
     "img1": "https://pbs.twimg.com/media/GS0eS07bcAE5mVV?format=jpg&name=4096x4096",
     "img2": "https://pbs.twimg.com/media/GS0eS07bcAE5mVV?format=jpg&name=4096x4096",
@@ -2731,7 +2731,7 @@
     "id": "Gatotkaca-NQwFouOM-Rm-btQlWKR",
     "hero": "Gatotkaca",
     "name": "Gatotkaca",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Tank",
       "Fighter"
@@ -2744,7 +2744,7 @@
     "id": "Gatotkaca-UO5j94JBlk",
     "hero": "Gatotkaca",
     "name": "Gatotkaca Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Tank",
       "Fighter"
@@ -2757,7 +2757,7 @@
     "id": "Gatotkaca-rDoNS1UBPC",
     "hero": "Gatotkaca",
     "name": "Gatotkaca Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Tank",
       "Fighter"
@@ -2770,7 +2770,7 @@
     "id": "Gatotkaca-FIXxWZGibr",
     "hero": "Gatotkaca",
     "name": "Gatotkaca Kyo Kusanagi",
-    "type": "Kyo Kusanagi",
+    "type": "Original",
     "role": [
       "Tank",
       "Fighter"
@@ -2783,7 +2783,7 @@
     "id": "Gatotkaca-oKbleCpaoq",
     "hero": "Gatotkaca",
     "name": "Gatotkaca Tanjiro",
-    "type": "Tanjiro",
+    "type": "Original",
     "role": [
       "Tank",
       "Fighter"
@@ -2796,7 +2796,7 @@
     "id": "Gloo-NQwFquMR5kHl_lQH4mN",
     "hero": "Gloo",
     "name": "Gloo",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Tank"
     ],
@@ -2808,7 +2808,7 @@
     "id": "Gloo-kHDjPIjllG",
     "hero": "Gloo",
     "name": "Gloo Special",
-    "type": "Special",
+    "type": "Original",
     "role": [
       "Tank"
     ],
@@ -2820,7 +2820,7 @@
     "id": "Gord-NQwFsxvCvB0kTxTYZz1",
     "hero": "Gord",
     "name": "Gord",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Mage"
     ],
@@ -2832,7 +2832,7 @@
     "id": "Gord-EFp8VOMY69",
     "hero": "Gord",
     "name": "Gord Conqueror",
-    "type": "Conqueror",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -2844,7 +2844,7 @@
     "id": "Gord-Zsas6U1jEe",
     "hero": "Gord",
     "name": "Gord Star",
-    "type": "Star",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -2856,7 +2856,7 @@
     "id": "Gord-hcoNHKcTIi",
     "hero": "Gord",
     "name": "Gord Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -2868,7 +2868,7 @@
     "id": "Granger-NQwFut3fF_e5db3mYXC",
     "hero": "Granger",
     "name": "Granger",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Marksman"
     ],
@@ -2880,7 +2880,7 @@
     "id": "Granger-OFTmjeO3qY",
     "hero": "Granger",
     "name": "Granger Legend",
-    "type": "Legend",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -2892,7 +2892,7 @@
     "id": "Granger-E77ImCO7wc",
     "hero": "Granger",
     "name": "Granger Valentine",
-    "type": "Valentine",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -2904,7 +2904,7 @@
     "id": "Granger-0nbj85OziY",
     "hero": "Granger",
     "name": "Granger Exorcist",
-    "type": "Exorcist",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -2916,7 +2916,7 @@
     "id": "Granger-xJWvYGmKhU",
     "hero": "Granger",
     "name": "Granger Collector",
-    "type": "Collector",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -2928,7 +2928,7 @@
     "id": "Granger-GWUE91wIUk",
     "hero": "Granger",
     "name": "Granger Transformers",
-    "type": "Transformers",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -2940,7 +2940,7 @@
     "id": "Grock-NQwFwxmtB7r5iV-iSbk",
     "hero": "Grock",
     "name": "Grock",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Tank"
     ],
@@ -2952,7 +2952,7 @@
     "id": "Grock-ibMRYMZ0vM",
     "hero": "Grock",
     "name": "Grock Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Tank"
     ],
@@ -2964,7 +2964,7 @@
     "id": "Grock-WqEf8NUrDz",
     "hero": "Grock",
     "name": "Grock Star",
-    "type": "Star",
+    "type": "Original",
     "role": [
       "Tank"
     ],
@@ -2976,7 +2976,7 @@
     "id": "Grock-7WqXN6OUNy",
     "hero": "Grock",
     "name": "Grock V.E.N.O.M",
-    "type": "V.E.N.O.M",
+    "type": "Original",
     "role": [
       "Tank"
     ],
@@ -2988,7 +2988,7 @@
     "id": "Guinevere-NQwG-TJljUen37af_Wh",
     "hero": "Guinevere",
     "name": "Guinevere",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Fighter",
       "Mage"
@@ -3001,7 +3001,7 @@
     "id": "Guinevere-RJpUW7GDUS",
     "hero": "Guinevere",
     "name": "Guinevere Legend",
-    "type": "Legend",
+    "type": "Original",
     "role": [
       "Fighter",
       "Mage"
@@ -3014,7 +3014,7 @@
     "id": "Guinevere-okGyadThEe",
     "hero": "Guinevere",
     "name": "Guinevere Kof",
-    "type": "Kof",
+    "type": "Original",
     "role": [
       "Fighter",
       "Mage"
@@ -3027,7 +3027,7 @@
     "id": "Guinevere-jayCXVlE6W",
     "hero": "Guinevere",
     "name": "Guinevere Lady Crane",
-    "type": "Lady Crane",
+    "type": "Original",
     "role": [
       "Fighter",
       "Mage"
@@ -3040,7 +3040,7 @@
     "id": "Guinevere-5yCpAJYUIh",
     "hero": "Guinevere",
     "name": "Guinevere Elite",
-    "type": "Elite",
+    "type": "Original",
     "role": [
       "Fighter",
       "Mage"
@@ -3053,7 +3053,7 @@
     "id": "Guinevere-Eir4DpqaDe",
     "hero": "Guinevere",
     "name": "Guinevere Special",
-    "type": "Special",
+    "type": "Original",
     "role": [
       "Fighter",
       "Mage"
@@ -3066,7 +3066,7 @@
     "id": "Guinevere-rOZgD4oEP7",
     "hero": "Guinevere",
     "name": "Guinevere Special",
-    "type": "Special",
+    "type": "Original",
     "role": [
       "Fighter",
       "Mage"
@@ -3079,7 +3079,7 @@
     "id": "Guinevere-V8cIfBG23t",
     "hero": "Guinevere",
     "name": "Guinevere Starlight",
-    "type": "Starlight",
+    "type": "Original",
     "role": [
       "Fighter",
       "Mage"
@@ -3092,7 +3092,7 @@
     "id": "Guinevere-ptvvJ1vRjp",
     "hero": "Guinevere",
     "name": "Guinevere Summer",
-    "type": "Summer",
+    "type": "Original",
     "role": [
       "Fighter",
       "Mage"
@@ -3105,7 +3105,7 @@
     "id": "Gusion-CQ0y2okK17",
     "hero": "Gusion",
     "name": "Gusion K'",
-    "type": "K'",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -3117,7 +3117,7 @@
     "id": "Gusion-NQwG1lFqBgPMDdvk43L",
     "hero": "Gusion",
     "name": "Gusion Skin",
-    "type": "Skin",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -3129,7 +3129,7 @@
     "id": "Gusion-yAZUhifiCD",
     "hero": "Gusion",
     "name": "Gusion Night Old",
-    "type": "Night Old",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -3141,7 +3141,7 @@
     "id": "Gusion-LpOjdxCvVo",
     "hero": "Gusion",
     "name": "Gusion 11.11",
-    "type": "11.11",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -3153,7 +3153,7 @@
     "id": "Gusion-G4cXjPcyp2",
     "hero": "Gusion",
     "name": "Gusion Legend",
-    "type": "Legend",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -3165,7 +3165,7 @@
     "id": "Gusion-VHmoZF8STq",
     "hero": "Gusion",
     "name": "Gusion Minato",
-    "type": "Minato",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -3177,7 +3177,7 @@
     "id": "Gusion-AK7gHf5QEQ",
     "hero": "Gusion",
     "name": "Gusion Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -3189,7 +3189,7 @@
     "id": "Gusion-Sz6YWQZi48",
     "hero": "Gusion",
     "name": "Gusion Valentine",
-    "type": "Valentine",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -3201,7 +3201,7 @@
     "id": "Gusion-XG7cW0I9Yq",
     "hero": "Gusion",
     "name": "Gusion V.E.N.O.M",
-    "type": "V.E.N.O.M",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -3213,7 +3213,7 @@
     "id": "Gusion-XoKM8GLyMB",
     "hero": "Gusion",
     "name": "Gusion Star",
-    "type": "Star",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -3225,7 +3225,7 @@
     "id": "Hanabi-NQwG4AIX5qI6q3BGZ2D",
     "hero": "Hanabi",
     "name": "Hanabi",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Marksman"
     ],
@@ -3237,7 +3237,7 @@
     "id": "Hanabi-kHKsHjgl7O",
     "hero": "Hanabi",
     "name": "Hanabi Collector",
-    "type": "Collector",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -3249,7 +3249,7 @@
     "id": "Hanabi-8xL4woSEqz",
     "hero": "Hanabi",
     "name": "Hanabi Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -3261,7 +3261,7 @@
     "id": "Hanabi-VR8snFf6NT",
     "hero": "Hanabi",
     "name": "Hanabi V.E.N.O.M",
-    "type": "V.E.N.O.M",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -3273,7 +3273,7 @@
     "id": "Hanabi-Eg4wNp0p6g",
     "hero": "Hanabi",
     "name": "Hanabi Moonlit Ninja",
-    "type": "Moonlit Ninja",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -3285,7 +3285,7 @@
     "id": "Hanabi-FUvls3AYkG",
     "hero": "Hanabi",
     "name": "Hanabi Soul Vessel",
-    "type": "Soul Vessel",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -3297,7 +3297,7 @@
     "id": "Hanzo-NQwG6Kx867p8x5dXD1b",
     "hero": "Hanzo",
     "name": "Hanzo",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Assassin"
     ],
@@ -3309,7 +3309,7 @@
     "id": "Hanzo-tdvPNtQRHw",
     "hero": "Hanzo",
     "name": "Hanzo Special",
-    "type": "Special",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -3321,7 +3321,7 @@
     "id": "Harith-NQwG8fSnb3EfiV8w8AZ",
     "hero": "Harith",
     "name": "Harith",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Mage",
       "Marksman"
@@ -3334,7 +3334,7 @@
     "id": "Harith-TnIemXVZWW",
     "hero": "Harith",
     "name": "Harith Christmas",
-    "type": "Christmas",
+    "type": "Original",
     "role": [
       "Mage",
       "Marksman"
@@ -3347,7 +3347,7 @@
     "id": "Harith-7K7qfXbn7J",
     "hero": "Harith",
     "name": "Harith 515",
-    "type": "515",
+    "type": "Original",
     "role": [
       "Mage",
       "Marksman"
@@ -3360,7 +3360,7 @@
     "id": "Harith-AbhTjsoiSt",
     "hero": "Harith",
     "name": "Harith Champion",
-    "type": "Champion",
+    "type": "Original",
     "role": [
       "Mage",
       "Marksman"
@@ -3373,7 +3373,7 @@
     "id": "Harith-HPbplrLqG2",
     "hero": "Harith",
     "name": "Harith Epic",
-    "type": "Epic ",
+    "type": "Original",
     "role": [
       "Mage",
       "Marksman"
@@ -3386,7 +3386,7 @@
     "id": "Harith-bl1oYdx2aR",
     "hero": "Harith",
     "name": "Harith Lightborn",
-    "type": "Lightborn",
+    "type": "Original",
     "role": [
       "Mage",
       "Marksman"
@@ -3399,7 +3399,7 @@
     "id": "Harley-vfNnOxP1GH",
     "hero": "Harley",
     "name": "Harley Dream Caster",
-    "type": "Dream Caster",
+    "type": "Original",
     "role": [
       "Mage",
       "Assassin"
@@ -3412,7 +3412,7 @@
     "id": "Harley-NQwGAm2jKhQqokDQt2h",
     "hero": "Harley",
     "name": "Harley",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Mage",
       "Assassin"
@@ -3425,7 +3425,7 @@
     "id": "Harley-eW8vQd4cCL",
     "hero": "Harley",
     "name": "Harley Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Mage",
       "Assassin"
@@ -3438,7 +3438,7 @@
     "id": "Hayabusa-PbWHe69JEY",
     "hero": "Hayabusa",
     "name": "Hayabusa Shura",
-    "type": "Shura",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -3450,7 +3450,7 @@
     "id": "Hayabusa-RX8j4job2t",
     "hero": "Hayabusa",
     "name": "Hayabusa Shadow Of Obsucurity",
-    "type": "Shadow Of Obsucurity",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -3462,7 +3462,7 @@
     "id": "Hayabusa-NQwGDFaFaV5b-0agYvp",
     "hero": "Hayabusa",
     "name": "Hayabusa",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Assassin"
     ],
@@ -3474,7 +3474,7 @@
     "id": "Hayabusa-n38a8A5jrl",
     "hero": "Hayabusa",
     "name": "Hayabusa Exorcist",
-    "type": "Exorcist",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -3486,7 +3486,7 @@
     "id": "Hayabusa-QIPGi2FCOT",
     "hero": "Hayabusa",
     "name": "Hayabusa Itachi",
-    "type": "Itachi",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -3498,7 +3498,7 @@
     "id": "Hayabusa-Ok2vaIX37V",
     "hero": "Hayabusa",
     "name": "Hayabusa Starlight",
-    "type": "Starlight",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -3510,7 +3510,7 @@
     "id": "Hayabusa-ZXuF4J2gaQ",
     "hero": "Hayabusa",
     "name": "Hayabusa Starlight",
-    "type": "Starlight",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -3522,7 +3522,7 @@
     "id": "Hayabusa-1HbP2hRDcd",
     "hero": "Hayabusa",
     "name": "Hayabusa Exorcist",
-    "type": "Exorcist",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -3534,7 +3534,7 @@
     "id": "Hayabusa-zpM2Xbh5GN",
     "hero": "Hayabusa",
     "name": "Hayabusa minato",
-    "type": "minato",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -3546,7 +3546,7 @@
     "id": "Hayabusa-m3aabPsozB",
     "hero": "Hayabusa",
     "name": "Hayabusa kakashi",
-    "type": "kakashi",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -3558,7 +3558,7 @@
     "id": "Helcurt-oQylrZptVJ",
     "hero": "Helcurt",
     "name": "Helcurt Scorpio",
-    "type": "Scorpio",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -3570,7 +3570,7 @@
     "id": "Helcurt-NQwGiTkZRWKY_LsY1zZ",
     "hero": "Helcurt",
     "name": "Helcurt",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Assassin"
     ],
@@ -3582,7 +3582,7 @@
     "id": "Helcurt-S5HZic6de1",
     "hero": "Helcurt",
     "name": "Helcurt Phantom Feline",
-    "type": "Phantom Feline",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -3594,7 +3594,7 @@
     "id": "Hilda-NQwGkUYd3vUjrdae85R",
     "hero": "Hilda",
     "name": "Hilda",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Fighter",
       "Tank"
@@ -3607,7 +3607,7 @@
     "id": "Hilda-je49AiQEYO",
     "hero": "Hilda",
     "name": "Hilda Special",
-    "type": "Special",
+    "type": "Original",
     "role": [
       "Fighter",
       "Tank"
@@ -3620,7 +3620,7 @@
     "id": "Hilda-IvMliCHdj9",
     "hero": "Hilda",
     "name": "Hilda Zodiac",
-    "type": "Zodiac",
+    "type": "Original",
     "role": [
       "Fighter",
       "Tank"
@@ -3633,7 +3633,7 @@
     "id": "Hylos-NQwGmSZO4kqVs14aXOv",
     "hero": "Hylos",
     "name": "Hylos",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Tank"
     ],
@@ -3645,7 +3645,7 @@
     "id": "Hylos-l6dioAQUBK",
     "hero": "Hylos",
     "name": "Hylos Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Tank"
     ],
@@ -3657,7 +3657,7 @@
     "id": "Irithel-NQwGorUb8xIiMTgC8A1",
     "hero": "Irithel",
     "name": "Irithel",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Marksman"
     ],
@@ -3669,7 +3669,7 @@
     "id": "Irithel-Ge7C7S4dVt",
     "hero": "Irithel",
     "name": "Irithel Ducati",
-    "type": "Ducati",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -3681,7 +3681,7 @@
     "id": "Irithel-FKd0F8rpfk",
     "hero": "Irithel",
     "name": "Irithel Zodiac",
-    "type": "Zodiac",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -3693,7 +3693,7 @@
     "id": "Irithel-yI4X7LR4AJ",
     "hero": "Irithel",
     "name": "Irithel Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -3705,7 +3705,7 @@
     "id": "Irithel-okBfUZAvA2",
     "hero": "Irithel",
     "name": "Irithel Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -3717,7 +3717,7 @@
     "id": "Ixia-fRI3JA9LzT",
     "hero": "Ixia",
     "name": "Ixia Star",
-    "type": "Star",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -3729,7 +3729,7 @@
     "id": "Ixia-HPkPLnaNz5",
     "hero": "Ixia",
     "name": "Ixia Skin",
-    "type": "Skin",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -3741,7 +3741,7 @@
     "id": "Jawhead-NQwGuGp4XA-vpF62EVW",
     "hero": "Jawhead",
     "name": "Jawhead",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Fighter"
     ],
@@ -3753,7 +3753,7 @@
     "id": "Jawhead-Du273sDlqp",
     "hero": "Jawhead",
     "name": "Jawhead Collector",
-    "type": "Collector",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -3765,7 +3765,7 @@
     "id": "Jawhead-WisVPceWKr",
     "hero": "Jawhead",
     "name": "Jawhead MPL",
-    "type": "MPL",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -3777,7 +3777,7 @@
     "id": "Johnson-NQwGxpVBu89QisUolJR",
     "hero": "Johnson",
     "name": "Johnson",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Tank"
     ],
@@ -3789,7 +3789,7 @@
     "id": "Johnson-DuFA3lmx0l",
     "hero": "Johnson",
     "name": "Johnson Transformer",
-    "type": "Transformer",
+    "type": "Original",
     "role": [
       "Tank"
     ],
@@ -3801,7 +3801,7 @@
     "id": "Johnson-MYcswOwiBi",
     "hero": "Johnson",
     "name": "Johnson Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Tank"
     ],
@@ -3813,7 +3813,7 @@
     "id": "Johnson-F2OZIvFAQQ",
     "hero": "Johnson",
     "name": "Johnson S.A.B.E.R",
-    "type": "S.A.B.E.R",
+    "type": "Original",
     "role": [
       "Tank"
     ],
@@ -3825,7 +3825,7 @@
     "id": "Johnson-fXEhQPKwzd",
     "hero": "Johnson",
     "name": "Johnson Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Tank"
     ],
@@ -3837,7 +3837,7 @@
     "id": "Joy-NQwGyFeOpM9PZfwqar6",
     "hero": "Joy",
     "name": "Joy",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Assassin"
     ],
@@ -3849,7 +3849,7 @@
     "id": "Joy-6UcEorEQfj",
     "hero": "Joy",
     "name": "Joy Elite",
-    "type": "Elite",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -3861,7 +3861,7 @@
     "id": "Joy-22cBFpErid",
     "hero": "Joy",
     "name": "Joy Basic",
-    "type": "Basic",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -3873,7 +3873,7 @@
     "id": "Julian-NQwH3O0Wlvdn4ADytuu",
     "hero": "Julian",
     "name": "Julian",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Fighter",
       "Mage"
@@ -3886,7 +3886,7 @@
     "id": "Julian-xFZ3gxu70q",
     "hero": "Julian",
     "name": "Julian Ursed Weapon",
-    "type": "Ursed Weapon",
+    "type": "Original",
     "role": [
       "Fighter",
       "Mage"
@@ -3899,7 +3899,7 @@
     "id": "Julian-IUGyFSpIbQ",
     "hero": "Julian",
     "name": "Julian Starlight",
-    "type": "Starlight",
+    "type": "Original",
     "role": [
       "Fighter",
       "Mage"
@@ -3912,7 +3912,7 @@
     "id": "Julian-cW3GyPYBik",
     "hero": "Julian",
     "name": "Julian JJK",
-    "type": "JJK",
+    "type": "Original",
     "role": [
       "Fighter",
       "Mage"
@@ -3925,7 +3925,7 @@
     "id": "Kadita-NQwH6O2WBPbX0K64ci2",
     "hero": "Kadita",
     "name": "Kadita",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Mage"
     ],
@@ -3937,7 +3937,7 @@
     "id": "Kadita-S8GF1zoNS8",
     "hero": "Kadita",
     "name": "Kadita MPL",
-    "type": "MPL",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -3949,7 +3949,7 @@
     "id": "Kadita-YAgqSnuiUi",
     "hero": "Kadita",
     "name": "Kadita Special",
-    "type": "Special",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -3961,7 +3961,7 @@
     "id": "Kadita-5taAKMilP8",
     "hero": "Kadita",
     "name": "Kadita X Conan",
-    "type": "X Conan",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -3973,7 +3973,7 @@
     "id": "Kadita-6JOPuRvCGJ",
     "hero": "Kadita",
     "name": "Kadita Create",
-    "type": "Create",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -3985,7 +3985,7 @@
     "id": "Kagura-GhHX0MrbWE",
     "hero": "Kagura",
     "name": "Kagura Exorcist",
-    "type": "Exorcist",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -3997,7 +3997,7 @@
     "id": "Kagura-PBRs5v0XOJ",
     "hero": "Kagura",
     "name": "Kagura Rainy Walk",
-    "type": "Rainy Walk ",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -4009,7 +4009,7 @@
     "id": "Kagura-DIjQ4tqNQP",
     "hero": "Kagura",
     "name": "Kagura Beyond The Clouds",
-    "type": "Beyond The Clouds",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -4021,7 +4021,7 @@
     "id": "Kagura-wA4q1BehKN",
     "hero": "Kagura",
     "name": "Kagura Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -4033,7 +4033,7 @@
     "id": "Kagura-0erhoRqr8z",
     "hero": "Kagura",
     "name": "Kagura Summer",
-    "type": "Summer",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -4045,7 +4045,7 @@
     "id": "Kagura-xuK3ddoQ2V",
     "hero": "Kagura",
     "name": "Kagura Skin",
-    "type": "Skin",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -4057,7 +4057,7 @@
     "id": "Kagura-dCdtwCl56G",
     "hero": "Kagura",
     "name": "Kagura Water Lily",
-    "type": "Water Lily",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -4069,7 +4069,7 @@
     "id": "Kaja-NQwHAyFzrX8lJY4kyPi",
     "hero": "Kaja",
     "name": "Kaja",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Support",
       "Fighter"
@@ -4082,7 +4082,7 @@
     "id": "Kaja-XqxfozQfwk",
     "hero": "Kaja",
     "name": "Kaja Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Support",
       "Fighter"
@@ -4095,7 +4095,7 @@
     "id": "Kaja-PxpFXISKbn",
     "hero": "Kaja",
     "name": "Kaja Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Support",
       "Fighter"
@@ -4108,7 +4108,7 @@
     "id": "Kaja-nZgaVZILx7",
     "hero": "Kaja",
     "name": "Kaja Starlight",
-    "type": "Starlight",
+    "type": "Original",
     "role": [
       "Support",
       "Fighter"
@@ -4121,7 +4121,7 @@
     "id": "Karina-NQwHCx4HG6J6cI-dWNM",
     "hero": "Karina",
     "name": "Karina",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Assassin"
     ],
@@ -4133,7 +4133,7 @@
     "id": "Karina-lpjPRjmvNu",
     "hero": "Karina",
     "name": "Karina KOF",
-    "type": "KOF",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -4145,7 +4145,7 @@
     "id": "Karina-AnsUY6Nfvc",
     "hero": "Karina",
     "name": "Karina Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -4157,7 +4157,7 @@
     "id": "Karina-ClkK9gxIxp",
     "hero": "Karina",
     "name": "Karina Zodiac",
-    "type": "Zodiac",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -4169,7 +4169,7 @@
     "id": "Karrie-NQwHEvAXyQL2UH2dk_m",
     "hero": "Karrie",
     "name": "Karrie",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Marksman"
     ],
@@ -4181,7 +4181,7 @@
     "id": "Karrie-WiyRZByqJR",
     "hero": "Karrie",
     "name": "Karrie Annual Star",
-    "type": "Annual Star",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -4193,7 +4193,7 @@
     "id": "Karrie-BiORFdQRRu",
     "hero": "Karrie",
     "name": "Karrie Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -4205,7 +4205,7 @@
     "id": "Karrie-6RKZNSbBF2",
     "hero": "Karrie",
     "name": "Karrie Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -4217,7 +4217,7 @@
     "id": "Karrie-aphq20uh8G",
     "hero": "Karrie",
     "name": "Karrie Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -4229,7 +4229,7 @@
     "id": "Karrie-3ISZ8Xf8Oz",
     "hero": "Karrie",
     "name": "Karrie kishin Densetsu",
-    "type": "kishin Densetsu",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -4241,7 +4241,7 @@
     "id": "Khaleed-gg1C5HZxVY",
     "hero": "Khaleed",
     "name": "Khaleed Elite",
-    "type": "Elite",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -4253,7 +4253,7 @@
     "id": "Khaleed-9gskt0jLXy",
     "hero": "Khaleed",
     "name": "Khaleed Skin1",
-    "type": "Skin1",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -4265,7 +4265,7 @@
     "id": "Khaleed-Bbx0Gm21uF",
     "hero": "Khaleed",
     "name": "Khaleed Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -4277,7 +4277,7 @@
     "id": "Khaleed-D5FlS8zhS8",
     "hero": "Khaleed",
     "name": "Khaleed MPL Fan Art",
-    "type": "MPL Fan Art",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -4289,7 +4289,7 @@
     "id": "Khufra-NQwHGzktDDOAxOl4AY7",
     "hero": "Khufra",
     "name": "Khufra",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Tank"
     ],
@@ -4301,7 +4301,7 @@
     "id": "Khufra-n7oo8ywHK9",
     "hero": "Khufra",
     "name": "Khufra Volcanic Overlord",
-    "type": "Volcanic Overlord",
+    "type": "Original",
     "role": [
       "Tank"
     ],
@@ -4313,7 +4313,7 @@
     "id": "Khufra-GVu3aZYssr",
     "hero": "Khufra",
     "name": "Khufra Star",
-    "type": "Star",
+    "type": "Original",
     "role": [
       "Tank"
     ],
@@ -4325,7 +4325,7 @@
     "id": "Khufra-e8P4g4rXmW",
     "hero": "Khufra",
     "name": "Khufra Valentine",
-    "type": "Valentine",
+    "type": "Original",
     "role": [
       "Tank"
     ],
@@ -4337,7 +4337,7 @@
     "id": "Khufra-0HUgHZyx8y",
     "hero": "Khufra",
     "name": "Khufra Luffy Gear 5",
-    "type": "Luffy Gear 5",
+    "type": "Original",
     "role": [
       "Tank"
     ],
@@ -4349,7 +4349,7 @@
     "id": "Kimmy-NQwHJF0i8w5tkOx5tNr",
     "hero": "Kimmy",
     "name": "Kimmy",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Marksman",
       "Mage"
@@ -4362,7 +4362,7 @@
     "id": "Kimmy-vmTf1bysLb",
     "hero": "Kimmy",
     "name": "Kimmy Kimmy Special",
-    "type": "Kimmy Special",
+    "type": "Original",
     "role": [
       "Marksman",
       "Mage"
@@ -4375,7 +4375,7 @@
     "id": "Kimmy-NV9O7HFSdw",
     "hero": "Kimmy",
     "name": "Kimmy Jet Trooper",
-    "type": "Jet Trooper",
+    "type": "Original",
     "role": [
       "Marksman",
       "Mage"
@@ -4388,7 +4388,7 @@
     "id": "Kimmy-nx244xe6Gh",
     "hero": "Kimmy",
     "name": "Kimmy Dragon Tamer",
-    "type": "Dragon Tamer",
+    "type": "Original",
     "role": [
       "Marksman",
       "Mage"
@@ -4401,7 +4401,7 @@
     "id": "Kimmy-AScS7tgQoC",
     "hero": "Kimmy",
     "name": "Kimmy Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Marksman",
       "Mage"
@@ -4414,7 +4414,7 @@
     "id": "Kimmy-ie83PlbmeF",
     "hero": "Kimmy",
     "name": "Kimmy Star",
-    "type": "Star",
+    "type": "Original",
     "role": [
       "Marksman",
       "Mage"
@@ -4427,7 +4427,7 @@
     "id": "Kimmy-9joTegLDgy",
     "hero": "Kimmy",
     "name": "Kimmy Exorcists",
-    "type": "Exorcists",
+    "type": "Original",
     "role": [
       "Marksman",
       "Mage"
@@ -4440,7 +4440,7 @@
     "id": "Lancelot-UeV8k5FrEL",
     "hero": "Lancelot",
     "name": "Lancelot Dragon Tamer",
-    "type": "Dragon Tamer",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -4452,7 +4452,7 @@
     "id": "Lancelot-wDOgTMQHG5",
     "hero": "Lancelot",
     "name": "Lancelot Royal Matador",
-    "type": "Royal Matador",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -4464,7 +4464,7 @@
     "id": "Lancelot-yCEUhymUpc",
     "hero": "Lancelot",
     "name": "Lancelot Zodiac",
-    "type": "Zodiac",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -4476,7 +4476,7 @@
     "id": "Lancelot-dQneugdVXV",
     "hero": "Lancelot",
     "name": "Lancelot Elite",
-    "type": "Elite",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -4488,7 +4488,7 @@
     "id": "Lancelot-iqmTE2HWOA",
     "hero": "Lancelot",
     "name": "Lancelot Skin",
-    "type": "Skin",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -4500,7 +4500,7 @@
     "id": "Lancelot-aF24aQeDl2",
     "hero": "Lancelot",
     "name": "Lancelot zanitsu",
-    "type": "zanitsu",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -4512,7 +4512,7 @@
     "id": "Lancelot-qy4YS5QJwg",
     "hero": "Lancelot",
     "name": "Lancelot Kirigakure Saizo",
-    "type": "Kirigakure Saizo",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -4524,7 +4524,7 @@
     "id": "Lancelot-0tCp4EBLiO",
     "hero": "Lancelot",
     "name": "Lancelot Shanks",
-    "type": "Shanks",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -4536,7 +4536,7 @@
     "id": "Lancelot-pU4YsoOxFC",
     "hero": "Lancelot",
     "name": "Lancelot Flash",
-    "type": "Flash",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -4548,7 +4548,7 @@
     "id": "Lancelot-bHPI3GkVTj",
     "hero": "Lancelot",
     "name": "Lancelot Dawning",
-    "type": "Dawning",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -4560,7 +4560,7 @@
     "id": "Lancelot-ccw0qzbVjc",
     "hero": "Lancelot",
     "name": "Lancelot Champion",
-    "type": "Champion",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -4572,7 +4572,7 @@
     "id": "Lancelot-u2DlVlvVNE",
     "hero": "Lancelot",
     "name": "Lancelot Levi",
-    "type": "Levi",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -4584,7 +4584,7 @@
     "id": "Lancelot-3bgMUQoBtd",
     "hero": "Lancelot",
     "name": "Lancelot Kishin Densetsu",
-    "type": "Kishin Densetsu",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -4596,7 +4596,7 @@
     "id": "Lapu-Lapu-NQwHNQ6EBRN10ZDF5mI",
     "hero": "Lapu-Lapu",
     "name": "Lapu-Lapu",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Fighter"
     ],
@@ -4608,7 +4608,7 @@
     "id": "Lapu-Lapu-DpyJmO0qSK",
     "hero": "Lapu-Lapu",
     "name": "Lapu-Lapu lapu colector",
-    "type": "lapu colector",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -4620,7 +4620,7 @@
     "id": "Lapu-Lapu-NCc1YvKN96",
     "hero": "Lapu-Lapu",
     "name": "Lapu-Lapu Special",
-    "type": "Special",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -4632,7 +4632,7 @@
     "id": "Lapu-Lapu-YPnNu0LLgP",
     "hero": "Lapu-Lapu",
     "name": "Lapu-Lapu Starlight",
-    "type": "Starlight",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -4644,7 +4644,7 @@
     "id": "Layla-21DQO6wxIN",
     "hero": "Layla",
     "name": "Layla Miss Hikari",
-    "type": "Miss Hikari",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -4656,7 +4656,7 @@
     "id": "Layla-NQwHR5_VvPyL34B97l4",
     "hero": "Layla",
     "name": "Layla",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Marksman"
     ],
@@ -4668,7 +4668,7 @@
     "id": "Layla-OsyLqOkk3q",
     "hero": "Layla",
     "name": "Layla Starlight",
-    "type": "Starlight",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -4680,7 +4680,7 @@
     "id": "Layla-n55zx486sR",
     "hero": "Layla",
     "name": "Layla Blazing",
-    "type": "Blazing",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -4692,7 +4692,7 @@
     "id": "Layla-MQP23OfK2c",
     "hero": "Layla",
     "name": "Layla Blue Spectre",
-    "type": "Blue Spectre",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -4704,7 +4704,7 @@
     "id": "Layla-Tpo6monJSK",
     "hero": "Layla",
     "name": "Layla Collector",
-    "type": "Collector",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -4716,7 +4716,7 @@
     "id": "Layla-XEREdB5Vha",
     "hero": "Layla",
     "name": "Layla Summer Fan Art",
-    "type": "Summer Fan Art",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -4728,7 +4728,7 @@
     "id": "Leomord-NQwHbZTwBfHzmEDrqMn",
     "hero": "Leomord",
     "name": "Leomord",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Fighter"
     ],
@@ -4740,7 +4740,7 @@
     "id": "Leomord-PlNcwy40Y9",
     "hero": "Leomord",
     "name": "Leomord Abyss",
-    "type": "Abyss",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -4752,7 +4752,7 @@
     "id": "Leomord-yFvscuKRzu",
     "hero": "Leomord",
     "name": "Leomord Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -4764,7 +4764,7 @@
     "id": "Lesley-u7pg8Q7Yhg",
     "hero": "Lesley",
     "name": "Lesley Hawk Eyes Sniper",
-    "type": "Hawk Eyes Sniper",
+    "type": "Original",
     "role": [
       "Marksman",
       "Assassin"
@@ -4777,7 +4777,7 @@
     "id": "Lesley-NQwHdjilAO302znZm8x",
     "hero": "Lesley",
     "name": "Lesley",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Marksman",
       "Assassin"
@@ -4790,7 +4790,7 @@
     "id": "Lesley-jGBThue6sS",
     "hero": "Lesley",
     "name": "Lesley Legend",
-    "type": "Legend",
+    "type": "Original",
     "role": [
       "Marksman",
       "Assassin"
@@ -4803,7 +4803,7 @@
     "id": "Lesley-IVwxcrWDNM",
     "hero": "Lesley",
     "name": "Lesley Aspirant",
-    "type": "Aspirant ",
+    "type": "Original",
     "role": [
       "Marksman",
       "Assassin"
@@ -4816,7 +4816,7 @@
     "id": "Lesley-I9AnF03fNO",
     "hero": "Lesley",
     "name": "Lesley Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Marksman",
       "Assassin"
@@ -4829,7 +4829,7 @@
     "id": "Lesley-xcaVIATnIV",
     "hero": "Lesley",
     "name": "Lesley Collector",
-    "type": "Collector",
+    "type": "Original",
     "role": [
       "Marksman",
       "Assassin"
@@ -4842,7 +4842,7 @@
     "id": "Lesley-epc4kNBlxc",
     "hero": "Lesley",
     "name": "Lesley Special",
-    "type": "Special",
+    "type": "Original",
     "role": [
       "Marksman",
       "Assassin"
@@ -4855,7 +4855,7 @@
     "id": "Lesley-P8xFcqMhFO",
     "hero": "Lesley",
     "name": "Lesley Valentine",
-    "type": "Valentine",
+    "type": "Original",
     "role": [
       "Marksman",
       "Assassin"
@@ -4868,7 +4868,7 @@
     "id": "Lilya-NQwHfme_RjT8OZT7ykx",
     "hero": "Lilya",
     "name": "Lilya",
-    "type": "Original",
+    "type": "Backup",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero861-portrait.png/revision/latest?cb=20220525170038",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero861-portrait.png/revision/latest?cb=20220525170038",
@@ -4878,7 +4878,7 @@
     "id": "Lilya-2kwrzuzJ6q",
     "hero": "Lilya",
     "name": "Lilya Neobest",
-    "type": "Neobest",
+    "type": "Original",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero866-portrait.png/revision/latest?cb=20230805043912",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero866-portrait.png/revision/latest?cb=20230805043912",
@@ -4888,7 +4888,7 @@
     "id": "Lilya-e0oKlNIKbh",
     "hero": "Lilya",
     "name": "Lilya Elite",
-    "type": "Elite",
+    "type": "Original",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero863-portrait.png/revision/latest?cb=20220525170049",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero863-portrait.png/revision/latest?cb=20220525170049",
@@ -4898,7 +4898,7 @@
     "id": "Lilya-1vBwBs3OWG",
     "hero": "Lilya",
     "name": "Lilya Halloween",
-    "type": "Halloween",
+    "type": "Original",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero865-portrait.png/revision/latest?cb=20220525170051",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero865-portrait.png/revision/latest?cb=20220525170051",
@@ -4908,7 +4908,7 @@
     "id": "Lilya-BQwHg5nVEP",
     "hero": "Lilya",
     "name": "Lilya Special",
-    "type": "Special",
+    "type": "Original",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Hero864-portrait.png/revision/latest?cb=20220525170050",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Hero864-portrait.png/revision/latest?cb=20220525170050",
@@ -4918,7 +4918,7 @@
     "id": "Lilya-LLxUTVrFrc",
     "hero": "Lilya",
     "name": "Lilya Star",
-    "type": "Star",
+    "type": "Original",
     "role": [],
     "img1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP3aijmJ_ub27_EXl4ZzfGSfXx8ZZwKueBPrAijRRwONLbOijQbIdIxkM&s=10",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP3aijmJ_ub27_EXl4ZzfGSfXx8ZZwKueBPrAijRRwONLbOijQbIdIxkM&s=10",
@@ -4928,7 +4928,7 @@
     "id": "Lilya-J57NbKw1zU",
     "hero": "Lilya",
     "name": "Lilya Sakura Flower",
-    "type": "Sakura Flower",
+    "type": "Original",
     "role": [],
     "img1": "https://raw.githubusercontent.com/rahasia55/tes/main/lylia%20x%20sakura%20flower.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/lylia%20x%20sakura%20flower.png",
@@ -4938,7 +4938,7 @@
     "id": "Ling-NQwHhq7SxupGV7DAXSo",
     "hero": "Ling",
     "name": "Ling",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Assassin"
     ],
@@ -4950,7 +4950,7 @@
     "id": "Ling-1udj40cbM5",
     "hero": "Ling",
     "name": "Ling Dragon Tamer",
-    "type": "Dragon Tamer",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -4962,7 +4962,7 @@
     "id": "Ling-xD0iXqikP4",
     "hero": "Ling",
     "name": "Ling Star",
-    "type": "Star",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -4974,7 +4974,7 @@
     "id": "Ling-53IFrg1kfN",
     "hero": "Ling",
     "name": "Ling Levi Ackerman",
-    "type": "Levi Ackerman",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -4986,7 +4986,7 @@
     "id": "Ling-hvAbmmn31a",
     "hero": "Ling",
     "name": "Ling Itachi Anbu",
-    "type": "Itachi Anbu",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -4998,7 +4998,7 @@
     "id": "Ling-VOICDwRTTX",
     "hero": "Ling",
     "name": "Ling Sasuke",
-    "type": "Sasuke",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -5010,7 +5010,7 @@
     "id": "Ling-dtn9492J48",
     "hero": "Ling",
     "name": "Ling Toshiro Hitsugaya",
-    "type": "Toshiro Hitsugaya",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -5022,7 +5022,7 @@
     "id": "Ling-wOxBm4yJ4k",
     "hero": "Ling",
     "name": "Ling Mworld",
-    "type": "Mworld",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -5034,7 +5034,7 @@
     "id": "Ling-daNkd6vnHv",
     "hero": "Ling",
     "name": "Ling Special",
-    "type": "Special",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -5046,7 +5046,7 @@
     "id": "Ling-IemEWc2uPL",
     "hero": "Ling",
     "name": "Ling Levi",
-    "type": "Levi",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -5058,7 +5058,7 @@
     "id": "Ling-8d02JosWRk",
     "hero": "Ling",
     "name": "Ling Collector",
-    "type": "Collector",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -5070,7 +5070,7 @@
     "id": "Ling-3qH2YAxwvV",
     "hero": "Ling",
     "name": "Ling Kungfu Panda",
-    "type": "Kungfu Panda",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -5082,7 +5082,7 @@
     "id": "Lolita-NQwHkKVC_8wBK45S8mT",
     "hero": "Lolita",
     "name": "Lolita",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Tank",
       "Support"
@@ -5095,7 +5095,7 @@
     "id": "Lolita-SFZFxayKQv",
     "hero": "Lolita",
     "name": "Lolita Lunar Fest",
-    "type": "Lunar Fest",
+    "type": "Original",
     "role": [
       "Tank",
       "Support"
@@ -5108,7 +5108,7 @@
     "id": "Lunox-cFukmPl6pd",
     "hero": "Lunox",
     "name": "Lunox Zodiac",
-    "type": "Zodiac",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -5120,7 +5120,7 @@
     "id": "Clint-NQwD8_l-dWhu91ZZ8H0",
     "hero": "Lunox",
     "name": "Lunox Legend",
-    "type": "Legend",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -5132,7 +5132,7 @@
     "id": "Lunox-NQwHmP83SZOL5DrgRtd",
     "hero": "Lunox",
     "name": "Lunox",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Mage"
     ],
@@ -5144,7 +5144,7 @@
     "id": "Lunox-bhQiD9akeo",
     "hero": "Lunox",
     "name": "Lunox Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -5156,7 +5156,7 @@
     "id": "Lunox-8YB0TVPYB7",
     "hero": "Lunox",
     "name": "Lunox Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -5168,7 +5168,7 @@
     "id": "Lunox-m6Ku9ShV16",
     "hero": "Lunox",
     "name": "Lunox Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -5180,7 +5180,7 @@
     "id": "Lunox-YamOkZfLru",
     "hero": "Lunox",
     "name": "Lunox Elite",
-    "type": "Elite",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -5192,7 +5192,7 @@
     "id": "Luo Yi-NQwHodVSz35s5IyNNG6",
     "hero": "Luo Yi",
     "name": "Luo Yi",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Mage"
     ],
@@ -5204,7 +5204,7 @@
     "id": "Luo Yi-VfruLXiKVW",
     "hero": "Luo Yi",
     "name": "Luo Yi Collector",
-    "type": "Collector",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -5216,7 +5216,7 @@
     "id": "Luo Yi-lWLzeEL2pP",
     "hero": "Luo Yi",
     "name": "Luo Yi Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -5228,7 +5228,7 @@
     "id": "Luo Yi-DmwOwq34NU",
     "hero": "Luo Yi",
     "name": "Luo Yi Lunar Fest",
-    "type": "Lunar Fest",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -5240,7 +5240,7 @@
     "id": "Luo Yi-v4OD8I5IkP",
     "hero": "Luo Yi",
     "name": "Luo Yi Star",
-    "type": "Star",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -5252,7 +5252,7 @@
     "id": "Martis-NQwHqxBtY69d1yL6ByH",
     "hero": "Martis",
     "name": "Martis",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Fighter"
     ],
@@ -5264,7 +5264,7 @@
     "id": "Martis-vaml098GnN",
     "hero": "Martis",
     "name": "Martis Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -5276,7 +5276,7 @@
     "id": "Martis-lT7KKyTxjZ",
     "hero": "Martis",
     "name": "Martis Special",
-    "type": "Special",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -5288,7 +5288,7 @@
     "id": "Martis-clESv0ZSYV",
     "hero": "Martis",
     "name": "Martis Starlight",
-    "type": "Starlight",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -5300,7 +5300,7 @@
     "id": "Martis-6RMIgGqogz",
     "hero": "Martis",
     "name": "Martis Zodiac",
-    "type": "Zodiac",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -5312,7 +5312,7 @@
     "id": "Martis-T2pu0mZhsD",
     "hero": "Martis",
     "name": "Martis Levi",
-    "type": "Levi",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -5324,7 +5324,7 @@
     "id": "Masha-NQwHtZcb7C3NITTWdNc",
     "hero": "Masha",
     "name": "Masha",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Fighter",
       "Tank"
@@ -5337,7 +5337,7 @@
     "id": "Masha-AHW1tkLmp7",
     "hero": "Masha",
     "name": "Masha Dragon Tamer",
-    "type": "Dragon Tamer",
+    "type": "Original",
     "role": [
       "Fighter",
       "Tank"
@@ -5350,7 +5350,7 @@
     "id": "Masha-zSItHIqShL",
     "hero": "Masha",
     "name": "Masha Special",
-    "type": "Special",
+    "type": "Original",
     "role": [
       "Fighter",
       "Tank"
@@ -5363,7 +5363,7 @@
     "id": "Masha-6fgTWLPrpu",
     "hero": "Masha",
     "name": "Masha KOF",
-    "type": "KOF",
+    "type": "Original",
     "role": [
       "Fighter",
       "Tank"
@@ -5376,7 +5376,7 @@
     "id": "Mathilda-NQwHvqf6NBYCwa9u7Ww",
     "hero": "Mathilda",
     "name": "Mathilda",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Support",
       "Assassin"
@@ -5389,7 +5389,7 @@
     "id": "Mathilda-HKZc0Doy7m",
     "hero": "Mathilda",
     "name": "Mathilda MPL",
-    "type": "MPL",
+    "type": "Original",
     "role": [
       "Support",
       "Assassin"
@@ -5402,7 +5402,7 @@
     "id": "Mathilda-E7uRsa3JaC",
     "hero": "Mathilda",
     "name": "Mathilda Elite",
-    "type": "Elite",
+    "type": "Original",
     "role": [
       "Support",
       "Assassin"
@@ -5415,7 +5415,7 @@
     "id": "Melissa-NdDMvzjcbO",
     "hero": "Melissa",
     "name": "Melissa JJK",
-    "type": "JJK",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -5427,7 +5427,7 @@
     "id": "Melissa-NTcTgho-TemY5yTzR_u",
     "hero": "Melissa",
     "name": "Melissa",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Marksman"
     ],
@@ -5439,7 +5439,7 @@
     "id": "Melissa-PSVNkTBDnP",
     "hero": "Melissa",
     "name": "Melissa Star",
-    "type": "Star",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -5451,7 +5451,7 @@
     "id": "Melissa-PIEveng6Xj",
     "hero": "Melissa",
     "name": "Melissa Sparkle",
-    "type": "Sparkle",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -5463,7 +5463,7 @@
     "id": "Minotaur-NQwHz0e5cwBGJVp011i",
     "hero": "Minotaur",
     "name": "Minotaur",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Tank",
       "Support"
@@ -5476,7 +5476,7 @@
     "id": "Minotaur-ppEuTjkMuh",
     "hero": "Minotaur",
     "name": "Minotaur Special",
-    "type": "Special",
+    "type": "Original",
     "role": [
       "Tank",
       "Support"
@@ -5489,7 +5489,7 @@
     "id": "Minotaur-RdfIbTt6Ha",
     "hero": "Minotaur",
     "name": "Minotaur Zodiac",
-    "type": "Zodiac",
+    "type": "Original",
     "role": [
       "Tank",
       "Support"
@@ -5502,7 +5502,7 @@
     "id": "Minsittar-Ey7WMWqB62",
     "hero": "Minsittar",
     "name": "Minsittar Elite",
-    "type": "Elite",
+    "type": "Original",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero743-portrait.png/revision/latest?cb=20220525165803",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero743-portrait.png/revision/latest?cb=20220525165803",
@@ -5512,7 +5512,7 @@
     "id": "Minsittar-l13Zqy8EBC",
     "hero": "Minsittar",
     "name": "Minsittar Starlight",
-    "type": "Starlight",
+    "type": "Original",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero744-portrait.png/revision/latest?cb=20230623125755",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero744-portrait.png/revision/latest?cb=20230623125755",
@@ -5522,7 +5522,7 @@
     "id": "Minsittar-SvDsIEhRJR",
     "hero": "Minsittar",
     "name": "Minsittar",
-    "type": "Original",
+    "type": "Backup",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero741-portrait.png/revision/latest?cb=20230317100559",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero741-portrait.png/revision/latest?cb=20230317100559",
@@ -5532,7 +5532,7 @@
     "id": "Minsittar-JUn3NQmYPT",
     "hero": "Minsittar",
     "name": "Minsittar Collector",
-    "type": "Collector",
+    "type": "Original",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero745-portrait.png/revision/latest?cb=20240131092447",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero745-portrait.png/revision/latest?cb=20240131092447",
@@ -5542,7 +5542,7 @@
     "id": "Miya-hW4lvq5l3V",
     "hero": "Miya",
     "name": "Miya Atomic Pop",
-    "type": "Atomic Pop",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -5554,7 +5554,7 @@
     "id": "Miya-NQwIMU8jprnqWdmd2la",
     "hero": "Miya",
     "name": "Miya",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Marksman"
     ],
@@ -5566,7 +5566,7 @@
     "id": "Miya-RNoz0TSwPJ",
     "hero": "Miya",
     "name": "Miya Collector",
-    "type": "Collector",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -5578,7 +5578,7 @@
     "id": "Miya-m14EgiaERK",
     "hero": "Miya",
     "name": "Miya Christmas",
-    "type": "Christmas",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -5590,7 +5590,7 @@
     "id": "Miya-hVMZKUaOXh",
     "hero": "Miya",
     "name": "Miya Anniversary",
-    "type": "Anniversary",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -5602,7 +5602,7 @@
     "id": "Miya-5L7XcNjgmF",
     "hero": "Miya",
     "name": "Miya Legend",
-    "type": "Legend",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -5614,7 +5614,7 @@
     "id": "Miya-YUWvNheClA",
     "hero": "Miya",
     "name": "Miya Special",
-    "type": "Special",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -5626,7 +5626,7 @@
     "id": "Moskov-NQwIOcYiKsmpfgFq_p6",
     "hero": "Moskov",
     "name": "Moskov",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Marksman"
     ],
@@ -5638,7 +5638,7 @@
     "id": "Moskov-zDzVsWsIir",
     "hero": "Moskov",
     "name": "Moskov Abyss",
-    "type": "Abyss",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -5650,7 +5650,7 @@
     "id": "Moskov-hmuzLbT5VF",
     "hero": "Moskov",
     "name": "Moskov Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -5662,7 +5662,7 @@
     "id": "Moskov-tbiO9pBrFP",
     "hero": "Moskov",
     "name": "Moskov All Star",
-    "type": "All Star",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -5674,7 +5674,7 @@
     "id": "Nana-NQwIS-2nfAuvonegUGX",
     "hero": "Nana",
     "name": "Nana",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Mage",
       "Support"
@@ -5687,7 +5687,7 @@
     "id": "Nana-OWk1gKCGHI",
     "hero": "Nana",
     "name": "Nana Collector",
-    "type": "Collector",
+    "type": "Original",
     "role": [
       "Mage",
       "Support"
@@ -5700,7 +5700,7 @@
     "id": "Nana-jQEDmHvAKN",
     "hero": "Nana",
     "name": "Nana Mistbender",
-    "type": "Mistbender",
+    "type": "Original",
     "role": [
       "Mage",
       "Support"
@@ -5713,7 +5713,7 @@
     "id": "Nana-RcFlqkySLS",
     "hero": "Nana",
     "name": "Nana Elite",
-    "type": "Elite",
+    "type": "Original",
     "role": [
       "Mage",
       "Support"
@@ -5726,7 +5726,7 @@
     "id": "Nana-LiVvmZT6KX",
     "hero": "Nana",
     "name": "Nana Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Mage",
       "Support"
@@ -5739,7 +5739,7 @@
     "id": "Nana-OWVpOiRJ5B",
     "hero": "Nana",
     "name": "Nana Star",
-    "type": "Star",
+    "type": "Original",
     "role": [
       "Mage",
       "Support"
@@ -5752,7 +5752,7 @@
     "id": "Nana-1cLj6m0VPV",
     "hero": "Nana",
     "name": "Nana Summer",
-    "type": "Summer",
+    "type": "Original",
     "role": [
       "Mage",
       "Support"
@@ -5765,7 +5765,7 @@
     "id": "Nana-cImVrFYTpP",
     "hero": "Nana",
     "name": "Nana Cabe",
-    "type": "Cabe",
+    "type": "Original",
     "role": [
       "Mage",
       "Support"
@@ -5778,7 +5778,7 @@
     "id": "Natalia-NQwIUP-LzijGQ3xsjKQ",
     "hero": "Natalia",
     "name": "Natalia",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Assassin"
     ],
@@ -5790,7 +5790,7 @@
     "id": "Natalia-YV7gcY31x2",
     "hero": "Natalia",
     "name": "Natalia Special",
-    "type": "Special",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -5802,7 +5802,7 @@
     "id": "Natalia-wU5pk9mg3k",
     "hero": "Natalia",
     "name": "Natalia Special",
-    "type": "Special",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -5814,7 +5814,7 @@
     "id": "Natalia-T5MvrUZz42",
     "hero": "Natalia",
     "name": "Natalia Special",
-    "type": "Special",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -5826,7 +5826,7 @@
     "id": "Natan-zOdIDDNRWT",
     "hero": "Natan",
     "name": "Natan Tidal Lord",
-    "type": "Tidal Lord",
+    "type": "Original",
     "role": [
       "Marksman",
       "Mage"
@@ -5839,7 +5839,7 @@
     "id": "Natan-MtjTCciJUr",
     "hero": "Natan",
     "name": "Natan Special",
-    "type": "Special",
+    "type": "Original",
     "role": [
       "Marksman",
       "Mage"
@@ -5852,7 +5852,7 @@
     "id": "Natan-TErArLTMyX",
     "hero": "Natan",
     "name": "Natan Star",
-    "type": "Star",
+    "type": "Original",
     "role": [
       "Marksman",
       "Mage"
@@ -5865,7 +5865,7 @@
     "id": "Natan-kZz4K53oVl",
     "hero": "Natan",
     "name": "Natan Skin",
-    "type": "Skin",
+    "type": "Original",
     "role": [
       "Marksman",
       "Mage"
@@ -5878,7 +5878,7 @@
     "id": "Nolan-ZKC6ICplil",
     "hero": "Nolan",
     "name": "Nolan Basic",
-    "type": "Basic",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -5890,7 +5890,7 @@
     "id": "Nolan-FIYRRVPY7R",
     "hero": "Nolan",
     "name": "Nolan Nolan",
-    "type": "Nolan",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -5902,7 +5902,7 @@
     "id": "Nolan-ddqAT4yP67",
     "hero": "Nolan",
     "name": "Nolan Star",
-    "type": "Star",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -5914,7 +5914,7 @@
     "id": "Novaria-6fQrReVhGX",
     "hero": "Novaria",
     "name": "Novaria Star",
-    "type": "Star",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -5926,7 +5926,7 @@
     "id": "Novaria-S1qjsRB699",
     "hero": "Novaria",
     "name": "Novaria Skin",
-    "type": "Skin",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -5938,7 +5938,7 @@
     "id": "Odette-NQwIfIpSPQR_r8Z90Uf",
     "hero": "Odete",
     "name": "Odete",
-    "type": "Original",
+    "type": "Backup",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero461-portrait.png/revision/latest?cb=20220525165233",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero461-portrait.png/revision/latest?cb=20220525165233",
@@ -5948,7 +5948,7 @@
     "id": "Odete-pyCJp44QU6",
     "hero": "Odete",
     "name": "Odete Create",
-    "type": "Create",
+    "type": "Original",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero468-portrait.png/revision/latest?cb=20230514163407",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero468-portrait.png/revision/latest?cb=20230514163407",
@@ -5958,7 +5958,7 @@
     "id": "Odete-idaGbtqr2X",
     "hero": "Odete",
     "name": "Odete Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero464-portrait.png/revision/latest?cb=20220525165238",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero464-portrait.png/revision/latest?cb=20220525165238",
@@ -5968,7 +5968,7 @@
     "id": "Odete-7BZ0ZFfAmt",
     "hero": "Odete",
     "name": "Odete Zodiac",
-    "type": "Zodiac",
+    "type": "Original",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero466-portrait.png/revision/latest?cb=20230805043847",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero466-portrait.png/revision/latest?cb=20230805043847",
@@ -5978,7 +5978,7 @@
     "id": "Odete-doyS82mPQx",
     "hero": "Odete",
     "name": "Odete Lunar Fest",
-    "type": "Lunar Fest",
+    "type": "Original",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero467-portrait.png/revision/latest?cb=20220525165241",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero467-portrait.png/revision/latest?cb=20220525165241",
@@ -5988,7 +5988,7 @@
     "id": "Odete-b9Vzsg4wPX",
     "hero": "Odete",
     "name": "Odete Star",
-    "type": "Star",
+    "type": "Original",
     "role": [],
     "img1": "https://pbs.twimg.com/media/GS0dQLubUAAIVev?format=jpg&name=4096x4096",
     "img2": "https://pbs.twimg.com/media/GS0dQLubUAAIVev?format=jpg&name=4096x4096",
@@ -5998,7 +5998,7 @@
     "id": "Paquito-qHNKzwUgpK",
     "hero": "Paquito",
     "name": "Paquito Blazing Tiger",
-    "type": "Blazing Tiger",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -6010,7 +6010,7 @@
     "id": "Paquito-NQwIilfhI6oRTKAH5v5",
     "hero": "Paquito",
     "name": "Paquito",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Fighter"
     ],
@@ -6022,7 +6022,7 @@
     "id": "Paquito-Z08swAu9ub",
     "hero": "Paquito",
     "name": "Paquito Pacquiao",
-    "type": "Pacquiao",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -6034,7 +6034,7 @@
     "id": "Paquito-r58pZeoWQ6",
     "hero": "Paquito",
     "name": "Paquito Star",
-    "type": "Star",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -6046,7 +6046,7 @@
     "id": "Paquito-q96sEDL2fn",
     "hero": "Paquito",
     "name": "Paquito KOF",
-    "type": "KOF",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -6058,7 +6058,7 @@
     "id": "Paquito-r92HST8Z1e",
     "hero": "Paquito",
     "name": "Paquito kyo Kusanagi",
-    "type": "kyo Kusanagi",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -6070,7 +6070,7 @@
     "id": "Parsha-NQwIl5TDnLvCt196t3Z",
     "hero": "Parsha",
     "name": "Parsha",
-    "type": "Original",
+    "type": "Backup",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero521-portrait.png/revision/latest?cb=20240122082105",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero521-portrait.png/revision/latest?cb=20240122082105",
@@ -6080,7 +6080,7 @@
     "id": "Parsha-x0c9jpoHBU",
     "hero": "Parsha",
     "name": "Parsha Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero105210-portrait.png/revision/latest?cb=20230917045337",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero105210-portrait.png/revision/latest?cb=20230917045337",
@@ -6090,7 +6090,7 @@
     "id": "Parsha-qJtaBkUQE4",
     "hero": "Parsha",
     "name": "Parsha Collector",
-    "type": "Collector",
+    "type": "Original",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero526-portrait.png/revision/latest?cb=20220525165345",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero526-portrait.png/revision/latest?cb=20220525165345",
@@ -6100,7 +6100,7 @@
     "id": "Parsha-0VZizFwyJ4",
     "hero": "Parsha",
     "name": "Parsha MSC",
-    "type": "MSC",
+    "type": "Original",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero529-portrait.png/revision/latest?cb=20220525165348",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero529-portrait.png/revision/latest?cb=20220525165348",
@@ -6110,7 +6110,7 @@
     "id": "Parsha-FEk5lsPaxA",
     "hero": "Parsha",
     "name": "Parsha Star",
-    "type": "Star",
+    "type": "Original",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero528-portrait.png/revision/latest?cb=20220525165347",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero528-portrait.png/revision/latest?cb=20220525165347",
@@ -6120,7 +6120,7 @@
     "id": "Phoveus-NQwInosiEDC9dv5dQTq",
     "hero": "Phoveus",
     "name": "Phoveus",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Fighter"
     ],
@@ -6132,7 +6132,7 @@
     "id": "Popol & Kupa-NQwIr0E2dBwEBbqvlpq",
     "hero": "Popol & Kupa",
     "name": "Popol & Kupa",
-    "type": "Original",
+    "type": "Backup",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero941-portrait.png/revision/latest?cb=20220525170226",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero941-portrait.png/revision/latest?cb=20220525170226",
@@ -6142,7 +6142,7 @@
     "id": "Popol & Kupa-xKDoBnkoam",
     "hero": "Popol & Kupa",
     "name": "Popol & Kupa Spirit Of The Brush",
-    "type": "Spirit Of The Brush",
+    "type": "Original",
     "role": [],
     "img1": "https://github.com/rahasia55/tes/blob/main/polpa%20collector.png?raw=true",
     "img2": "https://github.com/rahasia55/tes/blob/main/polpa%20collector.png?raw=true",
@@ -6152,7 +6152,7 @@
     "id": "Popol & Kupa-SY0jowvLBB",
     "hero": "Popol & Kupa",
     "name": "Popol & Kupa Kiba",
-    "type": "Kiba",
+    "type": "Original",
     "role": [],
     "img1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbdcMyoq_U96Emv0jBhEffo5b_uzfGBiT9qg&usqp=CAU",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbdcMyoq_U96Emv0jBhEffo5b_uzfGBiT9qg&usqp=CAU",
@@ -6162,7 +6162,7 @@
     "id": "Popol & Kupa-Z7vwKOMwXp",
     "hero": "Popol & Kupa",
     "name": "Popol & Kupa Elite",
-    "type": "Elite",
+    "type": "Original",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero943-portrait.png/revision/latest?cb=20220525170231",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero943-portrait.png/revision/latest?cb=20220525170231",
@@ -6172,7 +6172,7 @@
     "id": "Popol & Kupa-FWngLd2xBk",
     "hero": "Popol & Kupa",
     "name": "Popol & Kupa Star",
-    "type": "Star",
+    "type": "Original",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero944-portrait.png/revision/latest?cb=20220526053625",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero944-portrait.png/revision/latest?cb=20220526053625",
@@ -6182,7 +6182,7 @@
     "id": "Popol & Kupa-4RJn8AlJiw",
     "hero": "Popol & Kupa",
     "name": "Popol & Kupa transformers",
-    "type": "transformers",
+    "type": "Original",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Hero945-portrait.png/revision/latest?cb=20220525170232",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Hero945-portrait.png/revision/latest?cb=20220525170232",
@@ -6192,7 +6192,7 @@
     "id": "Rafaela-NQwIurkgLq7r8rU-7XK",
     "hero": "Rafaela",
     "name": "Rafaela",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Support"
     ],
@@ -6204,7 +6204,7 @@
     "id": "Rafaela-hKWbsKevnp",
     "hero": "Rafaela",
     "name": "Rafaela S.A.B.E.R",
-    "type": "S.A.B.E.R",
+    "type": "Original",
     "role": [
       "Support"
     ],
@@ -6216,7 +6216,7 @@
     "id": "Rafaela-cAuG6TX00c",
     "hero": "Rafaela",
     "name": "Rafaela As",
-    "type": "As",
+    "type": "Original",
     "role": [
       "Support"
     ],
@@ -6228,7 +6228,7 @@
     "id": "Rafaela-Mh0NAB2WFX",
     "hero": "Rafaela",
     "name": "Rafaela Christmas",
-    "type": "Christmas",
+    "type": "Original",
     "role": [
       "Support"
     ],
@@ -6240,7 +6240,7 @@
     "id": "Rafaela-d5Fqw0lofO",
     "hero": "Rafaela",
     "name": "Rafaela Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Support"
     ],
@@ -6252,7 +6252,7 @@
     "id": "Rafaela-ZDCSB7SoYD",
     "hero": "Rafaela",
     "name": "Rafaela MPL",
-    "type": "MPL",
+    "type": "Original",
     "role": [
       "Support"
     ],
@@ -6264,7 +6264,7 @@
     "id": "Roger-NQwIxfaeCmrKfh0qg0b",
     "hero": "Roger",
     "name": "Roger",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Fighter",
       "Marksman"
@@ -6277,7 +6277,7 @@
     "id": "Roger-7wTDcJ8Fsw",
     "hero": "Roger",
     "name": "Roger prime",
-    "type": "prime",
+    "type": "Original",
     "role": [
       "Fighter",
       "Marksman"
@@ -6290,7 +6290,7 @@
     "id": "Roger-rAR5GlAH8d",
     "hero": "Roger",
     "name": "Roger Porco",
-    "type": "Porco",
+    "type": "Original",
     "role": [
       "Fighter",
       "Marksman"
@@ -6303,7 +6303,7 @@
     "id": "Roger-eeHsjsKgeF",
     "hero": "Roger",
     "name": "Roger Megumi Fushiguro",
-    "type": "Megumi Fushiguro",
+    "type": "Original",
     "role": [
       "Fighter",
       "Marksman"
@@ -6316,7 +6316,7 @@
     "id": "Roger-roQ3XITUR8",
     "hero": "Roger",
     "name": "Roger Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Fighter",
       "Marksman"
@@ -6329,7 +6329,7 @@
     "id": "Roger-LqZwVgK6lA",
     "hero": "Roger",
     "name": "Roger Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Fighter",
       "Marksman"
@@ -6342,7 +6342,7 @@
     "id": "Roger-DN6vklti7V",
     "hero": "Roger",
     "name": "Roger Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Fighter",
       "Marksman"
@@ -6355,7 +6355,7 @@
     "id": "Roger-IRZh9IHOBD",
     "hero": "Roger",
     "name": "Roger M3",
-    "type": "M3",
+    "type": "Original",
     "role": [
       "Fighter",
       "Marksman"
@@ -6368,7 +6368,7 @@
     "id": "Roger-yD4s0ZOTsI",
     "hero": "Roger",
     "name": "Roger Transformers",
-    "type": "Transformers",
+    "type": "Original",
     "role": [
       "Fighter",
       "Marksman"
@@ -6381,7 +6381,7 @@
     "id": "Roger-tT2NMxbpY8",
     "hero": "Roger",
     "name": "Roger Exorcist",
-    "type": "Exorcist",
+    "type": "Original",
     "role": [
       "Fighter",
       "Marksman"
@@ -6394,7 +6394,7 @@
     "id": "Ruby-NQwJ-a0FNXJW-9TQ3k0",
     "hero": "Ruby",
     "name": "Ruby",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Fighter"
     ],
@@ -6406,7 +6406,7 @@
     "id": "Ruby-uB0cJK7Dyh",
     "hero": "Ruby",
     "name": "Ruby Aspirants",
-    "type": "Aspirants",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -6418,7 +6418,7 @@
     "id": "Ruby-PS8GVN3yrW",
     "hero": "Ruby",
     "name": "Ruby Collector",
-    "type": "Collector",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -6430,7 +6430,7 @@
     "id": "Ruby-SzSYaFu9p5",
     "hero": "Ruby",
     "name": "Ruby Elite",
-    "type": "Elite",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -6442,7 +6442,7 @@
     "id": "Ruby-fZOxTvyEGX",
     "hero": "Ruby",
     "name": "Ruby Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -6454,7 +6454,7 @@
     "id": "Ruby-6Mop3ZMmjt",
     "hero": "Ruby",
     "name": "Ruby Star",
-    "type": "Star",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -6466,7 +6466,7 @@
     "id": "Ruby-TW6QHeeoIy",
     "hero": "Ruby",
     "name": "Ruby Special",
-    "type": "Special",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -6478,7 +6478,7 @@
     "id": "Saber-NQwJ1gtUY3QlLzHtwEb",
     "hero": "Saber",
     "name": "Saber",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Assassin"
     ],
@@ -6490,7 +6490,7 @@
     "id": "Saber-VTY5tuv5Le",
     "hero": "Saber",
     "name": "Saber Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -6502,7 +6502,7 @@
     "id": "Saber-WKYFgZWtTs",
     "hero": "Saber",
     "name": "Saber Legend",
-    "type": "Legend",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -6514,7 +6514,7 @@
     "id": "Saber-ALnjL5tWxa",
     "hero": "Saber",
     "name": "Saber Starlight",
-    "type": "Starlight",
+    "type": "Original",
     "role": [
       "Assassin"
     ],
@@ -6526,7 +6526,7 @@
     "id": "Selena-I0OeBTsHpx",
     "hero": "Selena",
     "name": "Selena S.T.U.N",
-    "type": "S.T.U.N",
+    "type": "Original",
     "role": [
       "Assassin",
       "Mage"
@@ -6539,7 +6539,7 @@
     "id": "Selena-pLOI8bwEpM",
     "hero": "Selena",
     "name": "Selena Zodiac",
-    "type": "Zodiac",
+    "type": "Original",
     "role": [
       "Assassin",
       "Mage"
@@ -6552,7 +6552,7 @@
     "id": "Selena-NQwJ5bTjFRImXPLd9TR",
     "hero": "Selena",
     "name": "Selena",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Assassin",
       "Mage"
@@ -6565,7 +6565,7 @@
     "id": "Selena-LX1n1Rkj97",
     "hero": "Selena",
     "name": "Selena Abyss",
-    "type": "Abyss",
+    "type": "Original",
     "role": [
       "Assassin",
       "Mage"
@@ -6578,7 +6578,7 @@
     "id": "Selena-fUFObOlDGW",
     "hero": "Selena",
     "name": "Selena Nezoku",
-    "type": "Nezoku",
+    "type": "Original",
     "role": [
       "Assassin",
       "Mage"
@@ -6591,7 +6591,7 @@
     "id": "Selena-itH4oaH8lJ",
     "hero": "Selena",
     "name": "Selena Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Assassin",
       "Mage"
@@ -6604,7 +6604,7 @@
     "id": "Selena-GOFqezs0QL",
     "hero": "Selena",
     "name": "Selena Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Assassin",
       "Mage"
@@ -6617,7 +6617,7 @@
     "id": "Selena-B3meVUac3e",
     "hero": "Selena",
     "name": "Selena Starlight",
-    "type": "Starlight",
+    "type": "Original",
     "role": [
       "Assassin",
       "Mage"
@@ -6630,7 +6630,7 @@
     "id": "Selena-LcTYIXyhHC",
     "hero": "Selena",
     "name": "Selena Butterfly",
-    "type": "Butterfly",
+    "type": "Original",
     "role": [
       "Assassin",
       "Mage"
@@ -6643,7 +6643,7 @@
     "id": "Silvana-NQwJ7hKH5LPd-G_Vvhb",
     "hero": "Silvana",
     "name": "Silvana",
-    "type": "Original",
+    "type": "Backup",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Silvanna.png/revision/latest?cb=20200408115031",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Silvanna.png/revision/latest?cb=20200408115031",
@@ -6653,7 +6653,7 @@
     "id": "Silvana-E5hb2JHQJ0",
     "hero": "Silvana",
     "name": "Silvana Ino",
-    "type": "Ino",
+    "type": "Original",
     "role": [],
     "img1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg3BD4oLx9t6EEpN4gHrfqdf6RlETVKnYbPQ&usqp=CAU",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg3BD4oLx9t6EEpN4gHrfqdf6RlETVKnYbPQ&usqp=CAU",
@@ -6663,7 +6663,7 @@
     "id": "Silvana-N5dITTNZgI",
     "hero": "Silvana",
     "name": "Silvana Valentine",
-    "type": "Valentine",
+    "type": "Original",
     "role": [],
     "img1": "https://pbs.twimg.com/media/GE7Bbe4bMAA64kN?format=jpg&name=4096x4096",
     "img2": "https://pbs.twimg.com/media/GE7Bbe4bMAA64kN?format=jpg&name=4096x4096",
@@ -6673,7 +6673,7 @@
     "id": "Silvana-wPWWs25gFa",
     "hero": "Silvana",
     "name": "Silvana Collector",
-    "type": "Collector",
+    "type": "Original",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero905-portrait.png/revision/latest?cb=20220525170146",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero905-portrait.png/revision/latest?cb=20220525170146",
@@ -6683,7 +6683,7 @@
     "id": "Silvana-RWeBVKXhbW",
     "hero": "Silvana",
     "name": "Silvana Special",
-    "type": "Special",
+    "type": "Original",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero909-portrait.png/revision/latest?cb=20240619174651",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero909-portrait.png/revision/latest?cb=20240619174651",
@@ -6693,7 +6693,7 @@
     "id": "Sun-NQwJ9o0A1Yqf7IC90fc",
     "hero": "Sun",
     "name": "Sun",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Fighter"
     ],
@@ -6705,7 +6705,7 @@
     "id": "Sun-MzeujlLidG",
     "hero": "Sun",
     "name": "Sun Naruto",
-    "type": "Naruto",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -6717,7 +6717,7 @@
     "id": "Sun-LzVGaZvX5R",
     "hero": "Sun",
     "name": "Sun Collector",
-    "type": "Collector",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -6729,7 +6729,7 @@
     "id": "Sun-oaLwlQivm0",
     "hero": "Sun",
     "name": "Sun Lunar Fest",
-    "type": "Lunar Fest",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -6741,7 +6741,7 @@
     "id": "Terizla-NQwJBq3rOdv35RMZ4bZ",
     "hero": "Terizla",
     "name": "Terizla",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Fighter"
     ],
@@ -6753,7 +6753,7 @@
     "id": "Terizla-XE90YMRJvg",
     "hero": "Terizla",
     "name": "Terizla Elite",
-    "type": "Elite",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -6765,7 +6765,7 @@
     "id": "Terizla-hB9xUbwSY6",
     "hero": "Terizla",
     "name": "Terizla Halloween",
-    "type": "Halloween",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -6777,7 +6777,7 @@
     "id": "Terizla-p3M7h5j6zy",
     "hero": "Terizla",
     "name": "Terizla Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -6789,7 +6789,7 @@
     "id": "Thamus-NQwJEmeOtPyPBlwnw7c",
     "hero": "Thamus",
     "name": "Thamus",
-    "type": "Original",
+    "type": "Backup",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero721-portrait.png/revision/latest?cb=20220525165744",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero721-portrait.png/revision/latest?cb=20220525165744",
@@ -6799,7 +6799,7 @@
     "id": "Thamus-fAWLGFS0WS",
     "hero": "Thamus",
     "name": "Thamus General Kai",
-    "type": "General Kai",
+    "type": "Original",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero725-portrait.png/revision/latest?cb=20220804115335",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero725-portrait.png/revision/latest?cb=20220804115335",
@@ -6809,7 +6809,7 @@
     "id": "Thamus-9Vgg0ZSLc0",
     "hero": "Thamus",
     "name": "Thamus Elite",
-    "type": "Elite",
+    "type": "Original",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero723-portrait.png/revision/latest?cb=20220525165749",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero723-portrait.png/revision/latest?cb=20220525165749",
@@ -6819,7 +6819,7 @@
     "id": "Thamus-QlZ7nvYabc",
     "hero": "Thamus",
     "name": "Thamus Starlight",
-    "type": "Starlight",
+    "type": "Original",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero726-portrait.png/revision/latest?cb=20230514163423",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero726-portrait.png/revision/latest?cb=20230514163423",
@@ -6829,7 +6829,7 @@
     "id": "Tigreal-NQwJK5gYxXCObXDXu26",
     "hero": "Tigreal",
     "name": "Tigreal",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Tank"
     ],
@@ -6841,7 +6841,7 @@
     "id": "Tigreal-XUPs125TxD",
     "hero": "Tigreal",
     "name": "Tigreal Thor",
-    "type": "Thor",
+    "type": "Original",
     "role": [
       "Tank"
     ],
@@ -6853,7 +6853,7 @@
     "id": "Tigreal-nPztfY0Bpl",
     "hero": "Tigreal",
     "name": "Tigreal Lightborn",
-    "type": "Lightborn",
+    "type": "Original",
     "role": [
       "Tank"
     ],
@@ -6865,7 +6865,7 @@
     "id": "Tigreal-PLccsvNXkd",
     "hero": "Tigreal",
     "name": "Tigreal Special",
-    "type": "Special",
+    "type": "Original",
     "role": [
       "Tank"
     ],
@@ -6877,7 +6877,7 @@
     "id": "Tigreal-ytko7FYSQy",
     "hero": "Tigreal",
     "name": "Tigreal Star",
-    "type": "Star",
+    "type": "Original",
     "role": [
       "Tank"
     ],
@@ -6889,7 +6889,7 @@
     "id": "Uranus-NQwJRcJgLSesc0Yi8wQ",
     "hero": "Uranus",
     "name": "Uranus",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Tank"
     ],
@@ -6901,7 +6901,7 @@
     "id": "Uranus-WMjPDMannj",
     "hero": "Uranus",
     "name": "Uranus Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Tank"
     ],
@@ -6913,7 +6913,7 @@
     "id": "Uranus-qapfVt9B0a",
     "hero": "Uranus",
     "name": "Uranus Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Tank"
     ],
@@ -6925,7 +6925,7 @@
     "id": "Vale-NQwJVBm3IXzVWbfVyRL",
     "hero": "Vale",
     "name": "Vale",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Mage"
     ],
@@ -6937,7 +6937,7 @@
     "id": "Vale-ES5pLHcw9H",
     "hero": "Vale",
     "name": "Vale Collector",
-    "type": "Collector",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -6949,7 +6949,7 @@
     "id": "Vale-W5Esr0fU8d",
     "hero": "Vale",
     "name": "Vale Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -6961,7 +6961,7 @@
     "id": "Vale-weov7zTlO8",
     "hero": "Vale",
     "name": "Vale Fire Wind",
-    "type": "Fire Wind",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -6973,7 +6973,7 @@
     "id": "Valentina-NQwJXtlge8FCeciAH4P",
     "hero": "Valentina",
     "name": "Valentina",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Mage"
     ],
@@ -6985,7 +6985,7 @@
     "id": "Valentina-Fj9rKOkZk1",
     "hero": "Valentina",
     "name": "Valentina Starlight",
-    "type": "Starlight",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -6997,7 +6997,7 @@
     "id": "Valentina-aBYk2VUPIG",
     "hero": "Valentina",
     "name": "Valentina Collector",
-    "type": "Collector",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -7009,7 +7009,7 @@
     "id": "Valentina-il8u8ikLwJ",
     "hero": "Valentina",
     "name": "Valentina Celestial Judicator",
-    "type": "Celestial Judicator ",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -7021,7 +7021,7 @@
     "id": "Valentina-izIDLxr04o",
     "hero": "Valentina",
     "name": "Valentina Collector",
-    "type": "Collector",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -7033,7 +7033,7 @@
     "id": "Valentina-C0dTUakFA4",
     "hero": "Valentina",
     "name": "Valentina MSC",
-    "type": "MSC",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -7045,7 +7045,7 @@
     "id": "Valir-NQwJn0BVz9k_lFeEqmH",
     "hero": "Valir",
     "name": "Valir",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Mage"
     ],
@@ -7057,7 +7057,7 @@
     "id": "Valir-zEN6Ya9UkG",
     "hero": "Valir",
     "name": "Valir Legend",
-    "type": "Legend",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -7069,7 +7069,7 @@
     "id": "Valir-BCv5T3DzDl",
     "hero": "Valir",
     "name": "Valir Collector",
-    "type": "Collector",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -7081,7 +7081,7 @@
     "id": "Valir-PlB5dz6ff1",
     "hero": "Valir",
     "name": "Valir Dragon Tamer",
-    "type": "Dragon Tamer",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -7093,7 +7093,7 @@
     "id": "Valir-Ckx7UHAOR0",
     "hero": "Valir",
     "name": "Valir Phoenik Ikki",
-    "type": "Phoenik Ikki",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -7105,7 +7105,7 @@
     "id": "Valir-zfuiwiWMRB",
     "hero": "Valir",
     "name": "Valir KOF",
-    "type": "KOF",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -7117,7 +7117,7 @@
     "id": "Valir-cF6SLjX0r0",
     "hero": "Valir",
     "name": "Valir Leo Ikki",
-    "type": "Leo Ikki",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -7129,7 +7129,7 @@
     "id": "Vexana-NQwJsaFLeRwum6AlTVH",
     "hero": "Vexana",
     "name": "Vexana",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Mage"
     ],
@@ -7141,7 +7141,7 @@
     "id": "Vexana-SlZz4Y3HWO",
     "hero": "Vexana",
     "name": "Vexana Collector",
-    "type": "Collector",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -7153,7 +7153,7 @@
     "id": "Vexana-aDMWZc1Weu",
     "hero": "Vexana",
     "name": "Vexana Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -7165,7 +7165,7 @@
     "id": "Vexana-UPuDCculVm",
     "hero": "Vexana",
     "name": "Vexana Star",
-    "type": "Star",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -7177,7 +7177,7 @@
     "id": "Vexana-N9idQkN01B",
     "hero": "Vexana",
     "name": "Vexana Zenith",
-    "type": "Zenith",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -7189,7 +7189,7 @@
     "id": "Vexana-jcR1rEpCmY",
     "hero": "Vexana",
     "name": "Vexana Megumi",
-    "type": "Megumi",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -7201,7 +7201,7 @@
     "id": "Wanwan-EU9G2LMbM9",
     "hero": "Wanwan",
     "name": "Wanwan Mworld",
-    "type": "Mworld",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -7213,7 +7213,7 @@
     "id": "Wanwan-iMyI3hxu6f",
     "hero": "Wanwan",
     "name": "Wanwan Skin",
-    "type": "Skin",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -7225,7 +7225,7 @@
     "id": "Wanwan-bikSQU8vyW",
     "hero": "Wanwan",
     "name": "Wanwan Collector",
-    "type": "Collector",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -7237,7 +7237,7 @@
     "id": "Wanwan-Slnlie74kY",
     "hero": "Wanwan",
     "name": "Wanwan MPL",
-    "type": "MPL",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -7249,7 +7249,7 @@
     "id": "Wanwan-Hc4WSs8MJG",
     "hero": "Wanwan",
     "name": "Wanwan 11.11",
-    "type": "11.11",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -7261,7 +7261,7 @@
     "id": "Wanwan-pGsBPp5jgM",
     "hero": "Wanwan",
     "name": "Wanwan Star",
-    "type": "Star",
+    "type": "Original",
     "role": [
       "Marksman"
     ],
@@ -7273,7 +7273,7 @@
     "id": "X-Borg-ozIkZ6ZsAJ",
     "hero": "X-Borg",
     "name": "X-Borg Transformers",
-    "type": "Transformers",
+    "type": "Original",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Bumblebee.jpg/revision/latest?cb=20220203090121",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Bumblebee.jpg/revision/latest?cb=20220203090121",
@@ -7283,7 +7283,7 @@
     "id": "X-Borg-0tTFAzBoqF",
     "hero": "X-Borg",
     "name": "X-Borg Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Tesla_Maniac.jpg/revision/latest?cb=20211215020419",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Tesla_Maniac.jpg/revision/latest?cb=20211215020419",
@@ -7293,7 +7293,7 @@
     "id": "X-Borg-NQwJxc-bSQJQzIrjppN",
     "hero": "X-Borg",
     "name": "X-Borg",
-    "type": "Original",
+    "type": "Backup",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Hero831-portrait.png/revision/latest?cb=20230826055048",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Hero831-portrait.png/revision/latest?cb=20230826055048",
@@ -7303,7 +7303,7 @@
     "id": "X-Borg-EwqfVe0S9I",
     "hero": "X-Borg",
     "name": "X-Borg Starlight",
-    "type": "Starlight",
+    "type": "Original",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero834-portrait.png/revision/latest?cb=20220525165959",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero834-portrait.png/revision/latest?cb=20220525165959",
@@ -7313,7 +7313,7 @@
     "id": "Xavier-C30NkKXNQP",
     "hero": "Xavier",
     "name": "Xavier JJK",
-    "type": "JJK",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -7325,7 +7325,7 @@
     "id": "Xavier-NQwJzXlXP0FODD65G3u",
     "hero": "Xavier",
     "name": "Xavier",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Mage"
     ],
@@ -7337,7 +7337,7 @@
     "id": "Xavier-umPWwlWGHQ",
     "hero": "Xavier",
     "name": "Xavier Clouds",
-    "type": "Clouds",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -7349,7 +7349,7 @@
     "id": "Yi Shun Shin-qsFT8Rq6r4",
     "hero": "Yi Shun Shin",
     "name": "Yi Shun Shin Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero307-portrait.png/revision/latest?cb=20220628180302",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero307-portrait.png/revision/latest?cb=20220628180302",
@@ -7359,7 +7359,7 @@
     "id": "Yi Shun Shin-WW0TFQFfy8",
     "hero": "Yi Shun Shin",
     "name": "Yi Shun Shin Collector",
-    "type": "Collector",
+    "type": "Original",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero305-portrait.png/revision/latest?cb=20220525164953",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero305-portrait.png/revision/latest?cb=20220525164953",
@@ -7369,7 +7369,7 @@
     "id": "Yu Shun Shin-NQwK2zK0yJ6aP9lQmdI",
     "hero": "Yi Shun Shin",
     "name": "Yi Shun Shin",
-    "type": "Original",
+    "type": "Backup",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero301-portrait.png/revision/latest?cb=20220525171302",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero301-portrait.png/revision/latest?cb=20220525171302",
@@ -7379,7 +7379,7 @@
     "id": "Yi Shun Shin-fTnDhjDgSE",
     "hero": "Yi Shun Shin",
     "name": "Yi Shun Shin Star",
-    "type": "Star",
+    "type": "Original",
     "role": [],
     "img1": "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Hero306-portrait.png/revision/latest?cb=20220525164954",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Hero306-portrait.png/revision/latest?cb=20220525164954",
@@ -7389,7 +7389,7 @@
     "id": "Yin-LsFoGZACRx",
     "hero": "Yin",
     "name": "Yin Eren",
-    "type": "Eren",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -7401,7 +7401,7 @@
     "id": "Yin-4SZyKKi7Hu",
     "hero": "Yin",
     "name": "Yin JJK",
-    "type": "JJK",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -7413,7 +7413,7 @@
     "id": "Yin-qOqwObmnJG",
     "hero": "Yin",
     "name": "Yin Yin Skin",
-    "type": "Yin Skin",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -7425,7 +7425,7 @@
     "id": "Yin-PxVWb6kRV1",
     "hero": "Yin",
     "name": "Yin Mworld",
-    "type": "Mworld",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -7437,7 +7437,7 @@
     "id": "Yin-HCzjNh6adf",
     "hero": "Yin",
     "name": "Yin Starlight",
-    "type": "Starlight",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -7449,7 +7449,7 @@
     "id": "Yin-LQEcRRXiae",
     "hero": "Yin",
     "name": "Yin Star Painted",
-    "type": "Star Painted",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -7461,7 +7461,7 @@
     "id": "Yin-76cg7fC5gG",
     "hero": "Yin",
     "name": "Yin Gojo",
-    "type": "Gojo",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -7473,7 +7473,7 @@
     "id": "Yin-XSf0KFbdHB",
     "hero": "Yin",
     "name": "Yin Naruto",
-    "type": "Naruto",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -7485,7 +7485,7 @@
     "id": "Yin-qhIpahBC2O",
     "hero": "Yin",
     "name": "Yin Yuji",
-    "type": "Yuji",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -7497,7 +7497,7 @@
     "id": "Yin-oZACklVszl",
     "hero": "Yin",
     "name": "Yin Sukuna",
-    "type": "Sukuna",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -7509,7 +7509,7 @@
     "id": "Yu Zhong-SYUasFdKvy",
     "hero": "Yu Zhong",
     "name": "Yu Zhong Exorcist",
-    "type": "Exorcist",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -7521,7 +7521,7 @@
     "id": "Yu Zhong-NQwK543AfSvuDS-Me8B",
     "hero": "Yu Zhong",
     "name": "Yu Zhong",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Fighter"
     ],
@@ -7533,7 +7533,7 @@
     "id": "Yu Zhong-nIMI3rlM8x",
     "hero": "Yu Zhong",
     "name": "Yu Zhong Collector",
-    "type": "Collector",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -7545,7 +7545,7 @@
     "id": "Yu Zhong-h4IA8jIOgc",
     "hero": "Yu Zhong",
     "name": "Yu Zhong M5",
-    "type": "M5",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -7557,7 +7557,7 @@
     "id": "Yu Zhong-YKDxIUMSXT",
     "hero": "Yu Zhong",
     "name": "Yu Zhong Prime",
-    "type": "Prime",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -7569,7 +7569,7 @@
     "id": "Yu Zhong-5tDQn4T7By",
     "hero": "Yu Zhong",
     "name": "Yu Zhong Kaido",
-    "type": "Kaido",
+    "type": "Original",
     "role": [
       "Fighter"
     ],
@@ -7581,7 +7581,7 @@
     "id": "Yve-NQwK8T1Iz-KW8HCegwO",
     "hero": "Yve",
     "name": "Yve Skin",
-    "type": "Skin",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -7593,7 +7593,7 @@
     "id": "Yve-FWxcs112JT",
     "hero": "Yve",
     "name": "Yve Elite",
-    "type": "Elite",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -7605,7 +7605,7 @@
     "id": "Zhask-NQwKAxAZiw-HUVDQfmq",
     "hero": "Zhask",
     "name": "Zhask",
-    "type": "Original",
+    "type": "Backup",
     "role": [
       "Mage"
     ],
@@ -7617,7 +7617,7 @@
     "id": "Zhask-Yjo8WFkGyf",
     "hero": "Zhask",
     "name": "Zhask Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -7629,7 +7629,7 @@
     "id": "Zhask-V75L45QFei",
     "hero": "Zhask",
     "name": "Zhask Zodiac",
-    "type": "Zodiac",
+    "type": "Original",
     "role": [
       "Mage"
     ],
@@ -7641,7 +7641,7 @@
     "id": "Zilong-NQwKD9jvO7-pcunXdzS",
     "hero": "Zilong",
     "name": "Zilong Skin",
-    "type": "Skin",
+    "type": "Original",
     "role": [
       "Fighter",
       "Assassin"
@@ -7654,7 +7654,7 @@
     "id": "Zilong-kudXycaIKK",
     "hero": "Zilong",
     "name": "Zilong Collector",
-    "type": "Collector",
+    "type": "Original",
     "role": [
       "Fighter",
       "Assassin"
@@ -7667,7 +7667,7 @@
     "id": "Zilong-lMWvd9rC3P",
     "hero": "Zilong",
     "name": "Zilong Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Fighter",
       "Assassin"
@@ -7680,7 +7680,7 @@
     "id": "Zilong-OaOaEETV8h",
     "hero": "Zilong",
     "name": "Zilong Summer",
-    "type": "Summer",
+    "type": "Original",
     "role": [
       "Fighter",
       "Assassin"
@@ -7693,7 +7693,7 @@
     "id": "Zilong-4Rcg9Gn8Dm",
     "hero": "Zilong",
     "name": "Zilong Sasuke",
-    "type": "Sasuke",
+    "type": "Original",
     "role": [
       "Fighter",
       "Assassin"
@@ -7706,7 +7706,7 @@
     "id": "Zilong-j1mh5gpNLj",
     "hero": "Zilong",
     "name": "Zilong Maeda Keiji",
-    "type": "Maeda Keiji",
+    "type": "Original",
     "role": [
       "Fighter",
       "Assassin"
@@ -7719,7 +7719,7 @@
     "id": "Zilong-vJsFQhbklQ",
     "hero": "Zilong",
     "name": "Zilong Lunar Fest",
-    "type": "Lunar Fest",
+    "type": "Original",
     "role": [
       "Fighter",
       "Assassin"
@@ -7732,7 +7732,7 @@
     "id": "Zilong-uU6ELbh8VE",
     "hero": "Zilong",
     "name": "Zilong 515",
-    "type": "515",
+    "type": "Original",
     "role": [
       "Fighter",
       "Assassin"
@@ -7745,7 +7745,7 @@
     "id": "Zilong-ugH9raxrDd",
     "hero": "Zilong",
     "name": "Zilong Epic",
-    "type": "Epic",
+    "type": "Original",
     "role": [
       "Fighter",
       "Assassin"
