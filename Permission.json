@@ -1,0 +1,7 @@
+{
+  "description1": "Select a permission type to proceed with the setup.",
+  "description2": "Follow the guide images to grant the required permissions.",
+  "image1_url": "https://example.com/image1.png",
+  "image2_url": "https://example.com/image2.png",
+  "tutorial_url": "https://www.youtube.com/watch?v=your_video_id"
+}
