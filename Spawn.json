@@ -47,5 +47,12 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Classic_Spawn_Effect_331451eb.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/MSC_Tournament_Spawn_Effect_217a32fa.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Spawn/spawn7_3118c7b7.zip"
+  },
+  {
+    "id": "c6bf4dd9-d",
+    "name": "Sky Guardian",
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Classic_Spawn_Effect_9759989b.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Sky_Guardian_Spawn_Effect_0dd63f4e.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Spawn/spawn8_7cf45d67.zip"
   }
 ]
