@@ -19,5 +19,12 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Classic_Spawn_Effect_b1553b74.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/2019_M1_Glory_Spawn_Effect_d48a6d2c.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Spawn/spawn3_14350f2e.zip"
+  },
+  {
+    "id": "9394a98b-0",
+    "name": "M1 Champions",
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Classic_Spawn_Effect_372cfe4a.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/M1_Champion_Spawn_Effect_5cf62c61.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Spawn/spawn4_41a54b69.zip"
   }
 ]
