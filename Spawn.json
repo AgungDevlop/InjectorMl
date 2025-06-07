@@ -26,5 +26,12 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Classic_Spawn_Effect_372cfe4a.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/M1_Champion_Spawn_Effect_5cf62c61.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Spawn/spawn4_41a54b69.zip"
+  },
+  {
+    "id": "45a84475-e",
+    "name": "Halloween",
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Classic_Spawn_Effect_a02e2b68.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Halloween_Spawn_Effect_d8693c4b.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Spawn/spawn5_d6f50538.zip"
   }
 ]
