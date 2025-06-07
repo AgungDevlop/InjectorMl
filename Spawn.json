@@ -54,5 +54,12 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Classic_Spawn_Effect_9759989b.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Sky_Guardian_Spawn_Effect_0dd63f4e.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Spawn/spawn8_7cf45d67.zip"
+  },
+  {
+    "id": "5257bffa-f",
+    "name": "Thunder Arrives",
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Classic_Spawn_Effect_868aa4ae.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Thunder_Arrives_Spawn_Effect_7df12ce2.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Spawn/spawn9_ded2dd1a.zip"
   }
 ]
