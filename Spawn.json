@@ -40,5 +40,12 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Classic_Spawn_Effect_028c779a.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/MCL_Tournament_Spawn_Effect_b1edda34.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Spawn/spawn6_4b33df5f.zip"
+  },
+  {
+    "id": "e1d4f045-e",
+    "name": "Msc Tournament",
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Classic_Spawn_Effect_331451eb.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/MSC_Tournament_Spawn_Effect_217a32fa.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Spawn/spawn7_3118c7b7.zip"
   }
 ]
