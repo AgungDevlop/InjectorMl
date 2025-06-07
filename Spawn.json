@@ -12,5 +12,12 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Classic_Spawn_Effect_85af7c4d.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Super_Descent_Spawn_Effect_73e818a6.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Spawn/spawn2_06cf1ae3.zip"
+  },
+  {
+    "id": "db5042bc-4",
+    "name": "M1 Glory",
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Classic_Spawn_Effect_b1553b74.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/2019_M1_Glory_Spawn_Effect_d48a6d2c.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Spawn/spawn3_14350f2e.zip"
   }
 ]
