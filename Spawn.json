@@ -5,5 +5,12 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Classic_Spawn_Effect_ba98b4c1.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/The_Arrival_of_The_Sword_Spawn_Effect_0359663e.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Spawn/spawn1_a31a3229.zip"
+  },
+  {
+    "id": "95d66c0c-0",
+    "name": "Super Descent",
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Classic_Spawn_Effect_85af7c4d.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Super_Descent_Spawn_Effect_73e818a6.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Spawn/spawn2_06cf1ae3.zip"
   }
 ]
