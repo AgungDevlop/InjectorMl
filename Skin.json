@@ -7799,5 +7799,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero851-icon_221beb4a.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero856-icon_cf334eaf.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/dyrroth3_3127abbb.zip"
+  },
+  {
+    "id": "cc3a9650-f",
+    "hero": "Dyrroth",
+    "name": "Dyrroth Collector",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero851-icon_ee381aee.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero857-icon_a67c4330.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/dyrroth4_75231c88.zip"
   }
 ]
