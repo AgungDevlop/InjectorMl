@@ -7919,5 +7919,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero841-icon_0d435efe.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero846-icon_9ef8102d.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/ling2_067c5b4d.zip"
+  },
+  {
+    "id": "9ea851d5-e",
+    "hero": "Ling",
+    "name": "Ling Starlight",
+    "type": "Original",
+    "role": [
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero841-icon_647b22ed.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero843-icon_d0d60d58.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/ling3_6ede8ae5.zip"
   }
 ]
