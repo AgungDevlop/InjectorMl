@@ -7741,5 +7741,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero081-icon_1d802455.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero086-icon_6ac23ec5.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/karina3_cdb14202.zip"
+  },
+  {
+    "id": "f7777e18-3",
+    "hero": "Karina",
+    "name": "Karina Starlight",
+    "type": "Original",
+    "role": [
+      "Mage",
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero081-icon_48ffc51a.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero084-icon_41da66a5.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/karina4_dd0a8151.zip"
   }
 ]
