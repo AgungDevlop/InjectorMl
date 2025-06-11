@@ -7725,5 +7725,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero971-icon_46fafaf1.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero977-icon_62ee4d4c.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/bened5_c8f3fdb3.zip"
+  },
+  {
+    "id": "2c8ddba9-b",
+    "hero": "Benedetta",
+    "name": "Benedetta Covenant",
+    "type": "Original",
+    "role": [
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero971-icon_194b8d45.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero978-icon_5d98fd96.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/bened6_fa418db1.zip"
   }
 ]
