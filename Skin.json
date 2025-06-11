@@ -7821,5 +7821,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero171-icon_b20247ad.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero101712-icon_1f904ceb.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/fanny8_38671581.zip"
+  },
+  {
+    "id": "83cd56ea-d",
+    "hero": "Fanny",
+    "name": "Fanny Valentine",
+    "type": "Original",
+    "role": [
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero171-icon_914bdc5a.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero101711-icon_7203783d.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/fanny9_1a28cf87.zip"
   }
 ]
