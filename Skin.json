@@ -7943,5 +7943,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero841-icon_103518fa.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero847-icon_73cd8650.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/ling4_5c38d476.zip"
+  },
+  {
+    "id": "e0e659d6-3",
+    "hero": "Ling",
+    "name": "Ling Dragon Tamer",
+    "type": "Original",
+    "role": [
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero841-icon_0fd1b81f.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero844-icon_77e2fd89.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/ling5_7d1fb6b8.zip"
   }
 ]
