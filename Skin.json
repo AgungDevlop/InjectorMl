@@ -7780,5 +7780,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero511-icon_7845a5c7.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero511-icon_b9bb940b.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20hc_bc892750.zip"
+  },
+  {
+    "id": "4ad4a35e-6",
+    "hero": "Helcurt",
+    "name": "Helcurt Elite",
+    "type": "Original",
+    "role": [
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero511-icon_47be9abb.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero513-icon_50b0a185.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/hc1_f208606a.zip"
   }
 ]
