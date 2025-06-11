@@ -7672,5 +7672,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero561-icon_c752a1d7.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero105610-icon_b975e57f.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/gs5_48bbda28.zip"
+  },
+  {
+    "id": "5ac42101-9",
+    "hero": "Gusion",
+    "name": "Gusion Starlight Dessert",
+    "type": "Original",
+    "role": [
+      "Mage",
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero561-icon_c3255d7d.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero105613-icon_12131291.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/gs6_a21c6730.zip"
   }
 ]
