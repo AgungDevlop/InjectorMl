@@ -7787,5 +7787,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero851-icon_e396a538.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero853-icon_52f9301f.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/dyrroth2_8a0f99b0.zip"
+  },
+  {
+    "id": "a25f0703-1",
+    "hero": "Dyrroth",
+    "name": "Dyrroth VENOM",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero851-icon_221beb4a.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero856-icon_cf334eaf.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/dyrroth3_3127abbb.zip"
   }
 ]
