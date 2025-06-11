@@ -7834,5 +7834,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1181-icon_287f8c4e.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250612_033234_5b82e715.jpg",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/joy1_77e90c2f.zip"
+  },
+  {
+    "id": "78c1e870-6",
+    "hero": "Joy",
+    "name": "Joy Starlight",
+    "type": "Original",
+    "role": [
+      "Mage",
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1181-icon_e1820fe0.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1185-icon_c875f6ab.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/joy2_2906ed9c.zip"
   }
 ]
