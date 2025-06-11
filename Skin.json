@@ -7768,5 +7768,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero031-icon_98c8cf12.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero039-icon_8281c87f.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/saber6_21f9a94b.zip"
+  },
+  {
+    "id": "00198df0-b",
+    "hero": "Natalia",
+    "name": "Natalia",
+    "type": "Backup",
+    "role": [
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero241-icon_a59eb74c.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero241-icon_04b43fa5.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20nata_ec7ee3b6.zip"
   }
 ]
