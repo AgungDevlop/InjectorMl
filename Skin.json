@@ -7653,5 +7653,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero211-icon_068424ac.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero218-icon_ebe43e89.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/haya6_2ad3ee1e.zip"
+  },
+  {
+    "id": "f713806a-e",
+    "hero": "Hayabusa",
+    "name": "Hayabusa Elite Techie",
+    "type": "Original",
+    "role": [
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero211-icon_50a838d9.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero219-icon_06c61ba0.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/haya7_9d36074b.zip"
   }
 ]
