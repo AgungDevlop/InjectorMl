@@ -7828,5 +7828,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero511-icon_93f63656.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero516-icon_69648b0a.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/hc4_9389063c.zip"
+  },
+  {
+    "id": "9d18b9c1-c",
+    "hero": "Aamon",
+    "name": "Aamon",
+    "type": "Backup",
+    "role": [
+      "Mage",
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1091-icon_04861641.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1091-icon_b91e05e2.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20amon_ff25179c.zip"
   }
 ]
