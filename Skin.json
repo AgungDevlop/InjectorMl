@@ -7828,5 +7828,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero241-icon_2a50d8f7.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero247-icon_d50882f7.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/nata4_02c55a71.zip"
+  },
+  {
+    "id": "66313ab7-b",
+    "hero": "Natalia",
+    "name": "Natalia Special Grim",
+    "type": "Original",
+    "role": [
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero241-icon_0b96d851.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero246-icon_18262f69.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/nata5_2ad5c371.zip"
   }
 ]
