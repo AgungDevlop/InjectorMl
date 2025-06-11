@@ -7804,5 +7804,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero241-icon_8c1a05e8.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero243-icon_0a565208.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/nata2_10671257.zip"
+  },
+  {
+    "id": "96193278-4",
+    "hero": "Natalia",
+    "name": "Natalia Special Midnight",
+    "type": "Original",
+    "role": [
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero241-icon_2a7bcc92.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero245-icon_dd5d2c2e.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/nata3_5465baed.zip"
   }
 ]
