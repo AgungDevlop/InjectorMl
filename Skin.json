@@ -7775,5 +7775,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero851-icon_8061ddff.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero854-icon_4bab15b8.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/dyrroth1_2328c25d.zip"
+  },
+  {
+    "id": "f8dc2bac-9",
+    "hero": "Dyrroth",
+    "name": "Dyrroth KOF",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero851-icon_e396a538.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero853-icon_52f9301f.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/dyrroth2_8a0f99b0.zip"
   }
 ]
