@@ -7689,5 +7689,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero211-icon_3c6f75d6.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero102111-icon_fc16f98d.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/haya9_4b84ccce.zip"
+  },
+  {
+    "id": "c82ad4f1-2",
+    "hero": "Karina",
+    "name": "Karina",
+    "type": "Backup",
+    "role": [
+      "Mage",
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero081-icon_12b7b105.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero081-icon_499713b8.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20karina_2f5b6639.zip"
   }
 ]
