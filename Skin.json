@@ -7756,5 +7756,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero031-icon_43ba354d.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero037-icon_c90b1541.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/saber5_ee4d4e2d.zip"
+  },
+  {
+    "id": "b3139a82-1",
+    "hero": "Saber",
+    "name": "Saber Starlight Iron",
+    "type": "Original",
+    "role": [
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero031-icon_98c8cf12.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero039-icon_8281c87f.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/saber6_21f9a94b.zip"
   }
 ]
