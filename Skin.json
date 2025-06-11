@@ -7659,5 +7659,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero561-icon_46ab3159.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Emperor_Scorpion_Icon_c4361265.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/gs4_0de666d4.zip"
+  },
+  {
+    "id": "5ee84c61-6",
+    "hero": "Gusion",
+    "name": "Gusion Epic",
+    "type": "Original",
+    "role": [
+      "Mage",
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero561-icon_c752a1d7.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero105610-icon_b975e57f.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/gs5_48bbda28.zip"
   }
 ]
