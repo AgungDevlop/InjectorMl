@@ -7701,5 +7701,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero971-icon_e0ef6c3f.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero975-icon_54786f89.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/bened3_4684ae0f.zip"
+  },
+  {
+    "id": "560d9770-2",
+    "hero": "Benedetta",
+    "name": "Benedetta Ducati",
+    "type": "Original",
+    "role": [
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero971-icon_3601e43c.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero976-icon_30fa1c03.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/bened4_b0de2ddf.zip"
   }
 ]
