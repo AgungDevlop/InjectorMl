@@ -7728,5 +7728,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero081-icon_e3d6055f.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero083-icon_7618f0f2.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/karina2_406e4e99.zip"
+  },
+  {
+    "id": "5443299b-2",
+    "hero": "Karina",
+    "name": "Karina Luckybox",
+    "type": "Original",
+    "role": [
+      "Mage",
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero081-icon_1d802455.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero086-icon_6ac23ec5.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/karina3_cdb14202.zip"
   }
 ]
