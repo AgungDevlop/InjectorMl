@@ -7931,5 +7931,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero841-icon_647b22ed.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero843-icon_d0d60d58.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/ling3_6ede8ae5.zip"
+  },
+  {
+    "id": "2e72569b-7",
+    "hero": "Ling",
+    "name": "Ling M World",
+    "type": "Original",
+    "role": [
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero841-icon_103518fa.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero847-icon_73cd8650.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/ling4_5c38d476.zip"
   }
 ]
