@@ -7761,5 +7761,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero471-icon_79920771.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero473-icon_44977fbc.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/lance1_646d4dff.zip"
+  },
+  {
+    "id": "9dcc7d79-a",
+    "hero": "Lancelot",
+    "name": "Lancelot Starlight",
+    "type": "Original",
+    "role": [
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero471-icon_a10968a8.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero475-icon_10a0ff77.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/lance2_e9313202.zip"
   }
 ]
