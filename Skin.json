@@ -7754,5 +7754,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero081-icon_48ffc51a.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero084-icon_41da66a5.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/karina4_dd0a8151.zip"
+  },
+  {
+    "id": "3bf6339c-4",
+    "hero": "Karina",
+    "name": "Karina Zodiac",
+    "type": "Original",
+    "role": [
+      "Mage",
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero081-icon_b86cd8f4.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero088-icon_69e03ab5.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/karina5_f95e2a79.zip"
   }
 ]
