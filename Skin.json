@@ -7811,5 +7811,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero851-icon_ee381aee.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero857-icon_a67c4330.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/dyrroth4_75231c88.zip"
+  },
+  {
+    "id": "8af5c39e-5",
+    "hero": "Dyrroth",
+    "name": "Dyrroth Gon",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero851-icon_d6acf919.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero858-icon_6ac89f49.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/dyrroth5_ca12d555.zip"
   }
 ]
