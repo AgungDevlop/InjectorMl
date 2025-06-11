@@ -7598,15 +7598,15 @@
   {
     "id": "7839aa6a-1",
     "hero": "Gusion",
-    "name": "Gusion Elite",
-    "type": "Original",
+    "name": "Gusion",
+    "type": "Backup",
     "role": [
       "Mage",
       "Assassin"
     ],
-    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero561-icon_0ae8ee08.png",
-    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero563-icon_7e6f81fb.png",
-    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/gs1_f3515003.zip"
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero561-icon_c5647d35.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero561-icon_272b8693.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20gs_0f58531c.zip"
   },
   {
     "id": "0fe37661-3",
