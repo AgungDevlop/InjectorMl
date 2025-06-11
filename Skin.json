@@ -7684,5 +7684,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero081-icon_b56182d4.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero087-icon_37ab7621.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/karina6_e169812d.zip"
+  },
+  {
+    "id": "3cd7b18a-c",
+    "hero": "Saber",
+    "name": "Saber",
+    "type": "Backup",
+    "role": [
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero031-icon_f0e6880b.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero031-icon_345d0a7a.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20saber_db1ca1a2.zip"
   }
 ]
