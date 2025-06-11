@@ -7859,5 +7859,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1221-icon_dcb933e8.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1221-icon_fbc906f3.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20nolan_72c0f566.zip"
+  },
+  {
+    "id": "aeafe0b2-d",
+    "hero": "Nolan",
+    "name": "Nolan 11.11",
+    "type": "Original",
+    "role": [
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1221-icon_16bb1dac.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1224-icon_eae88206.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/nolan1_1bdf466b.zip"
   }
 ]
