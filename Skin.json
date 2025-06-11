@@ -7809,5 +7809,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero171-icon_2b902930.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero101710-icon_e07eaa23.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/fanny7_a656ecbd.zip"
+  },
+  {
+    "id": "11473ab4-4",
+    "hero": "Fanny",
+    "name": "Fanny Mikasa",
+    "type": "Original",
+    "role": [
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero171-icon_b20247ad.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero101712-icon_1f904ceb.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/fanny8_38671581.zip"
   }
 ]
