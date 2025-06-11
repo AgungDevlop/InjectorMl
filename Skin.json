@@ -7955,5 +7955,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero841-icon_0fd1b81f.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero844-icon_77e2fd89.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/ling5_7d1fb6b8.zip"
+  },
+  {
+    "id": "ad57dbe5-0",
+    "hero": "Ling",
+    "name": "Ling Kungfu Panda",
+    "type": "Original",
+    "role": [
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero841-icon_5f00d5aa.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero848-icon_8930be8c.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/ling6_8738ecb9.zip"
   }
 ]
