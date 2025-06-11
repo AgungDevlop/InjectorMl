@@ -7854,5 +7854,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1091-icon_270e760f.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1093-icon_042b9626.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/amon1_11d2efd6.zip"
+  },
+  {
+    "id": "b572485b-1",
+    "hero": "Aamon",
+    "name": "Aamon Starlight",
+    "type": "Original",
+    "role": [
+      "Mage",
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1091-icon_9788f989.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1094-icon_538873e9.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/amon2_9723758c.zip"
   }
 ]
