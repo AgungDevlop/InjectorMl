@@ -7720,5 +7720,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero031-icon_3c8dbd5a.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero034-icon_873d3d29.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/saber2_f2671908.zip"
+  },
+  {
+    "id": "f887e2e9-c",
+    "hero": "Saber",
+    "name": "Saber Starlight Force",
+    "type": "Original",
+    "role": [
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero031-icon_4c9326da.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero033-icon_b9d81fef.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/saber3_433fbbf8.zip"
   }
 ]
