@@ -7653,5 +7653,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero171-icon_dd10c892.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero174-icon_07f4949c.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/fanny10_75fab477.zip"
+  },
+  {
+    "id": "e4e07c90-3",
+    "hero": "Benedetta",
+    "name": "Benedetta",
+    "type": "Backup",
+    "role": [
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero971-icon_5c725170.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero971-icon_58297b3a.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20bened_fd973308.zip"
   }
 ]
