@@ -7696,5 +7696,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero031-icon_f0e6880b.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero031-icon_345d0a7a.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20saber_db1ca1a2.zip"
+  },
+  {
+    "id": "ede580ba-e",
+    "hero": "Saber",
+    "name": "Saber Elite",
+    "type": "Original",
+    "role": [
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero031-icon_d3a487d9.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero035-icon_4009b926.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/saber1_61f18546.zip"
   }
 ]
