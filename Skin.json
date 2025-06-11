@@ -7780,5 +7780,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero241-icon_a59eb74c.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero241-icon_04b43fa5.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20nata_ec7ee3b6.zip"
+  },
+  {
+    "id": "953c5c49-e",
+    "hero": "Natalia",
+    "name": "Natalia Elite",
+    "type": "Original",
+    "role": [
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero241-icon_589f692c.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero244-icon_9ccb8f3a.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/nata1_adb74d2f.zip"
   }
 ]
