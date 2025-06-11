@@ -7804,5 +7804,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero511-icon_c20f5613.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero514-icon_4ae894f8.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/hc2_036213a9.zip"
+  },
+  {
+    "id": "28b2d513-5",
+    "hero": "Helcurt",
+    "name": "Helcurt Zodiac",
+    "type": "Original",
+    "role": [
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero511-icon_bf360548.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero515-icon_3f52fb13.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/hc3_f5cf4f88.zip"
   }
 ]
