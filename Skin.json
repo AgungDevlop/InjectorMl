@@ -7808,5 +7808,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1091-icon_dce3bcd9.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1095-icon_f23f857a.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/amon3_44f63f2f.zip"
+  },
+  {
+    "id": "6cea2e51-5",
+    "hero": "Joy",
+    "name": "Joy",
+    "type": "Backup",
+    "role": [
+      "Assassin",
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1181-icon_344fe178.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1181-icon_b958f576.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20joy_251911ab.zip"
   }
 ]
