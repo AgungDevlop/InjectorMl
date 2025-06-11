@@ -7617,5 +7617,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero211-icon_57382c01.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero214-icon_248a64b3.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/haya3_d5ae8f75.zip"
+  },
+  {
+    "id": "fe6f511c-3",
+    "hero": "Hayabusa",
+    "name": "Hayabusa Luckybox",
+    "type": "Original",
+    "role": [
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero211-icon_cf8dc3a4.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero216-icon_a43da39d.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/haya4_db7b12f4.zip"
   }
 ]
