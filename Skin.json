@@ -7737,5 +7737,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero561-icon_95a18fde.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero563-icon_254161f3.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/gs1_816c75be.zip"
+  },
+  {
+    "id": "a0f315ab-8",
+    "hero": "Lancelot",
+    "name": "Lancelot",
+    "type": "Backup",
+    "role": [
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero471-icon_74a51947.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero471-icon_c43e8832.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20lance_44199140.zip"
   }
 ]
