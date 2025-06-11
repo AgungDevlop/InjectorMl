@@ -7847,5 +7847,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero691-icon_b07030df.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero694-icon_4b25e70a.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/hanzo2_34caeea1.zip"
+  },
+  {
+    "id": "7b2be05e-2",
+    "hero": "Hanzo",
+    "name": "Hanzo Collector",
+    "type": "Original",
+    "role": [
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero691-icon_8291102a.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero695-icon_d02bbaed.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/hanzo3_ae26304c.zip"
   }
 ]
