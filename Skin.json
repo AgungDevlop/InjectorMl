@@ -7708,5 +7708,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero031-icon_d3a487d9.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero035-icon_4009b926.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/saber1_61f18546.zip"
+  },
+  {
+    "id": "c171bd59-7",
+    "hero": "Saber",
+    "name": "Saber Legend",
+    "type": "Original",
+    "role": [
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero031-icon_3c8dbd5a.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero034-icon_873d3d29.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/saber2_f2671908.zip"
   }
 ]
