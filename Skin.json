@@ -7792,5 +7792,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero241-icon_589f692c.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero244-icon_9ccb8f3a.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/nata1_adb74d2f.zip"
+  },
+  {
+    "id": "31497a3d-a",
+    "hero": "Natalia",
+    "name": "Natalia Starlight",
+    "type": "Original",
+    "role": [
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero241-icon_8c1a05e8.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero243-icon_0a565208.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/nata2_10671257.zip"
   }
 ]
