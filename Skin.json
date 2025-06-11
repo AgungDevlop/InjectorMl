@@ -7857,5 +7857,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero471-icon_784cd426.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero474-icon_fa53fe84.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/lance9_ce68e039.zip"
+  },
+  {
+    "id": "6fd95027-3",
+    "hero": "Lancelot",
+    "name": "Lancelot Kishin",
+    "type": "Original",
+    "role": [
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero471-icon_2c57f76e.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero104712-icon_29469967.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/lance10_5e1a02b7.zip"
   }
 ]
