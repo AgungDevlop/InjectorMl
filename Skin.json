@@ -7737,5 +7737,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero171-icon_57631f55.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero172-icon_7d81f1c5.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/fanny1_7a7daceb.zip"
+  },
+  {
+    "id": "f6e5092e-8",
+    "hero": "Fanny",
+    "name": "Fanny Season",
+    "type": "Original",
+    "role": [
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero171-icon_a93f3981.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero173-icon_9130174f.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/fanny2_9019b7c2.zip"
   }
 ]
