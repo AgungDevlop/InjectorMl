@@ -7744,5 +7744,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero031-icon_304af6ef.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero036-icon_d474ef10.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/saber4_429544cf.zip"
+  },
+  {
+    "id": "ca18adcc-c",
+    "hero": "Saber",
+    "name": "Saber Luckybox",
+    "type": "Original",
+    "role": [
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero031-icon_43ba354d.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero037-icon_c90b1541.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/saber5_ee4d4e2d.zip"
   }
 ]
