@@ -7694,5 +7694,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero161-icon_d43feb04.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero161-icon_ac8b522d.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20zilong_19cb767a.zip"
+  },
+  {
+    "id": "f66fc2ee-e",
+    "hero": "Zilong",
+    "name": "Zilong Christmas",
+    "type": "Original",
+    "role": [
+      "Fighter",
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero161-icon_2099c920.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero167-icon_431ee52f.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/zilong1_c57e01d2.zip"
   }
 ]
