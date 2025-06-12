@@ -7772,5 +7772,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero161-icon_88728776.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero101611-icon_2940e1b1.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/zilong6_3bf4c6f9.zip"
+  },
+  {
+    "id": "3b2b7e94-c",
+    "hero": "Zilong",
+    "name": "Zilong Lunar Fest",
+    "type": "Original",
+    "role": [
+      "Fighter",
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero161-icon_a56b71e2.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero101612-icon_030fc45c.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/zilong7_31f649d8.zip"
   }
 ]
