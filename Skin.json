@@ -8032,5 +8032,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero271-icon_869deed0.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero277-icon_2ddbafbf.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/sun4_bbe42f95.zip"
+  },
+  {
+    "id": "ac89476d-8",
+    "hero": "Sun",
+    "name": "Sun Collector",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero271-icon_3fe4311c.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero278-icon_9ce5c93b.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/sun5_405cce84.zip"
   }
 ]
