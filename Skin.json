@@ -8136,5 +8136,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1171-icon_2ed60818.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1173-icon_44997a62.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/fred1_fd980075.zip"
+  },
+  {
+    "id": "dbae0e8d-7",
+    "hero": "Fredrinn",
+    "name": "Fredrinn Neobeast",
+    "type": "Original",
+    "role": [
+      "Fighter",
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1171-icon_3d96e758.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1174-icon_a065dd08.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/fred2_e2560256.zip"
   }
 ]
