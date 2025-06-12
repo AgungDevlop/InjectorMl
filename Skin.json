@@ -7585,5 +7585,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero221-icon_10d978c7.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero225-icon_b54623c6.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/freya7_f8520f5d.zip"
+  },
+  {
+    "id": "d34ae5b4-5",
+    "hero": "Aldous",
+    "name": "Aldous",
+    "type": "Backup",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero641-icon_9fc59a32.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero641-icon_ffb8957d.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20aldos_f4a3d06b.zip"
   }
 ]
