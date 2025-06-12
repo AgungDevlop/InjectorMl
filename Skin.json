@@ -7837,5 +7837,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero221-icon_5e93f4c3.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Manhunter_Icon_2800ec8a.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/freya5_1eca267d.zip"
+  },
+  {
+    "id": "2e7660e6-c",
+    "hero": "Freya",
+    "name": "Freya Legend",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero221-icon_b9958b5f.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero102210-icon_98815163.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/freya6_aa9398e7.zip"
   }
 ]
