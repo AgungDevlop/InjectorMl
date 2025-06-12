@@ -8133,5 +8133,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero621-icon_ddd8a5a7.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero626-icon_82df0e27.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kaja4_da9fb375.zip"
+  },
+  {
+    "id": "4679264f-9",
+    "hero": "Kaja",
+    "name": "Kaja Epic",
+    "type": "Original",
+    "role": [
+      "Fighter",
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero621-icon_b30c63a6.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero627-icon_f8989a43.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kaja5_7843d731.zip"
   }
 ]
