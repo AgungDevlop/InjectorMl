@@ -8092,5 +8092,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero741-icon_9035695b.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero743-icon_314381ee.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/minsi1_bc93c23c.zip"
+  },
+  {
+    "id": "8392339e-7",
+    "hero": "Minsitthar",
+    "name": "Minsitthar",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero741-icon_184eaf8e.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero745-icon_451549a5.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/minsi2_e8678ff3.zip"
   }
 ]
