@@ -7589,5 +7589,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero671-icon_e7a66bdd.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250612_141020_2b2bf301.jpg",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/leo7_ddea981b.zip"
+  },
+  {
+    "id": "2cf19f78-c",
+    "hero": "Roger",
+    "name": "Roger",
+    "type": "Backup",
+    "role": [
+      "Marksman",
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero391-icon_61a3f1a1.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero391-icon_8f1e9b2f.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20roger_2e024ec4.zip"
   }
 ]
