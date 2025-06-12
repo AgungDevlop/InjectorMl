@@ -8008,5 +8008,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero371-icon_29e977ff.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero376-icon_df36f945.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/lapu4_20373d32.zip"
+  },
+  {
+    "id": "2efec2bc-2",
+    "hero": "Lapu Lapu",
+    "name": "Lapu Lapu Collector",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero371-icon_4e30664f.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero377-icon_3f679f29.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/lapu5_c5c7dbbe.zip"
   }
 ]
