@@ -7681,5 +7681,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero641-icon_490c68f2.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero646-icon_70e3d35b.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/aldos7_62a8b4a6.zip"
+  },
+  {
+    "id": "63b7a911-b",
+    "hero": "Zilong",
+    "name": "Zilong",
+    "type": "Backup",
+    "role": [
+      "Fighter",
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero161-icon_d43feb04.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero161-icon_ac8b522d.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20zilong_19cb767a.zip"
   }
 ]
