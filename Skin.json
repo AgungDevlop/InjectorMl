@@ -7553,5 +7553,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero671-icon_124355c6.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero676-icon_e8764019.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/leo4_5f0eb8db.zip"
+  },
+  {
+    "id": "3314b268-2",
+    "hero": "Leomord",
+    "name": "Leomord Abyss",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero671-icon_0169b083.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero677-icon_1caf886d.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/leo5_cb5d19ad.zip"
   }
 ]
