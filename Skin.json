@@ -7700,5 +7700,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero071-icon_d0d41c36.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero100711-icon_5e18a4a8.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/alu8_a3e5456c.zip"
+  },
+  {
+    "id": "d61d8de1-9",
+    "hero": "Guinevere",
+    "name": "Guinevere",
+    "type": "Backup",
+    "role": [
+      "Fighter",
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero801-icon_537af35e.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero801-icon_029b5cf7.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20guin_82c19e57.zip"
   }
 ]
