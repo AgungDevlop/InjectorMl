@@ -8032,5 +8032,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero271-icon_2a377d6e.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero271-icon_1accb10f.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20sun_5af34ba0.zip"
+  },
+  {
+    "id": "99a93ed3-e",
+    "hero": "Sun",
+    "name": "Sun Rock",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero271-icon_b1cff225.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero273-icon_e5b93ef5.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/sun1_fc4cc178.zip"
   }
 ]
