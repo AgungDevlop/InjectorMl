@@ -7789,5 +7789,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero221-icon_33a360ab.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero227-icon_dc417502.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/freya1_ee0baffc.zip"
+  },
+  {
+    "id": "4b77f8f9-c",
+    "hero": "Freya",
+    "name": "Freya Summer",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero221-icon_554d6e52.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero224-icon_2b662b0d.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/freya2_fb1f509c.zip"
   }
 ]
