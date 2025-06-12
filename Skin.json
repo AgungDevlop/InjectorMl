@@ -7583,5 +7583,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero851-icon_d6acf919.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero858-icon_6ac89f49.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/dyrroth5_ca12d555.zip"
+  },
+  {
+    "id": "6c72f869-3",
+    "hero": "Alucard",
+    "name": "Alucard",
+    "type": "Backup",
+    "role": [
+      "Fighter",
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero071-icon_2b715d5d.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero071-icon_8d4594c0.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20alu_262b5be3.zip"
   }
 ]
