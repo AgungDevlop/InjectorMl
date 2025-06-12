@@ -8044,5 +8044,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero271-icon_b1cff225.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero273-icon_e5b93ef5.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/sun1_fc4cc178.zip"
+  },
+  {
+    "id": "a1ee56c1-5",
+    "hero": "Sun",
+    "name": "Sun Special Street",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero271-icon_919eada5.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero274-icon_d4fe1cdd.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/sun2_0d740feb.zip"
   }
 ]
