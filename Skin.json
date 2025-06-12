@@ -7776,5 +7776,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero021-icon_3734360e.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero026-icon_d7a4c250.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/balmon1_013bc075.zip"
+  },
+  {
+    "id": "9513d8d7-7",
+    "hero": "Balmond",
+    "name": "Balmond Collector",
+    "type": "Original",
+    "role": [
+      "Fighter",
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero021-icon_5f3239ac.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero025-icon_9878650a.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/balmon2_5d671958.zip"
   }
 ]
