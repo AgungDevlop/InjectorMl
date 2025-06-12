@@ -7726,5 +7726,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero281-icon_9049b068.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero287-icon_b11f0706.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/alpa5_58d8fbe1.zip"
+  },
+  {
+    "id": "44efd80c-6",
+    "hero": "Alpha",
+    "name": "Alpha Collector",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero281-icon_438beb50.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero288-icon_e1b0780f.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/alpa6_f721fe5a.zip"
   }
 ]
