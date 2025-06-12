@@ -8107,5 +8107,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero621-icon_e6be4397.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero623-icon_9029b5ea.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kaja2_50232b72.zip"
+  },
+  {
+    "id": "190fe705-f",
+    "hero": "Kaja",
+    "name": "Kaja Luckybox",
+    "type": "Original",
+    "role": [
+      "Fighter",
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero621-icon_ad6a9383.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero625-icon_364aea73.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kaja3_f42597d4.zip"
   }
 ]
