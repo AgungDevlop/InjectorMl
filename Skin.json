@@ -8146,5 +8146,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero621-icon_b30c63a6.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero627-icon_f8989a43.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kaja5_7843d731.zip"
+  },
+  {
+    "id": "581e4398-e",
+    "hero": "Fredrinn",
+    "name": "Fredrinn",
+    "type": "Backup",
+    "role": [
+      "Fighter",
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1171-icon_fafb4549.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1171-icon_ab6d5bb9.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20fred_cfd6f288.zip"
   }
 ]
