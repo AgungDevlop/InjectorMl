@@ -7738,5 +7738,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero281-icon_438beb50.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero288-icon_e1b0780f.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/alpa6_f721fe5a.zip"
+  },
+  {
+    "id": "57e42150-8",
+    "hero": "Alpha",
+    "name": "Alpha Legend",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero281-icon_4f7a6e11.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero289-icon_1307fa1c.png",
+    "url": "https://git.agungbot.my.id/filezip/alpa7_684aa1a9.zip"
   }
 ]
