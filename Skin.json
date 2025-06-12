@@ -7888,5 +7888,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero901-icon_05938ce4.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero905-icon_3101aab3.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/silva4_f52e2435.zip"
+  },
+  {
+    "id": "5d3049e5-1",
+    "hero": "Silvanna",
+    "name": "Silvanna Verdant Lancer",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero901-icon_f4f003ce.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero907-icon_30478f2c.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/silva5_5bfa959e.zip"
   }
 ]
