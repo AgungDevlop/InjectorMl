@@ -8092,5 +8092,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero581-icon_aead2b15.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero587-icon_22c01b13.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/martis4_2235b701.zip"
+  },
+  {
+    "id": "5ce8f1ee-8",
+    "hero": "Martis",
+    "name": "Martis Darkwater Terror",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero581-icon_fa5ca658.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero588-icon_e9c7b999.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/martis5_8b563fe3.zip"
   }
 ]
