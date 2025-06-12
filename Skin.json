@@ -7789,5 +7789,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero021-icon_5f3239ac.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero025-icon_9878650a.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/balmon2_5d671958.zip"
+  },
+  {
+    "id": "fcd000c3-b",
+    "hero": "Balmond",
+    "name": "Balmond Starlight",
+    "type": "Original",
+    "role": [
+      "Fighter",
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero021-icon_69f6428e.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero027-icon_81a2e187.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/balmon3_fecb3eb3.zip"
   }
 ]
