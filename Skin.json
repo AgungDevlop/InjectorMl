@@ -8068,5 +8068,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero581-icon_9d5e3c76.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero583-icon_24969a59.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/martis2_f63b897c.zip"
+  },
+  {
+    "id": "e312c1d0-6",
+    "hero": "Martis",
+    "name": "Martis Luckybox",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero581-icon_faabc5c8.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero584-icon_0629ba06.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/martis3_4e549c2b.zip"
   }
 ]
