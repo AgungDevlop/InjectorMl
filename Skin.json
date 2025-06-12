@@ -7645,5 +7645,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero641-icon_b12ab02d.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero647-icon_539d2627.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/aldos4_215a6f47.zip"
+  },
+  {
+    "id": "9c242253-4",
+    "hero": "Aldous",
+    "name": "Aldous Transformers",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero641-icon_3e0b2276.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero648-icon_2c9d23b3.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/aldos5_724a2eb2.zip"
   }
 ]
