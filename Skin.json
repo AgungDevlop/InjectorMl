@@ -7602,5 +7602,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero391-icon_61a3f1a1.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero391-icon_8f1e9b2f.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20roger_2e024ec4.zip"
+  },
+  {
+    "id": "df95ba25-8",
+    "hero": "Roger",
+    "name": "Roger Luckybox",
+    "type": "Original",
+    "role": [
+      "Marksman",
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero391-icon_2d3bf57e.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero393-icon_8b1b7da2.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/roger1_7e7cefca.zip"
   }
 ]
