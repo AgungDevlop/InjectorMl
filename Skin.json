@@ -8104,5 +8104,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero741-icon_184eaf8e.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero745-icon_451549a5.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/minsi2_e8678ff3.zip"
+  },
+  {
+    "id": "d0b4dca4-f",
+    "hero": "Minsitthar",
+    "name": "Minsitthar Collector",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero741-icon_256d29c6.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero746-icon_f25594b3.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/minsi3_c5b6010f.zip"
   }
 ]
