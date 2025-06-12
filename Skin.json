@@ -8056,5 +8056,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero271-icon_919eada5.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero274-icon_d4fe1cdd.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/sun2_0d740feb.zip"
+  },
+  {
+    "id": "f56e61aa-5",
+    "hero": "Sun",
+    "name": "Sun Starlight",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero271-icon_c71a056a.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero275-icon_544ae3ba.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/sun3_452cddec.zip"
   }
 ]
