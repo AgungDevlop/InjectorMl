@@ -7785,5 +7785,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero161-icon_a56b71e2.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero101612-icon_030fc45c.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/zilong7_31f649d8.zip"
+  },
+  {
+    "id": "6bb0e021-d",
+    "hero": "Zilong",
+    "name": "Zilong Luckybox",
+    "type": "Original",
+    "role": [
+      "Fighter",
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero161-icon_1f21f901.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero166-icon_4e9f1a6b.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/zilong8_dea2c92b.zip"
   }
 ]
