@@ -7680,5 +7680,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero391-icon_6c710fec.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero398-icon_798175da.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/roger6_dc0d13ac.zip"
+  },
+  {
+    "id": "00c534f7-2",
+    "hero": "Roger",
+    "name": "Roger Transformers",
+    "type": "Original",
+    "role": [
+      "Marksman",
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero391-icon_845aff70.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero399-icon_1642ee74.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/roger7_a622b9d5.zip"
   }
 ]
