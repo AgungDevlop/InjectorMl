@@ -8044,5 +8044,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero581-icon_09a2b34a.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero581-icon_ed95d1a7.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20martis_038df771.zip"
+  },
+  {
+    "id": "a6a65fdf-2",
+    "hero": "Martis",
+    "name": "Martis Special",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero581-icon_d18573f6.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero586-icon_339d26c4.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/martis1_542922aa.zip"
   }
 ]
