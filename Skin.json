@@ -8198,5 +8198,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero111-icon_641f4402.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero111-icon_48bd84b0.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20bane_b4d88570.zip"
+  },
+  {
+    "id": "cb8674cf-7",
+    "hero": "Bane",
+    "name": "Bane Castle Master",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero111-icon_85a87ff7.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero112-icon_ccc53be5.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/bane1_a8c8c25b.zip"
   }
 ]
