@@ -7666,5 +7666,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero281-icon_31703a24.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero281-icon_2cfad095.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20alpa_b8c93760.zip"
+  },
+  {
+    "id": "1ed87193-8",
+    "hero": "Alpha",
+    "name": "Alpha Luckybox",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero281-icon_969bc54c.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero282-icon_2097bc1d.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/alpa1_800ab119.zip"
   }
 ]
