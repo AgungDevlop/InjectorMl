@@ -8020,5 +8020,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero541-icon_4faa3388.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero549-icon_4e1c706c.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/jaw7_0782a9b2.zip"
+  },
+  {
+    "id": "8c57d93a-d",
+    "hero": "Jawhead",
+    "name": "Jawhead All Star",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero541-icon_6577fac6.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250612_203102_0279dc12.jpg",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/jaw8_38351221.zip"
   }
 ]
