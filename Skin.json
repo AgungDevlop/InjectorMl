@@ -7693,5 +7693,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero391-icon_845aff70.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero399-icon_1642ee74.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/roger7_a622b9d5.zip"
+  },
+  {
+    "id": "99e99ef4-d",
+    "hero": "Badang",
+    "name": "Badang",
+    "type": "Backup",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero771-icon_b2f55052.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero771-icon_e42d34f9.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20badang_38a4b3f2.zip"
   }
 ]
