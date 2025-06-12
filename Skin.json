@@ -8080,5 +8080,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero581-icon_faabc5c8.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero584-icon_0629ba06.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/martis3_4e549c2b.zip"
+  },
+  {
+    "id": "7f60e469-f",
+    "hero": "Martis",
+    "name": "Martis Levi",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero581-icon_aead2b15.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero587-icon_22c01b13.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/martis4_2235b701.zip"
   }
 ]
