@@ -8274,5 +8274,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero991-icon_9c0a3fc2.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero995-icon_ed86c32d.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/barats3_7f341321.zip"
+  },
+  {
+    "id": "3e233741-8",
+    "hero": "Barats",
+    "name": "Barats Epic",
+    "type": "Original",
+    "role": [
+      "Fighter",
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero991-icon_66f51c68.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero996-icon_98b701ae.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/barats4_3a9d1c93.zip"
   }
 ]
