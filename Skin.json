@@ -7765,5 +7765,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero801-icon_3c9bc8bb.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero806-icon_6803ae7c.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/guin4_c49b9258.zip"
+  },
+  {
+    "id": "bc143558-d",
+    "hero": "Guinevere",
+    "name": "Guinevere Legend",
+    "type": "Original",
+    "role": [
+      "Fighter",
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero801-icon_80b58d1d.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero809-icon_b3cf52a9.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/guin5_8eca9e2d.zip"
   }
 ]
