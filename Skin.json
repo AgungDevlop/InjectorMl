@@ -8104,5 +8104,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero581-icon_fa5ca658.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero588-icon_e9c7b999.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/martis5_8b563fe3.zip"
+  },
+  {
+    "id": "15dd57c1-b",
+    "hero": "Martis",
+    "name": "Martis Zodiac",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero581-icon_c97cc6b3.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero585-icon_6a0e4948.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/martis6_fcb8465d.zip"
   }
 ]
