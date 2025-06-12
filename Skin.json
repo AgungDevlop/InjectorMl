@@ -7577,5 +7577,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero671-icon_c1303c4c.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero678-icon_92c2e43f.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/leo6_d5ff6774.zip"
+  },
+  {
+    "id": "b07873ea-7",
+    "hero": "Leomord",
+    "name": "Leomord Epic",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero671-icon_e7a66bdd.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250612_141020_2b2bf301.jpg",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/leo7_ddea981b.zip"
   }
 ]
