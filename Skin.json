@@ -8068,5 +8068,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero741-icon_256d29c6.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero746-icon_f25594b3.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/minsi3_c5b6010f.zip"
+  },
+  {
+    "id": "aff1480b-9",
+    "hero": "Kaja",
+    "name": "Kaja",
+    "type": "Backup",
+    "role": [
+      "Fighter",
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero621-icon_ba86b000.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero621-icon_436b7cbc.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20kaja_c609ec41.zip"
   }
 ]
