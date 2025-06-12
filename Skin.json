@@ -2400,18 +2400,6 @@
     "url": "1"
   },
   {
-    "id": "Jawhead-NQwGuGp4XA-vpF62EVW",
-    "hero": "Jawhead",
-    "name": "Jawhead",
-    "type": "Backup",
-    "role": [
-      "Fighter"
-    ],
-    "img1": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Jawhead.png/revision/latest?cb=20180820102111",
-    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero541-portrait.png/revision/latest?cb=20220525165409",
-    "url": "https://github.com/rahasia55/new-backup/releases/download/backup/jawhead.zip"
-  },
-  {
     "id": "Jawhead-Du273sDlqp",
     "hero": "Jawhead",
     "name": "Jawhead Collector",
