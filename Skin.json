@@ -7791,5 +7791,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero801-icon_439af778.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero808-icon_32aaea40.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/guin6_1e70be5b.zip"
+  },
+  {
+    "id": "29c524c1-0",
+    "hero": "Guinevere",
+    "name": "Guinevere Elite",
+    "type": "Original",
+    "role": [
+      "Fighter",
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero801-icon_f0925247.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero108010-icon_589f2caf.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/guin7_67c5a316.zip"
   }
 ]
