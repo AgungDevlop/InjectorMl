@@ -7493,5 +7493,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero801-icon_0a8fed6c.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero803-icon_9557f25f.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/guin8_ad28949e.zip"
+  },
+  {
+    "id": "ac551bb0-1",
+    "hero": "Leomord",
+    "name": "Leomord",
+    "type": "Backup",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero671-icon_40dc62a0.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero671-icon_244628c5.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20leo_2a5bc8e7.zip"
   }
 ]
