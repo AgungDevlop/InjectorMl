@@ -7667,5 +7667,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero391-icon_bd35a154.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero397-icon_29b99296.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/roger5_f6c53aea.zip"
+  },
+  {
+    "id": "52d28227-1",
+    "hero": "Roger",
+    "name": "Roger Prime",
+    "type": "Original",
+    "role": [
+      "Marksman",
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero391-icon_6c710fec.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero398-icon_798175da.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/roger6_dc0d13ac.zip"
   }
 ]
