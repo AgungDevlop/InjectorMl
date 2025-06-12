@@ -7984,5 +7984,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero371-icon_08a6c5f1.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero374-icon_d66f5713.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/lapu2_a2af31b1.zip"
+  },
+  {
+    "id": "872d4c1f-e",
+    "hero": "Lapu Lapu",
+    "name": "Lapu Lapu Starlight",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero371-icon_070e3322.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero375-icon_95034ae5.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/lapu3_c9ffbc2a.zip"
   }
 ]
