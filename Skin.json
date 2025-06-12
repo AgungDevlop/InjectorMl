@@ -7635,5 +7635,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero071-icon_ed24ee8a.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero074-icon_e7d94f64.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/alu3_b7e5b702.zip"
+  },
+  {
+    "id": "53e0217e-7",
+    "hero": "Alucard",
+    "name": "Alucard Valentine",
+    "type": "Original",
+    "role": [
+      "Fighter",
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero071-icon_957f3a33.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero076-icon_277ec492.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/alu4_401e29ab.zip"
   }
 ]
