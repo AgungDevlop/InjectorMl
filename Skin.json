@@ -7840,5 +7840,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero291-icon_4e155888.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero291-icon_a48d40ca.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20ruby_8cc446ae.zip"
+  },
+  {
+    "id": "6d91bcb6-5",
+    "hero": "Ruby",
+    "name": "Ruby Elite Butterfly",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero291-icon_9790a821.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero293-icon_47f413c0.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/ruby1_bbd78e01.zip"
   }
 ]
