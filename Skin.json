@@ -8174,5 +8174,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero831-icon_6ecde17c.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero836-icon_8888dc96.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/xb4_aec1666f.zip"
+  },
+  {
+    "id": "9c68d633-5",
+    "hero": "X Borg",
+    "name": "X Borg MCGG",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero831-icon_bf25dd4e.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero837-icon_6d4ae1c2.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/xb5_75946e67.zip"
   }
 ]
