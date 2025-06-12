@@ -7912,5 +7912,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero291-icon_d0d70255.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero297-icon_10ecdfde.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/ruby6_a4ba957a.zip"
+  },
+  {
+    "id": "4b781cd2-a",
+    "hero": "Ruby",
+    "name": "Ruby Special",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero291-icon_48d3c68c.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero299-icon_fcc6ef74.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/ruby7_6f7828ac.zip"
   }
 ]
