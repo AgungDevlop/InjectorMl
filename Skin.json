@@ -7657,5 +7657,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero641-icon_3e0b2276.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero648-icon_2c9d23b3.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/aldos5_724a2eb2.zip"
+  },
+  {
+    "id": "513035c3-6",
+    "hero": "Aldous",
+    "name": "Aldous Mistbender",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero641-icon_5619e417.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero649-icon_d586800f.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/aldos6_fe4b977a.zip"
   }
 ]
