@@ -7840,5 +7840,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero901-icon_1881be57.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero901-icon_9388e85e.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20silva_ce6edc86.zip"
+  },
+  {
+    "id": "edb53f78-4",
+    "hero": "Silvanna",
+    "name": "Silvanna Midnight Justice",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero901-icon_b28cf382.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero903-icon_51f65e24.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/silva1_54135bab.zip"
   }
 ]
