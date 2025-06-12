@@ -7815,5 +7815,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero021-icon_99048110.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero028-icon_bd5fa8f8.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/balmon4_5078af39.zip"
+  },
+  {
+    "id": "79d72df8-8",
+    "hero": "Balmond",
+    "name": "Balmond Special Razor",
+    "type": "Original",
+    "role": [
+      "Tank",
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero021-icon_47f03b09.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero029-icon_f09a94fa.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/balmon5_c7cf09ca.zip"
   }
 ]
