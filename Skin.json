@@ -7852,5 +7852,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero291-icon_9790a821.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero293-icon_47f413c0.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/ruby1_bbd78e01.zip"
+  },
+  {
+    "id": "4e1f5c57-9",
+    "hero": "Ruby",
+    "name": "Ruby Elite Edelweiss",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero291-icon_3904dfd5.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero294-icon_4f4247dc.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/ruby2_20fa0239.zip"
   }
 ]
