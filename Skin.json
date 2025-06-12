@@ -8222,5 +8222,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero111-icon_6a58ecd1.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero116-icon_fb00dddf.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/bane4_9f36a082.zip"
+  },
+  {
+    "id": "f74fb15c-3",
+    "hero": "Barats",
+    "name": "Barats",
+    "type": "Backup",
+    "role": [
+      "Fighter",
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero991-icon_e0214fae.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero991-icon_1b4094d0.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20barats_f3779261.zip"
   }
 ]
