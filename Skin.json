@@ -7813,5 +7813,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero221-icon_72b64126.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero223-icon_5f9f6209.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/freya3_f749b232.zip"
+  },
+  {
+    "id": "3ca3643d-2",
+    "hero": "Freya",
+    "name": "Freya Epic",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero221-icon_c5e2311d.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero228-icon_c99d77b3.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/freya4_56fb274e.zip"
   }
 ]
