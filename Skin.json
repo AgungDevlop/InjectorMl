@@ -7924,5 +7924,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero901-icon_356e224b.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero909-icon_e4790c87.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/silva7_d6939a0f.zip"
+  },
+  {
+    "id": "349b0d2d-e",
+    "hero": "Jawhead",
+    "name": "Jawhead",
+    "type": "Backup",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero541-icon_cbddb480.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero541-icon_804e283f.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20jaw_1947ddab.zip"
   }
 ]
