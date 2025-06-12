@@ -7864,5 +7864,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero901-icon_80f416c3.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero904-icon_26fdc079.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/silva2_62b5d5eb.zip"
+  },
+  {
+    "id": "526d8990-9",
+    "hero": "Silvanna",
+    "name": "Silvanna Future Cop",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero901-icon_b71b2bc8.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero906-icon_e10334fc.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/silva3_d66cec57.zip"
   }
 ]
