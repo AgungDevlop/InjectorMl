@@ -7669,5 +7669,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero641-icon_5619e417.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero649-icon_d586800f.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/aldos6_fe4b977a.zip"
+  },
+  {
+    "id": "af8b29e6-e",
+    "hero": "Aldous",
+    "name": "Aldous Blazing",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero641-icon_490c68f2.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero646-icon_70e3d35b.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/aldos7_62a8b4a6.zip"
   }
 ]
