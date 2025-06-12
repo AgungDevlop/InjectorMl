@@ -7741,5 +7741,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero771-icon_3cd05fd6.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero776-icon_a54e6704.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/badang3_1db3ac36.zip"
+  },
+  {
+    "id": "62e6165e-9",
+    "hero": "Badang",
+    "name": "Badang Pegasus Seiya",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero771-icon_93f37986.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero777-icon_e55afdf0.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/badang4_26a59580.zip"
   }
 ]
