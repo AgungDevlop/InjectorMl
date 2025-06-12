@@ -8068,5 +8068,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero581-icon_c97cc6b3.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero585-icon_6a0e4948.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/martis6_fcb8465d.zip"
+  },
+  {
+    "id": "6eb5f2e7-f",
+    "hero": "Minsitthar",
+    "name": "Minsitthar",
+    "type": "Backup",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero741-icon_c2ebc210.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero741-icon_82a4a614.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20minsi_baecde98.zip"
   }
 ]
