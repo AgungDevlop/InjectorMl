@@ -7628,5 +7628,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero391-icon_85356b8b.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero394-icon_f949cbe8.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/roger2_4d28f67e.zip"
+  },
+  {
+    "id": "b7bb64b6-7",
+    "hero": "Roger",
+    "name": "Roger Epic Phantom",
+    "type": "Original",
+    "role": [
+      "Fighter",
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero391-icon_d56461a3.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero395-icon_1cf4c288.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/roger3_b3410c5f.zip"
   }
 ]
