@@ -8234,5 +8234,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero111-icon_f40a8a66.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero115-icon_1512841e.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/bane3_eef7c94a.zip"
+  },
+  {
+    "id": "2f9d7ed0-e",
+    "hero": "Bane",
+    "name": "Bane Soul Defiler",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero111-icon_6a58ecd1.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero116-icon_fb00dddf.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/bane4_9f36a082.zip"
   }
 ]
