@@ -7984,5 +7984,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero541-icon_cec7a73d.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero546-icon_39fbe505.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/jaw4_ec03f344.zip"
+  },
+  {
+    "id": "47a36969-b",
+    "hero": "Jawhead",
+    "name": "Jawhead Starlight",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero541-icon_da874597.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero547-icon_8ebbd36d.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/jaw5_dffbef23.zip"
   }
 ]
