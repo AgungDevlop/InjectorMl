@@ -2400,18 +2400,6 @@
     "url": "1"
   },
   {
-    "id": "Jawhead-Du273sDlqp",
-    "hero": "Jawhead",
-    "name": "Jawhead Collector",
-    "type": "Original",
-    "role": [
-      "Fighter"
-    ],
-    "img1": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Jawhead.png/revision/latest?cb=20180820102111",
-    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero546-portrait.png/revision/latest?cb=20220525165417",
-    "url": "https://github.com/rahasia55/New-Default-skin/raw/main/jawhead%20collector.zip"
-  },
-  {
     "id": "Jawhead-WisVPceWKr",
     "hero": "Jawhead",
     "name": "Jawhead MPL",
