@@ -7729,5 +7729,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero771-icon_87914317.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero774-icon_bfe98609.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/badang2_27a59c63.zip"
+  },
+  {
+    "id": "12c9b4f2-8",
+    "hero": "Badang",
+    "name": "Badang Zodiac",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero771-icon_3cd05fd6.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero776-icon_a54e6704.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/badang3_1db3ac36.zip"
   }
 ]
