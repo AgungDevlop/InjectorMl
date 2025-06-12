@@ -7912,5 +7912,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero901-icon_177aaf2a.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero908-icon_023e6840.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/silva6_d5f8e5e2.zip"
+  },
+  {
+    "id": "713eb857-6",
+    "hero": "Silvanna",
+    "name": "Silvanna Special",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero901-icon_356e224b.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero909-icon_e4790c87.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/silva7_d6939a0f.zip"
   }
 ]
