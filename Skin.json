@@ -7778,5 +7778,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero801-icon_80b58d1d.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero809-icon_b3cf52a9.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/guin5_8eca9e2d.zip"
+  },
+  {
+    "id": "3be65e0f-3",
+    "hero": "Guinevere",
+    "name": "Guinevere Summer",
+    "type": "Original",
+    "role": [
+      "Fighter",
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero801-icon_439af778.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero808-icon_32aaea40.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/guin6_1e70be5b.zip"
   }
 ]
