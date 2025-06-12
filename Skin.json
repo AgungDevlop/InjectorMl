@@ -7960,5 +7960,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero371-icon_8982d326.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero371-icon_988d98e0.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20lapu_3d5aa245.zip"
+  },
+  {
+    "id": "d468bc60-2",
+    "hero": "Lapu Lapu",
+    "name": "Lapu Lapu Elite",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero371-icon_894a3e5a.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero373-icon_eedc3bce.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/lapu1_d2758708.zip"
   }
 ]
