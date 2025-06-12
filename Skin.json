@@ -8081,5 +8081,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero621-icon_ba86b000.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero621-icon_436b7cbc.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20kaja_c609ec41.zip"
+  },
+  {
+    "id": "d1b13d9a-4",
+    "hero": "Kaja",
+    "name": "Kaja Elite",
+    "type": "Original",
+    "role": [
+      "Fighter",
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero621-icon_87efdb2a.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero624-icon_a9450449.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kaja1_c57f0332.zip"
   }
 ]
