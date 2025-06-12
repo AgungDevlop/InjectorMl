@@ -7888,5 +7888,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero291-icon_1cfd453c.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero296-icon_d757a518.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/ruby4_e68c997f.zip"
+  },
+  {
+    "id": "5fc34bae-a",
+    "hero": "Ruby",
+    "name": "Ruby Aspirants",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero291-icon_d07e55e2.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero298-icon_2d1eb063.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/ruby5_592afe0e.zip"
   }
 ]
