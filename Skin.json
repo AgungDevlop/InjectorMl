@@ -7714,5 +7714,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero281-icon_6a90247e.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero286-icon_71f36f78.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/alpa4_f87a7e6b.zip"
+  },
+  {
+    "id": "68d7617e-a",
+    "hero": "Alpha",
+    "name": "Alpha Starlight",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero281-icon_9049b068.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero287-icon_b11f0706.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/alpa5_58d8fbe1.zip"
   }
 ]
