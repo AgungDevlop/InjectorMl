@@ -8162,5 +8162,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero831-icon_2b330959.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero835-icon_4f426b31.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/xb3_0a3230f7.zip"
+  },
+  {
+    "id": "2aadf5d2-6",
+    "hero": "X Borg",
+    "name": "X Borg Transformers",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero831-icon_6ecde17c.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero836-icon_8888dc96.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/xb4_aec1666f.zip"
   }
 ]
