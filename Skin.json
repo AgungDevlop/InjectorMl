@@ -7565,5 +7565,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero671-icon_0169b083.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero677-icon_1caf886d.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/leo5_cb5d19ad.zip"
+  },
+  {
+    "id": "8caa0a4f-3",
+    "hero": "Leomord",
+    "name": "Leomord Ducati",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero671-icon_c1303c4c.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero678-icon_92c2e43f.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/leo6_d5ff6774.zip"
   }
 ]
