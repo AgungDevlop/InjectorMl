@@ -742,5 +742,11 @@
     "roll": "Fighter",
     "URL": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Zilong.png/revision/latest?cb=20200718073301",
     "id": "1477c00a-6"
+  },
+  {
+    "id": "1f236503-2",
+    "her": "Lapu Lapu",
+    "roll": "Fighter",
+    "URL": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/hero_images/Hero371-icon_693a4325.png"
   }
 ]
