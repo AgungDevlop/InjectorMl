@@ -7924,5 +7924,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero291-icon_48d3c68c.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero299-icon_fcc6ef74.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/ruby7_6f7828ac.zip"
+  },
+  {
+    "id": "f9a241ee-4",
+    "hero": "Ruby",
+    "name": "Ruby Crescent Dervish",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero291-icon_928ecd9d.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero102910-icon_7bb2ddfb.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/ruby8_dc69456f.zip"
   }
 ]
