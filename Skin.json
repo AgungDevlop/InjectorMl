@@ -7960,5 +7960,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero541-icon_375e2a38.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero543-icon_73b4baee.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/jaw2_9a150d7f.zip"
+  },
+  {
+    "id": "965de718-9",
+    "hero": "Jawhead",
+    "name": "Jawhead Special",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero541-icon_0f4149b7.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero545-icon_c6e59c5a.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/jaw3_5578a45b.zip"
   }
 ]
