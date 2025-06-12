@@ -7609,5 +7609,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero071-icon_0eae8f10.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero075-icon_f1420890.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/alu1_30e390f5.zip"
+  },
+  {
+    "id": "28202ccf-8",
+    "hero": "Alucard",
+    "name": "Alucard Season",
+    "type": "Original",
+    "role": [
+      "Fighter",
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero071-icon_e836cbad.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero073-icon_67e8f1df.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/alu2_dac387c0.zip"
   }
 ]
