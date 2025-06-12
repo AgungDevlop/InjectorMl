@@ -8080,5 +8080,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero741-icon_c2ebc210.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero741-icon_82a4a614.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20minsi_baecde98.zip"
+  },
+  {
+    "id": "12f98510-b",
+    "hero": "Minsitthar",
+    "name": "Minsitthar Elite",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero741-icon_9035695b.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero743-icon_314381ee.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/minsi1_bc93c23c.zip"
   }
 ]
