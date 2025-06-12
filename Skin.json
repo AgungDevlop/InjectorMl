@@ -7702,5 +7702,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero281-icon_9db697e1.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero285-icon_c9fe2a0a.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/alpa3_8e774c78.zip"
+  },
+  {
+    "id": "b5ae3f1a-7",
+    "hero": "Alpha",
+    "name": "Alpha Abyss",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero281-icon_6a90247e.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero286-icon_71f36f78.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/alpa4_f87a7e6b.zip"
   }
 ]
