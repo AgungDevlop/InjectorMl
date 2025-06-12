@@ -7801,5 +7801,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero221-icon_554d6e52.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero224-icon_2b662b0d.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/freya2_fb1f509c.zip"
+  },
+  {
+    "id": "157ab7bc-2",
+    "hero": "Freya",
+    "name": "Freya Starlight",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero221-icon_72b64126.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero223-icon_5f9f6209.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/freya3_f749b232.zip"
   }
 ]
