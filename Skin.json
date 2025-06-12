@@ -7726,5 +7726,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero801-icon_84a2ffdc.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero805-icon_e5d0bbe5.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/guin1_f959e609.zip"
+  },
+  {
+    "id": "16904408-5",
+    "hero": "Guinevere",
+    "name": "Guinevere Starlight",
+    "type": "Original",
+    "role": [
+      "Fighter",
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero801-icon_1023cbbb.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero804-icon_2788ce25.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/guin2_7d99666d.zip"
   }
 ]
