@@ -8498,5 +8498,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero911-icon_d657b743.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero914-icon_1953b7e1.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/cecil2_e7bc8d51.zip"
+  },
+  {
+    "id": "aca85c81-4",
+    "hero": "Cecilion",
+    "name": "Cecilion Starlight",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero911-icon_144ded9f.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero915-icon_6d0f32c2.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/cecil3_54cd5292.zip"
   }
 ]
