@@ -8330,5 +8330,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero331-icon_a5be8326.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero333-icon_a1cae84a.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/ciplop1_db4f32c0.zip"
+  },
+  {
+    "id": "51be8993-2",
+    "hero": "Cyclops",
+    "name": "Cyclops Starlight",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero331-icon_c3b1339f.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero335-icon_8288cd41.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/ciplop2_65b78c4d.zip"
   }
 ]
