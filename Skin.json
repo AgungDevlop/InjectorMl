@@ -8390,5 +8390,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero521-icon_0410759b.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero527-icon_63f96d58.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/parsa3_40c1424a.zip"
+  },
+  {
+    "id": "c35192f1-e",
+    "hero": "Pharsa",
+    "name": "Pharsa Starlight",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero521-icon_b6de63b3.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero528-icon_cc93486d.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/parsa4_ebe46b32.zip"
   }
 ]
