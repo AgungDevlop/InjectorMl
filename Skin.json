@@ -8191,5 +8191,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero881-icon_92d8f2bc.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero881-icon_4d2ba9f3.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20masha_6e49a8ad.zip"
+  },
+  {
+    "id": "650b5697-3",
+    "hero": "Masha",
+    "name": "Masha Starlight",
+    "type": "Original",
+    "role": [
+      "Fighter",
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero881-icon_2a8e6b1d.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero883-icon_5c88fe99.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/masa1_886094c8.zip"
   }
 ]
