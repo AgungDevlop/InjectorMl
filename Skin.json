@@ -8579,5 +8579,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero231-icon_54e8c216.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero233-icon_5978f86e.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/gord1_ee71fd02.zip"
+  },
+  {
+    "id": "a25aab85-0",
+    "hero": "Gord",
+    "name": "Gord Starlight Annual",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero231-icon_daebc164.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero234-icon_62eebbd4.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/gord3_46b365d3.zip"
   }
 ]
