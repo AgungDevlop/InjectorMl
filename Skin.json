@@ -8318,5 +8318,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero611-icon_4f70a4b5.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero614-icon_280ffbb2.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/cange2_147bdd86.zip"
+  },
+  {
+    "id": "58118c02-a",
+    "hero": "Chang'e",
+    "name": "Chang'e Luckybox",
+    "type": "Backup",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero611-icon_a228303b.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero615-icon_305dd281.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/cange3_9e9187aa.zip"
   }
 ]
