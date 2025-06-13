@@ -8414,5 +8414,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero461-icon_23bad22b.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero468-icon_49c259d3.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/odet6_edbeffcc.zip"
+  },
+  {
+    "id": "db226178-f",
+    "hero": "Odette",
+    "name": "Odette Starlight",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero461-icon_4bcd0aeb.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero469-icon_b69710ec.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/odet7_286f46cb.zip"
   }
 ]
