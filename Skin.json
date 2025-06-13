@@ -8215,5 +8215,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero451-icon_13857b11.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero454-icon_d6f20138.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/argus2_cce3109a.zip"
+  },
+  {
+    "id": "fea37303-0",
+    "hero": "Argus",
+    "name": "Argus Season",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero451-icon_24cad726.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero457-icon_edfff84b.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/argus3_13536587.zip"
   }
 ]
