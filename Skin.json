@@ -8639,5 +8639,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero381-icon_c555e604.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero385-icon_34130176.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/vexana3_f837fdb6.zip"
+  },
+  {
+    "id": "c37c959d-6",
+    "hero": "Vexana",
+    "name": "Vexana Collector",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero381-icon_55ad56bb.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero386-icon_c1312afd.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/vexana4_999b4746.zip"
   }
 ]
