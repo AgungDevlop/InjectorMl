@@ -8005,5 +8005,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero821-icon_16ab5082.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero821-icon_1fc5c01a.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20terizz_ed0e0d18.zip"
+  },
+  {
+    "id": "618d7808-c",
+    "hero": "Terizla",
+    "name": "Terizla Elite",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero821-icon_0ed050de.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero823-icon_14a3ca96.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/terizz1_3976cfe9.zip"
   }
 ]
