@@ -8361,5 +8361,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1201-icon_1841cfad.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1203-icon_9c5554f1.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/arlot1_f3534665.zip"
+  },
+  {
+    "id": "83346581-6",
+    "hero": "Arlot",
+    "name": "Arlot Collector",
+    "type": "Original",
+    "role": [
+      "Fighter",
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1201-icon_0fc2fa53.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250613_122908_fd4fcc10.jpg",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/arlot2_870ab357.zip"
   }
 ]
