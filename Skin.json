@@ -8651,5 +8651,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero381-icon_55ad56bb.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero386-icon_c1312afd.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/vexana4_999b4746.zip"
+  },
+  {
+    "id": "b6257451-8",
+    "hero": "Vexana",
+    "name": "Vexana Zenith",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero381-icon_1b9d926d.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero387-icon_944d830f.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/vexana5_0138cdda.zip"
   }
 ]
