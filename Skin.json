@@ -8462,5 +8462,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero961-icon_9c9e17c4.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero967-icon_92910d10.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/loyi5_968e48f4.zip"
+  },
+  {
+    "id": "2268a901-e",
+    "hero": "Cecilion",
+    "name": "Cecilion",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero911-icon_ce8b4360.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero911-icon_630d50c4.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20Cecil_9e234cfd.zip"
   }
 ]
