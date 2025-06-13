@@ -8306,5 +8306,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero151-icon_25fad1be.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero151-icon_f37fa20f.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20eudora_518d943d.zip"
+  },
+  {
+    "id": "6aaaaca6-a",
+    "hero": "Eudora",
+    "name": "Eudora Christmas",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero151-icon_e74a24df.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero153-icon_03bdad71.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/eudora1_20a138e2.zip"
   }
 ]
