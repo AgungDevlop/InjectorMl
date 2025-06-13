@@ -8378,5 +8378,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero331-icon_5f4c7218.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero337-icon_3bf9f9c3.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/ciplop5_57486b2c.zip"
+  },
+  {
+    "id": "9af754cc-b",
+    "hero": "Cyclops",
+    "name": "Cyclops Halloween",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero331-icon_c172d00c.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero338-icon_5aa7e146.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/ciplop6_29a8fe21.zip"
   }
 ]
