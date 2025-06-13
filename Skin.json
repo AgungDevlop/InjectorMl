@@ -8522,5 +8522,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero911-icon_bd060499.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero916-icon_e63ce102.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/cecil5_54b84a99.zip"
+  },
+  {
+    "id": "1d989555-9",
+    "hero": "Selena",
+    "name": "Selena",
+    "type": "Backup",
+    "role": [
+      "Mage",
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero631-icon_94cd4a4b.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero631-icon_e030b0e7.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20selena_2080ea97.zip"
   }
 ]
