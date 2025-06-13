@@ -8282,5 +8282,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1271-icon_54e3913c.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1273-icon_fcbd6046.png",
     "url": "https://git.agungbot.my.id/filezip/lukas1_684c0ae2.zip"
+  },
+  {
+    "id": "7407c9ac-d",
+    "hero": "Kalea",
+    "name": "Kalea",
+    "type": "Backup",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1281-icon_1a30b299.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1281-icon_ecb520bf.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20kalea_35a584c2.zip"
   }
 ]
