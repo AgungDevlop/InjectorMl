@@ -8330,5 +8330,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero151-icon_95db4949.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero154-icon_5ca5f6dd.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/eudora2_3eba0ecb.zip"
+  },
+  {
+    "id": "b6837c75-e",
+    "hero": "Eudora",
+    "name": "Eudora Limited",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero151-icon_506eaba4.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero155-icon_3a580dd2.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/eudora3_f6decb6d.zip"
   }
 ]
