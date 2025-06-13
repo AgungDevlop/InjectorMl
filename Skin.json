@@ -8498,5 +8498,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero421-icon_c7edda80.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero427-icon_9f5895dc.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/harley5_52b9ecfd.zip"
+  },
+  {
+    "id": "1f87902f-4",
+    "hero": "Harley",
+    "name": "Harley Elite",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero421-icon_5256c21c.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero429-icon_907eb159.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/harley6_7fbf8344.zip"
   }
 ]
