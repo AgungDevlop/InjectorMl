@@ -8390,5 +8390,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero331-icon_c172d00c.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero338-icon_5aa7e146.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/ciplop6_29a8fe21.zip"
+  },
+  {
+    "id": "0d74d17f-f",
+    "hero": "Cyclops",
+    "name": "Cyclops Collector",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero331-icon_d88d7571.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero339-icon_66b49b47.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/ciplop7_79903428.zip"
   }
 ]
