@@ -8251,5 +8251,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero981-icon_f1d22330.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero981-icon_ccbaca22.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20kalet_b96bd8da.zip"
+  },
+  {
+    "id": "8884cdec-2",
+    "hero": "Khaleed",
+    "name": "Khaleed Elite",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero981-icon_9e4b75f0.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero983-icon_7d1dd76d.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kalet1_41d0d78d.zip"
   }
 ]
