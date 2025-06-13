@@ -8594,5 +8594,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero571-icon_56bbf8e2.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero578-icon_94be65aa.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/valir6_37f08c20.zip"
+  },
+  {
+    "id": "cdedd8fd-6",
+    "hero": "Valir",
+    "name": "Valir Leo Ikki",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero571-icon_225fab48.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero579-icon_57a8b904.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/valir7_6426c2e5.zip"
   }
 ]
