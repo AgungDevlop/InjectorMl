@@ -8548,5 +8548,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero631-icon_ce8addb2.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero633-icon_65824fd6.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/selena1_35711233.zip"
+  },
+  {
+    "id": "4bb22ade-3",
+    "hero": "Selena",
+    "name": "Selena Starlight",
+    "type": "Original",
+    "role": [
+      "Mage",
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero631-icon_985e0994.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero635-icon_e988eac0.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/selena2_4b61b30b.zip"
   }
 ]
