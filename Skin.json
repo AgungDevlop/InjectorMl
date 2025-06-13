@@ -8323,5 +8323,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1081-icon_7aa71b4e.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1084-icon_1a53522b.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/aulus2_ab2eca96.zip"
+  },
+  {
+    "id": "477898d6-4",
+    "hero": "Aulus",
+    "name": "Aulus Season",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1081-icon_662a9524.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1085-icon_cc121de2.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/aulus3_bc47a3a5.zip"
   }
 ]
