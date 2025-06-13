@@ -8172,5 +8172,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero951-icon_dfc515d4.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero953-con_993258ea.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/yujong2_2d012f5e.zip"
+  },
+  {
+    "id": "0793e2ab-5",
+    "hero": "Yu Zhong",
+    "name": "Yu Zhong Exorcist",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero951-icon_4ef3ec59.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero955-icon_955ed1c0.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/yujong3_483d7bd2.zip"
   }
 ]
