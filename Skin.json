@@ -8243,5 +8243,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero881-icon_19c879f5.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero886-icon_dec6d5a4.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/masa4_71ac3c10.zip"
+  },
+  {
+    "id": "0fc73817-b",
+    "hero": "Masha",
+    "name": "Masha KOF",
+    "type": "Original",
+    "role": [
+      "Fighter",
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero881-icon_febe8d1f.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero887-icon_29f10c0d.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/masa5_a05d3462.zip"
   }
 ]
