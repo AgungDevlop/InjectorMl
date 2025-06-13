@@ -8101,5 +8101,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero571-icon_be3ee59d.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero105711-icon_fb29f4e5.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/valir8_57b15807.zip"
+  },
+  {
+    "id": "d91ed490-c",
+    "hero": "Aamon",
+    "name": "Aamon Soul Vessel",
+    "type": "Original",
+    "role": [
+      "Mage",
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1091-icon%20(1)_19fc80f2.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1095-icon_3921ffba.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/aamon%20soul_108ea74e.zip"
   }
 ]
