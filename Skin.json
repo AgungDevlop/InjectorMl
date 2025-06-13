@@ -8258,5 +8258,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1261-icon_f5ba9042.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1263-icon_b5b4b411.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/suyo1_368f5043.zip"
+  },
+  {
+    "id": "79c05c02-4",
+    "hero": "Lukas",
+    "name": "Lukas",
+    "type": "Backup",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1271-icon_52600a72.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1271-icon_1f4fd997.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20lukas_6a282a1c.zip"
   }
 ]
