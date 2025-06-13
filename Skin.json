@@ -8591,5 +8591,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero041-icon_2e4b257a.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero041-icon_78743826.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20alice_198f0f90.zip"
+  },
+  {
+    "id": "6b7fa7e0-c",
+    "hero": "Alice",
+    "name": "Alice Elite",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero041-icon_a65a7bb8.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero042-icon_49c2be01.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/alice1_c0108bb6.zip"
   }
 ]
