@@ -8148,5 +8148,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero951-icon_691eb4b3.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero951-icon_ce86b49f.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20yujong_b6348a01.zip"
+  },
+  {
+    "id": "d9aa16cb-7",
+    "hero": "Yu Zhong",
+    "name": "Yu Zhong Collector",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero951-icon_592c29a2.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero954-icon_5a8bb658.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/yujong1_1168105b.zip"
   }
 ]
