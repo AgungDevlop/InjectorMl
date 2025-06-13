@@ -8342,5 +8342,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero611-icon_09328fe8.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero616-icon_d5e3853d.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/cange4_8c1a86e8.zip"
+  },
+  {
+    "id": "7bbe8950-6",
+    "hero": "Chang'e",
+    "name": "Chang'e Epic",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero611-icon_a9b4a8d4.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero617-icon_ba5a2204.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/cange5_f17994fe.zip"
   }
 ]
