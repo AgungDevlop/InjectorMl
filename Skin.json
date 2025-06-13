@@ -7993,5 +7993,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1161-icon_d619825d.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1167-icon_4534090c.png",
     "url": "https://git.agungbot.my.id/filezip/julian3_684bbae6.zip"
+  },
+  {
+    "id": "cc3a6a21-f",
+    "hero": "Terizla",
+    "name": "Terizla",
+    "type": "Backup",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero821-icon_16ab5082.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero821-icon_1fc5c01a.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20terizz_ed0e0d18.zip"
   }
 ]
