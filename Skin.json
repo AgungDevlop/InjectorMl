@@ -8191,5 +8191,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero451-icon_df1fce04.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero451-icon_5cdadfa4.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20argus_5362cd50.zip"
+  },
+  {
+    "id": "8117a39f-1",
+    "hero": "Argus",
+    "name": "Argus Starlight",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero451-icon_c45d747d.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero453-icon_cd7c6410.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/argus1_c0e1846e.zip"
   }
 ]
