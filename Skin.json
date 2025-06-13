@@ -8626,5 +8626,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero631-icon_c8429d55.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero639-icon_d2fcf079.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/selena8_c8257f08.zip"
+  },
+  {
+    "id": "5327b612-d",
+    "hero": "Selena",
+    "name": "Selena Zenith",
+    "type": "Original",
+    "role": [
+      "Mage",
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero631-icon_99a249ad.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero106311-icon_f3b48494.png",
+    "url": "https://git.agungbot.my.id/filezip/selena9_684c5c65.zip"
   }
 ]
