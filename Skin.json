@@ -8196,5 +8196,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1031-icon_2c29d093.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1037-icon_1e209f57.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/paqu5_e22b90b0.zip"
+  },
+  {
+    "id": "05f6a75c-e",
+    "hero": "Paquito",
+    "name": "Paquito KOF",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1031-icon_be981556.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1038-icon_3923780d.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/paqu6_b999b93f.zip"
   }
 ]
