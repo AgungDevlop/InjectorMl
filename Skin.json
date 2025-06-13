@@ -8282,5 +8282,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero361-icon_0e20fefc.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero366-icon_fa9e866c.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/aurora5_37ff2ec7.zip"
+  },
+  {
+    "id": "fd0c0132-3",
+    "hero": "Chang'e",
+    "name": "Chang'e",
+    "type": "Backup",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero611-icon_274ed322.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero611-icon_842c5c7e.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20cange_15c8d20f.zip"
   }
 ]
