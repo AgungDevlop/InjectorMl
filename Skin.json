@@ -8306,5 +8306,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero681-icon_4fc44382.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero687-icon_05700d98.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/lunox5_996b6418.zip"
+  },
+  {
+    "id": "1a61e55a-f",
+    "hero": "Lunox",
+    "name": "Lunox Dawn Revelation",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero681-icon_b97ba35f.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero688-icon_82a71a82.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/lunox6_7f045536.zip"
   }
 ]
