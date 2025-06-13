@@ -8126,5 +8126,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero661-icon_ce3c4812.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero661-icon_b7c90f86.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20vale_c7fd75bc.zip"
+  },
+  {
+    "id": "63e3e0c7-9",
+    "hero": "Vale",
+    "name": "Vale Elite",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero661-icon_b86d0b8e.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero664-icon_29c65122.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/vale1_954d3ed3.zip"
   }
 ]
