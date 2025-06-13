@@ -8402,5 +8402,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero461-icon_3c9c478e.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero466-icon_c9386ce3.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/odet5_9ea3c476.zip"
+  },
+  {
+    "id": "b8aace1c-1",
+    "hero": "Odette",
+    "name": "Odette Create",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero461-icon_23bad22b.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero468-icon_49c259d3.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/odet6_edbeffcc.zip"
   }
 ]
