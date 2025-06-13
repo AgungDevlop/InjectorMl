@@ -8603,5 +8603,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero231-icon_d4b5e14f.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero236-icon_1abb1e16.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/gord4_9bd50dd8.zip"
+  },
+  {
+    "id": "86b271a3-a",
+    "hero": "Gord",
+    "name": "Gord Epic",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero231-icon_2706d6ab.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero237-icon_90778c57.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/gord5_850497f3.zip"
   }
 ]
