@@ -8651,5 +8651,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero751-icon_094b0d13.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero755-icon_2c11fbd6.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kadita2_77395ed3.zip"
+  },
+  {
+    "id": "ccf7dfae-d",
+    "hero": "Kadita",
+    "name": "Kadita Create",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero751-icon_8416c781.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero756-icon_0ce17aa1.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kadita3_08793401.zip"
   }
 ]
