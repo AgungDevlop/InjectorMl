@@ -8426,5 +8426,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero961-icon_4c05f6ba.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero965-icon_e0bfe9d4.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/loyi2_38297f1b.zip"
+  },
+  {
+    "id": "f7b5bf12-f",
+    "hero": "Luo Yi",
+    "name": "Luo Yi Lunar Fest",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero961-icon_99cf2b92.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero964-icon_be5377e8.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/loyi3_9e9095dc.zip"
   }
 ]
