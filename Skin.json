@@ -8510,5 +8510,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero421-icon_5256c21c.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero429-icon_907eb159.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/harley6_7fbf8344.zip"
+  },
+  {
+    "id": "55de7cb4-6",
+    "hero": "Valir",
+    "name": "Valir",
+    "type": "Backup",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero571-icon_ff869b3f.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero571-icon_b288ad26.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20valir_af8ea97c.zip"
   }
 ]
