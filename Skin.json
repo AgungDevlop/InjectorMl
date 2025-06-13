@@ -8136,5 +8136,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1031-icon_aa3b089c.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1031-icon_29437c64.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20pq_5d37d88d.zip"
+  },
+  {
+    "id": "6afedc95-d",
+    "hero": "Paquito",
+    "name": "Paquito Pacquiao",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1031-icon_54223c6f.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1033-icon_6b631f5e.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/paqu1_f0b8c650.zip"
   }
 ]
