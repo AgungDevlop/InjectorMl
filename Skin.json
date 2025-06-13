@@ -8603,5 +8603,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero381-icon_7ac5b058.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero381-icon_dc10c25c.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20vexana_74f459eb.zip"
+  },
+  {
+    "id": "a33fa262-8",
+    "hero": "Vexana",
+    "name": "Vexana Epic",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero381-icon_37868231.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero383-icon_eb5c227b.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/vexana1_8b982d7d.zip"
   }
 ]
