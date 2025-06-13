@@ -8366,5 +8366,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero151-icon_db914a0f.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero157-icon_380e7759.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/eudora5_af489024.zip"
+  },
+  {
+    "id": "df22b94b-a",
+    "hero": "Eudora",
+    "name": "Eudora Atomic",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero151-icon_76a9b5b4.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero158-icon_6c34698d.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/eudora6_8e47b291.zip"
   }
 ]
