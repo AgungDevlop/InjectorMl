@@ -8603,5 +8603,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero251-icon_bb4f28c1.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero254-icon_ad409220.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kagura3_e85a1cbc.zip"
+  },
+  {
+    "id": "6030d7c5-e",
+    "hero": "Kagura",
+    "name": "Kagura Starlight",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero251-icon_6e9bf5a6.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero256-icon_23ced22b.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kagura4_5eddca26.zip"
   }
 ]
