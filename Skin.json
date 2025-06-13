@@ -8414,5 +8414,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero961-icon_64f956ee.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero963-icon_c48470a1.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/loyi1_c9cddba3.zip"
+  },
+  {
+    "id": "8d8a7ed7-8",
+    "hero": "Luo Yi",
+    "name": "Luo Yi Starlight",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero961-icon_4c05f6ba.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero965-icon_e0bfe9d4.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/loyi2_38297f1b.zip"
   }
 ]
