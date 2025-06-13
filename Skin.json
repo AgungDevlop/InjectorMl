@@ -8017,5 +8017,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero821-icon_0ed050de.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero823-icon_14a3ca96.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/terizz1_3976cfe9.zip"
+  },
+  {
+    "id": "c2180b05-2",
+    "hero": "Terizla",
+    "name": "Terizla Special",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero821-icon_768ad41a.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero824-icon_ad45a11d.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/teriz2_aa3d7fbf.zip"
   }
 ]
