@@ -8258,5 +8258,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero681-icon_66c959dd.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero683-icon_4963bccd.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/lunox1_1efad70c.zip"
+  },
+  {
+    "id": "5d270e4a-6",
+    "hero": "Lunox",
+    "name": "Lunox Luckybox",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero681-icon_124a001e.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero686-icon_484320bd.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/lunox2_ef7f2685.zip"
   }
 ]
