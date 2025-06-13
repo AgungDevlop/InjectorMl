@@ -8258,5 +8258,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero361-icon_c2023454.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero365-icon_46be7284.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/aurora3_dd20f880.zip"
+  },
+  {
+    "id": "1622b894-c",
+    "hero": "Aurora",
+    "name": "Aurora Collector",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero361-icon_87d25c09.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero367-icon_926c07b7.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/aurora4_622fd615.zip"
   }
 ]
