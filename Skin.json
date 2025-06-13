@@ -8342,5 +8342,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero461-icon_5cde3d7c.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero461-icon_37a42746.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20odet_4672f366.zip"
+  },
+  {
+    "id": "b7575df1-f",
+    "hero": "Odette",
+    "name": "Odette Special",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero461-icon_7229a271.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero465-icon_55f51194.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/odet1_0746590f.zip"
   }
 ]
