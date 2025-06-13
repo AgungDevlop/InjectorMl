@@ -8184,5 +8184,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero951-icon_4ef3ec59.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero955-icon_955ed1c0.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/yujong3_483d7bd2.zip"
+  },
+  {
+    "id": "de335129-c",
+    "hero": "Yu Zhong",
+    "name": "Yu Zhong M4",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero951-icon_e7aef5b8.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero957-icon_7dc06937.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/yz4_d3a21cd8.zip"
   }
 ]
