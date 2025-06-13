@@ -8519,5 +8519,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero751-icon_58d7dc16.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250614_014134_1979458a.jpg",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kadita4_9f55eacf.zip"
+  },
+  {
+    "id": "d5f51346-3",
+    "hero": "Lylia",
+    "name": "Lylia",
+    "type": "Backup",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero861-icon_3661d92d.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero861-icon_41e6c07b.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20lilia_e3ba2556.zip"
   }
 ]
