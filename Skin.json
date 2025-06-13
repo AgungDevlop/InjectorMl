@@ -8330,5 +8330,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero521-icon_ec67abc1.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero105211-icon_cdfa5b48.png",
     "url": "https://git.agungbot.my.id/filezip/pharsa7_684c1d71.zip"
+  },
+  {
+    "id": "9d1ef6a5-b",
+    "hero": "Odette",
+    "name": "Odette",
+    "type": "Backup",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero461-icon_5cde3d7c.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero461-icon_37a42746.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20odet_4672f366.zip"
   }
 ]
