@@ -8113,5 +8113,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero721-icon_2146141f.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero726-icon_ac4314aa.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/tamus4_291eb81c.zip"
+  },
+  {
+    "id": "0b83c570-4",
+    "hero": "Yin",
+    "name": "Yin",
+    "type": "Backup",
+    "role": [
+      "Fighter",
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1131-icon_f2d27661.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1131-icon_4c2772a1.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20yin_5d9357ee.zip"
   }
 ]
