@@ -8342,5 +8342,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero331-icon_c3b1339f.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero335-icon_8288cd41.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/ciplop2_65b78c4d.zip"
+  },
+  {
+    "id": "b9815283-1",
+    "hero": "Cyclops",
+    "name": "Cyclops S.A.B.E.R",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero331-icon_f0515d88.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero334-icon_b632cb91.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/ciplop3_c8851fe3.zip"
   }
 ]
