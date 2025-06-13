@@ -8041,5 +8041,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero821-icon_f70cea16.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero826-icon_4bb6357b.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/teriz3_15c5d126.zip"
+  },
+  {
+    "id": "1e86616b-e",
+    "hero": "Terizla",
+    "name": "Terizla Collector",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero821-icon_882d437f.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero827-icon_c27ad233.png",
+    "url": "https://git.agungbot.my.id/filezip/teriz4_684bbd45.zip"
   }
 ]
