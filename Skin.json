@@ -8114,5 +8114,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1091-icon%20(1)_19fc80f2.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1095-icon_3921ffba.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/aamon%20soul_108ea74e.zip"
+  },
+  {
+    "id": "ca790291-f",
+    "hero": "Vale",
+    "name": "Vale",
+    "type": "Backup",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero661-icon_ce3c4812.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero661-icon_b7c90f86.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20vale_c7fd75bc.zip"
   }
 ]
