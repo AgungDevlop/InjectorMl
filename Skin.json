@@ -8172,5 +8172,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1031-icon_60e97870.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1035-icon_391e3861.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/paqu3_6b4011a5.zip"
+  },
+  {
+    "id": "378bfb39-0",
+    "hero": "Paquito",
+    "name": "Paquito Fish of Light",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1031-icon_b238cade.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1036-icon_4dde9d67.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/paqu4_f3a39a49.zip"
   }
 ]
