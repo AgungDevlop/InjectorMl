@@ -8148,5 +8148,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1161-icon_06a731b7.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1163-icon_e0538b85.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/julian2_38b41e4e.zip"
+  },
+  {
+    "id": "9f0dbee8-2",
+    "hero": "Julian",
+    "name": "Julian Kurapika",
+    "type": "Original",
+    "role": [
+      "Fighter",
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1161-icon_d619825d.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1167-icon_4534090c.png",
+    "url": "https://git.agungbot.my.id/filezip/julian3_684bbae6.zip"
   }
 ]
