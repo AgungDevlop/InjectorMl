@@ -8390,5 +8390,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero461-icon_d6b8e430.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero464-icon_c1106da2.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/odet4_7aee79dc.zip"
+  },
+  {
+    "id": "3bd5c031-2",
+    "hero": "Odette",
+    "name": "Odette Zodiac",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero461-icon_3c9c478e.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero466-icon_c9386ce3.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/odet5_9ea3c476.zip"
   }
 ]
