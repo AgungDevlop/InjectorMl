@@ -8220,5 +8220,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1061-icon_ed73b1ae.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1061-icon_0b337d4d.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20pove_41d046d8.zip"
+  },
+  {
+    "id": "1b2ad774-e",
+    "hero": "Phoveus",
+    "name": "Phoveus Starlight",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1061-icon_60fc9f6a.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250613_180910_01f310da.jpg",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/pove1_cd06cec6.zip"
   }
 ]
