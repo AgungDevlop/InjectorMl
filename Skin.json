@@ -8474,5 +8474,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero911-icon_ce8b4360.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero911-icon_630d50c4.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20Cecil_9e234cfd.zip"
+  },
+  {
+    "id": "db2a717c-e",
+    "hero": "Cecilion",
+    "name": "Cecilion Elite",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero911-icon_f08ecfc4.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero913-icon_275d7d5d.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/Cecil1_5864e215.zip"
   }
 ]
