@@ -8208,5 +8208,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero951-icon_b0dcb5a7.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero958-icon_87e86602.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/yujong5_a39ac947.zip"
+  },
+  {
+    "id": "a8868e80-d",
+    "hero": "Phoveus",
+    "name": "Phoveus",
+    "type": "Backup",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1061-icon_ed73b1ae.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1061-icon_0b337d4d.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20pove_41d046d8.zip"
   }
 ]
