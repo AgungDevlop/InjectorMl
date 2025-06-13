@@ -8029,5 +8029,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero821-icon_768ad41a.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero824-icon_ad45a11d.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/teriz2_aa3d7fbf.zip"
+  },
+  {
+    "id": "fcbd21e7-4",
+    "hero": "Terizla",
+    "name": "Terizla Epic",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero821-icon_f70cea16.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero826-icon_4bb6357b.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/teriz3_15c5d126.zip"
   }
 ]
