@@ -8639,5 +8639,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero251-icon_082e28c5.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero258-icon_04f56bbb.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kagura6_75614653.zip"
+  },
+  {
+    "id": "7ff045f9-d",
+    "hero": "Kagura",
+    "name": "Kagura BTC",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero251-icon_5de16182.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero259-icon_403e2d5b.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/Kagura7_54eca717.zip"
   }
 ]
