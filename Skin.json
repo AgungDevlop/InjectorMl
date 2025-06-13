@@ -8567,5 +8567,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero861-icon_62715ddc.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero865-icon_f6a8805e.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/lilia3_803d6850.zip"
+  },
+  {
+    "id": "3c7ffa50-0",
+    "hero": "Lylia",
+    "name": "Lylia Neobeast",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero861-icon_512d2358.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero866-icon_5beb3ba4.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/lilia4_4bc1329b.zip"
   }
 ]
