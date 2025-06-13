@@ -8561,5 +8561,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero631-icon_985e0994.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero635-icon_e988eac0.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/selena2_4b61b30b.zip"
+  },
+  {
+    "id": "ee8f4f32-7",
+    "hero": "Selena",
+    "name": "Selena Elite",
+    "type": "Original",
+    "role": [
+      "Mage",
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero631-icon_33c584bf.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero637-icon_d5733186.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/selena3_a5ca78af.zip"
   }
 ]
