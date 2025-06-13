@@ -8510,5 +8510,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero911-icon_144ded9f.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero915-icon_6d0f32c2.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/cecil3_54cd5292.zip"
+  },
+  {
+    "id": "33cd6304-8",
+    "hero": "Cecilion",
+    "name": "Cecilion Hisoka",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero911-icon_bd060499.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero916-icon_e63ce102.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/cecil5_54b84a99.zip"
   }
 ]
