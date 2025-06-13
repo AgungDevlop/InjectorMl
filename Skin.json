@@ -8366,5 +8366,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero331-icon_008f1601.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero336-icon_a3a0b5cf.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/ciplop4_543203ae.zip"
+  },
+  {
+    "id": "57299d2c-8",
+    "hero": "Cyclops",
+    "name": "Cyclops Starwars",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero331-icon_5f4c7218.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero337-icon_3bf9f9c3.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/ciplop5_57486b2c.zip"
   }
 ]
