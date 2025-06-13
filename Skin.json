@@ -8294,5 +8294,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1281-icon_1a30b299.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1281-icon_ecb520bf.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20kalea_35a584c2.zip"
+  },
+  {
+    "id": "712a7a00-6",
+    "hero": "Kalea",
+    "name": "Kalea Sakura",
+    "type": "Original",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1281-icon_b57e9ca2.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1283-icon_62a09c14.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kalea1_beffa7f0.zip"
   }
 ]
