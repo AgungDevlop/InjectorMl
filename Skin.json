@@ -8184,5 +8184,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero261-icon_7dbd995d.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero102611-icon_9f85d45b.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/cou9_f68bb348.zip"
+  },
+  {
+    "id": "6ac5b518-d",
+    "hero": "Chou",
+    "name": "Chou KOF",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero261-icon_22e99247.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero266-icon_9cf5ea95.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/cou10_8b2ac8f7.zip"
   }
 ]
