@@ -8246,5 +8246,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero361-icon_6e655eba.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero363-icon_61f00970.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/aurora2_0169c6f0.zip"
+  },
+  {
+    "id": "4fee7f0e-5",
+    "hero": "Aurora",
+    "name": "Aurora Zodiac",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero361-icon_c2023454.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero365-icon_46be7284.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/aurora3_dd20f880.zip"
   }
 ]
