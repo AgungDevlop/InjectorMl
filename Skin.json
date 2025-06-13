@@ -8663,5 +8663,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero251-icon_391ffde3.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero102510-icon_30708a86.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kagura8_a31834f9.zip"
+  },
+  {
+    "id": "883c4640-a",
+    "hero": "Yve",
+    "name": "Yve",
+    "type": "Backup",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1011-icon_14673c0a.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1011-icon_19c7161d.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20yve_56b26d3c.zip"
   }
 ]
