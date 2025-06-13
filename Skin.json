@@ -8165,5 +8165,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1131-icon_ea5a8cad.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Yin_(M-World_Yin)_0d4b1ef0.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/yin3_48aca0a3.zip"
+  },
+  {
+    "id": "fcb3ba13-1",
+    "hero": "Yin",
+    "name": "Yin Eren",
+    "type": "Original",
+    "role": [
+      "Fighter",
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1131-icon_470ccd8f.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1136-icon_a981e7bf.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/yin4_1edaba38.zip"
   }
 ]
