@@ -8198,5 +8198,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero571-icon_5fb08f65.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero668-icon_ef369200.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/vale6_de314465.zip"
+  },
+  {
+    "id": "deb125e7-4",
+    "hero": "Vale",
+    "name": "Vale Gaara",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero661-icon_2576004f.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero669-icon_73ed53fc.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/vale7_9e0dae92.zip"
   }
 ]
