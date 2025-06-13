@@ -8065,5 +8065,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero721-icon_f58edf77.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero721-icon_c9d0acca.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20tamus_9d7bb161.zip"
+  },
+  {
+    "id": "e60275b5-e",
+    "hero": "Thamuz",
+    "name": "Thamuz Elite",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero721-icon_935ede22.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero723-icon_b002b550.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/tamus1_a38957de.zip"
   }
 ]
