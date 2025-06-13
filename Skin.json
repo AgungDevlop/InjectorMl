@@ -8270,5 +8270,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero361-icon_87d25c09.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero367-icon_926c07b7.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/aurora4_622fd615.zip"
+  },
+  {
+    "id": "1385f8a7-1",
+    "hero": "Aurora",
+    "name": "Aurora KOF",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero361-icon_0e20fefc.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero366-icon_fa9e866c.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/aurora5_37ff2ec7.zip"
   }
 ]
