@@ -8203,5 +8203,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero451-icon_c45d747d.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero453-icon_cd7c6410.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/argus1_c0e1846e.zip"
+  },
+  {
+    "id": "26565054-6",
+    "hero": "Argus",
+    "name": "Argus Elite",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero451-icon_13857b11.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero454-icon_d6f20138.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/argus2_cce3109a.zip"
   }
 ]
