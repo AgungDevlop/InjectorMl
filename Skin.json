@@ -8122,5 +8122,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1231-icon_7f259089.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1233-icon_06b68635.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/cici1_b52bf092.zip"
+  },
+  {
+    "id": "5dc7f320-e",
+    "hero": "Julian",
+    "name": "Julian",
+    "type": "Backup",
+    "role": [
+      "Fighter",
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1161-icon_b8d64cc0.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1161-icon_cbb6d1de.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20julian_2aa249ee.zip"
   }
 ]
