@@ -8077,5 +8077,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero721-icon_935ede22.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero723-icon_b002b550.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/tamus1_a38957de.zip"
+  },
+  {
+    "id": "7ba3c026-2",
+    "hero": "Thamuz",
+    "name": "Thamuz Special",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero721-icon_d909d4f2.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero724-icon_4fc59c97.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/tamus2_876188d1.zip"
   }
 ]
