@@ -8613,5 +8613,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero631-icon_f8ecbfce.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero636-icon_ec81e59c.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/selena7_ee1e8ea3.zip"
+  },
+  {
+    "id": "70e830bb-5",
+    "hero": "Selena",
+    "name": "Selena Abyss",
+    "type": "Original",
+    "role": [
+      "Mage",
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero631-icon_c8429d55.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero639-icon_d2fcf079.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/selena8_c8257f08.zip"
   }
 ]
