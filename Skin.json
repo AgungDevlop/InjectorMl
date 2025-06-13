@@ -8139,5 +8139,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1131-icon_078eff1d.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1134-icon_d7cbaa42.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/yin1_1a4636c8.zip"
+  },
+  {
+    "id": "8f1a5e50-c",
+    "hero": "Yin",
+    "name": "Yin Starlight",
+    "type": "Original",
+    "role": [
+      "Fighter",
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1131-icon_4f2dc80e.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1135-icon_77754bb0.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/yin2_72e82995.zip"
   }
 ]
