@@ -8160,5 +8160,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero951-icon_592c29a2.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero954-icon_5a8bb658.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/yujong1_1168105b.zip"
+  },
+  {
+    "id": "059bd82e-6",
+    "hero": "Yu Zhong",
+    "name": "Yu Zhong Starlight",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero951-icon_dfc515d4.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero953-con_993258ea.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/yujong2_2d012f5e.zip"
   }
 ]
