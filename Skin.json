@@ -8366,5 +8366,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero521-icon_cbc87d43.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero523-icon_e04fadf1.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/parsa1_a208721a.zip"
+  },
+  {
+    "id": "9bb9d811-a",
+    "hero": "Pharsa",
+    "name": "Pharsa Collector",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero521-icon_1195ce9d.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero526-icon_e889c121.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/parsa2_3ab327d8.zip"
   }
 ]
