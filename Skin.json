@@ -8186,5 +8186,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero571-icon_4fb98824.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero667-icon_5581dcf9.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/vale5_1c6932d4.zip"
+  },
+  {
+    "id": "f2b95a7f-d",
+    "hero": "Vale",
+    "name": "Vale Starlight Annual",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero571-icon_5fb08f65.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero668-icon_ef369200.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/vale6_de314465.zip"
   }
 ]
