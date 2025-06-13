@@ -8579,5 +8579,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero631-icon_99a249ad.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero106311-icon_f3b48494.png",
     "url": "https://git.agungbot.my.id/filezip/selena9_684c5c65.zip"
+  },
+  {
+    "id": "28a7c4d4-b",
+    "hero": "Alice",
+    "name": "Alice",
+    "type": "Backup",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero041-icon_2e4b257a.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero041-icon_78743826.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20alice_198f0f90.zip"
   }
 ]
