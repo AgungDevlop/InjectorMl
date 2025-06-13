@@ -8335,5 +8335,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1081-icon_662a9524.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1085-icon_cc121de2.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/aulus3_bc47a3a5.zip"
+  },
+  {
+    "id": "d8c56d28-b",
+    "hero": "Arlot",
+    "name": "Arlot",
+    "type": "Backup",
+    "role": [
+      "Fighter",
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1201-icon_3203b2e4.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1201-icon_50fcb888.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20arlot_08adbd5a.zip"
   }
 ]
