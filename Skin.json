@@ -8426,5 +8426,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero461-icon_4bcd0aeb.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero469-icon_b69710ec.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/odet7_286f46cb.zip"
+  },
+  {
+    "id": "8a4990e4-f",
+    "hero": "Harley",
+    "name": "Harley",
+    "type": "Backup",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero421-icon_0d671484.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero421-icon_53364af7.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20harley_eb45aec0.zip"
   }
 ]
