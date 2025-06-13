@@ -8318,5 +8318,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero151-icon_e74a24df.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero153-icon_03bdad71.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/eudora1_20a138e2.zip"
+  },
+  {
+    "id": "10e1e0a5-1",
+    "hero": "Eudora",
+    "name": "Eudora Luckybox",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero151-icon_95db4949.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero154-icon_5ca5f6dd.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/eudora2_3eba0ecb.zip"
   }
 ]
