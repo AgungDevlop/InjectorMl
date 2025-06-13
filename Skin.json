@@ -8615,5 +8615,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero251-icon_6e9bf5a6.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero256-icon_23ced22b.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kagura4_5eddca26.zip"
+  },
+  {
+    "id": "1a7c716a-4",
+    "hero": "Kagura",
+    "name": "Kagura Starlight Annual",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero251-icon_0df52eaf.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero257-icon_271f5a3b.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kagura5_a4601ecb.zip"
   }
 ]
