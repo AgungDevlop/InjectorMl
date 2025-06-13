@@ -8378,5 +8378,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero461-icon_2b7c10a2.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero463-icon_5255b147.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/odet3_b61fba3a.zip"
+  },
+  {
+    "id": "4cdce94a-2",
+    "hero": "Odette",
+    "name": "Odette Luckybox",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero461-icon_d6b8e430.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero464-icon_c1106da2.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/odet4_7aee79dc.zip"
   }
 ]
