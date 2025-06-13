@@ -8639,5 +8639,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero751-icon_c2ae8cc9.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero753-icon_234aea78.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kadita1_56ab5921.zip"
+  },
+  {
+    "id": "112a31fd-b",
+    "hero": "Kadita",
+    "name": "Kadita MPL",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero751-icon_094b0d13.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero755-icon_2c11fbd6.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kadita2_77395ed3.zip"
   }
 ]
