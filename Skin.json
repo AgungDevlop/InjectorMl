@@ -8354,5 +8354,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero151-icon_3f924b6f.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero156-icon_c71ebafa.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/eudora4_5736457e.zip"
+  },
+  {
+    "id": "171af9ff-1",
+    "hero": "Eudora",
+    "name": "Eudora Starlight",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero151-icon_db914a0f.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero157-icon_380e7759.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/eudora5_af489024.zip"
   }
 ]
