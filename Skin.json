@@ -8318,5 +8318,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero681-icon_b97ba35f.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero688-icon_82a71a82.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/lunox6_7f045536.zip"
+  },
+  {
+    "id": "080c3d2f-6",
+    "hero": "Lunox",
+    "name": "Lunox Legend",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero681-icon_b416fda6.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero689-icon_2173c042.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/lunox7_a790f5b4.zip"
   }
 ]
