@@ -8574,5 +8574,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero631-icon_33c584bf.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero637-icon_d5733186.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/selena3_a5ca78af.zip"
+  },
+  {
+    "id": "e460b5ad-1",
+    "hero": "Selena",
+    "name": "Selena S.T.U.N",
+    "type": "Original",
+    "role": [
+      "Mage",
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero631-icon_d472653b.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero638-icon_2f97c604.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/selena5_c51225a0.zip"
   }
 ]
