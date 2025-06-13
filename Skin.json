@@ -8311,5 +8311,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1081-icon_9b49e6e1.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1083-icon_097f5b19.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/aulus1_ef366d55.zip"
+  },
+  {
+    "id": "bb63a3e4-a",
+    "hero": "Aulus",
+    "name": "Aulus Special",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1081-icon_7aa71b4e.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1084-icon_1a53522b.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/aulus2_ab2eca96.zip"
   }
 ]
