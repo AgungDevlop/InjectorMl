@@ -8124,5 +8124,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero261-icon_22e99247.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero266-icon_9cf5ea95.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/cou10_8b2ac8f7.zip"
+  },
+  {
+    "id": "35b171d6-3",
+    "hero": "Paquito",
+    "name": "Paquito",
+    "type": "Backup",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1031-icon_aa3b089c.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1031-icon_29437c64.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20pq_5d37d88d.zip"
   }
 ]
