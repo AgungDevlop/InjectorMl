@@ -8178,5 +8178,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1131-icon_470ccd8f.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1136-icon_a981e7bf.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/yin4_1edaba38.zip"
+  },
+  {
+    "id": "db02701a-7",
+    "hero": "Masha",
+    "name": "Masha",
+    "type": "Backup",
+    "role": [
+      "Fighter",
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero881-icon_92d8f2bc.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero881-icon_4d2ba9f3.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20masha_6e49a8ad.zip"
   }
 ]
