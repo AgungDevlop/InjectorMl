@@ -8555,5 +8555,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero861-icon_e35bbf89.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero864-icon_24cdec73.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/lilia2_3b21580d.zip"
+  },
+  {
+    "id": "ec76713b-1",
+    "hero": "Lylia",
+    "name": "Lylia Halloween",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero861-icon_62715ddc.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero865-icon_f6a8805e.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/lilia3_803d6850.zip"
   }
 ]
