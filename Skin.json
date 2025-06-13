@@ -8275,5 +8275,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero981-icon_1321770c.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero984-icon_011e902a.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kalet2_38d326cb.zip"
+  },
+  {
+    "id": "c4992c88-0",
+    "hero": "Khaleed",
+    "name": "Khaleed Season",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero981-icon_7b0e4f9e.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero985-icon_cfa85a54.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kalet3_274cd605.zip"
   }
 ]
