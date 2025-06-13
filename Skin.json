@@ -8567,5 +8567,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero231-icon_c5fac054.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero231-icon_c7490825.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20gord_7b7bd711.zip"
+  },
+  {
+    "id": "997031d9-7",
+    "hero": "Gord",
+    "name": "Gord Christmas",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero231-icon_54e8c216.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero233-icon_5978f86e.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/gord1_ee71fd02.zip"
   }
 ]
