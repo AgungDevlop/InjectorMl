@@ -8089,5 +8089,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero721-icon_d909d4f2.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero724-icon_4fc59c97.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/tamus2_876188d1.zip"
+  },
+  {
+    "id": "30a9eafb-7",
+    "hero": "Thamuz",
+    "name": "Thamuz Kungfu Panda",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero721-icon_d66eda93.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero725-icon_3a1cdae6.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/tamus3_28625778.zip"
   }
 ]
