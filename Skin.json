@@ -8270,5 +8270,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1271-icon_52600a72.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1271-icon_1f4fd997.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20lukas_6a282a1c.zip"
+  },
+  {
+    "id": "947285f1-8",
+    "hero": "Lukas",
+    "name": "Lukas Naruto",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1271-icon_54e3913c.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1273-icon_fcbd6046.png",
+    "url": "https://git.agungbot.my.id/filezip/lukas1_684c0ae2.zip"
   }
 ]
