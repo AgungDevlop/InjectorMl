@@ -8287,5 +8287,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero981-icon_7b0e4f9e.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero985-icon_cfa85a54.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kalet3_274cd605.zip"
+  },
+  {
+    "id": "0cf3fbc5-5",
+    "hero": "Aulus",
+    "name": "Aulus",
+    "type": "Backup",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1081-icon_a786d45e.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1081-icon_f183b56a.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20aulus_c9c264e3.zip"
   }
 ]
