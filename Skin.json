@@ -8414,5 +8414,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero521-icon_db046c54.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero529-icon_0a2d8929.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/pharsa5_17d3d058.zip"
+  },
+  {
+    "id": "3b35b626-a",
+    "hero": "Pharsa",
+    "name": "Pharsa Epic",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero521-icon_546abe84.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero105210-icon_30aad1f3.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/pharsa6_a39e1fc6.zip"
   }
 ]
