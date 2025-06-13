@@ -8282,5 +8282,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero681-icon_f0376084.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero684-icon_af912fc3.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/lunox3_62cf42ec.zip"
+  },
+  {
+    "id": "b066fcc4-8",
+    "hero": "Lunox",
+    "name": "Lunox Zodiac",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero681-icon_92f34324.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero685-icon_16f34f01.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/lunox4_78d040eb.zip"
   }
 ]
