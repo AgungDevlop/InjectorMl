@@ -8591,5 +8591,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero231-icon_daebc164.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero234-icon_62eebbd4.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/gord3_46b365d3.zip"
+  },
+  {
+    "id": "ce48a51e-b",
+    "hero": "Gord",
+    "name": "Gord Season",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero231-icon_d4b5e14f.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero236-icon_1abb1e16.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/gord4_9bd50dd8.zip"
   }
 ]
