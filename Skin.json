@@ -8378,5 +8378,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero521-icon_1195ce9d.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero526-icon_e889c121.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/parsa2_3ab327d8.zip"
+  },
+  {
+    "id": "8474451d-5",
+    "hero": "Pharsa",
+    "name": "Pharsa Special",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero521-icon_0410759b.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero527-icon_63f96d58.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/parsa3_40c1424a.zip"
   }
 ]
