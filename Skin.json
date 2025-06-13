@@ -8342,5 +8342,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero681-icon_a97b04f2.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero106810-icon_c1c18abf.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/lunox8_f17c5223.zip"
+  },
+  {
+    "id": "5c7931f0-f",
+    "hero": "Pharsa",
+    "name": "Pharsa",
+    "type": "Backup",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero521-icon_bc6d4117.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero521-icon_50ae9a20.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20parsha_822582ed.zip"
   }
 ]
