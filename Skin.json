@@ -8663,5 +8663,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero751-icon_8416c781.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero756-icon_0ce17aa1.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kadita3_08793401.zip"
+  },
+  {
+    "id": "1ab2ebad-8",
+    "hero": "Kadita",
+    "name": "Kadita Starlight",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero751-icon_58d7dc16.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250614_014134_1979458a.jpg",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kadita4_9f55eacf.zip"
   }
 ]
