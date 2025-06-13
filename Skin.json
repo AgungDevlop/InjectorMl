@@ -8053,5 +8053,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero821-icon_882d437f.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero827-icon_c27ad233.png",
     "url": "https://git.agungbot.my.id/filezip/teriz4_684bbd45.zip"
+  },
+  {
+    "id": "90777fdc-7",
+    "hero": "Thamuz",
+    "name": "Thamuz",
+    "type": "Backup",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero721-icon_f58edf77.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero721-icon_c9d0acca.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20tamus_9d7bb161.zip"
   }
 ]
