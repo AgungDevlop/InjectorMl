@@ -8239,5 +8239,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero451-icon_cedac830.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero456-icon_63bac6a9.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/Argus4_ea15f44a.zip"
+  },
+  {
+    "id": "38ec54cf-6",
+    "hero": "Khaleed",
+    "name": "Khaleed",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero981-icon_f1d22330.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero981-icon_ccbaca22.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20kalet_b96bd8da.zip"
   }
 ]
