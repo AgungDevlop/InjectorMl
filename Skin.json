@@ -8426,5 +8426,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero521-icon_546abe84.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero105210-icon_30aad1f3.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/pharsa6_a39e1fc6.zip"
+  },
+  {
+    "id": "615beeef-d",
+    "hero": "Pharsa",
+    "name": "Pharsa Neobeast",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero521-icon_ec67abc1.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero105211-icon_cdfa5b48.png",
+    "url": "https://git.agungbot.my.id/filezip/pharsa7_684c1d71.zip"
   }
 ]
