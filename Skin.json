@@ -8522,5 +8522,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero571-icon_ff869b3f.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero571-icon_b288ad26.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20valir_af8ea97c.zip"
+  },
+  {
+    "id": "c9931601-e",
+    "hero": "Valir",
+    "name": "Valir Special",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero571-icon_3fe0ff11.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero573-icon_cea2ba94.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/valir1_f3cc67c9.zip"
   }
 ]
