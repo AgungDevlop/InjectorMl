@@ -8179,5 +8179,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero991-icon_66f51c68.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero996-icon_98b701ae.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/barats4_3a9d1c93.zip"
+  },
+  {
+    "id": "e8d5ee9e-7",
+    "hero": "Argus",
+    "name": "Argus",
+    "type": "Backup",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero451-icon_df1fce04.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero451-icon_5cdadfa4.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20argus_5362cd50.zip"
   }
 ]
