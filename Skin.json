@@ -8071,5 +8071,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero601-icon_333729ac.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero601-icon_008cfb9b.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20Hanabi_a8a9433f.zip"
+  },
+  {
+    "id": "1c63e198-3",
+    "hero": "Hanabi",
+    "name": "Hanabi Elite",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero601-icon_a68c9c3a.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero603-icon_1cb3313e.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/hanabi1_b9078bbc.zip"
   }
 ]
