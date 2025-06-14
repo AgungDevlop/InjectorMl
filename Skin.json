@@ -8299,5 +8299,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero401-icon_7a8411ba.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero401-icon_3d7a2e92.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20kari_286694ce.zip"
+  },
+  {
+    "id": "aa3eb290-7",
+    "hero": "Karrie",
+    "name": "Karrie Elite",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero401-icon_76b9b67b.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero403-icon_0af3f836.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kari1_04103ee4.zip"
   }
 ]
