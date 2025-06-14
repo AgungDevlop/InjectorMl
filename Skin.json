@@ -8215,5 +8215,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero311-icon_eb2c0c5c.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero315-icon_41149d9b.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/moskov3_85339da6.zip"
+  },
+  {
+    "id": "7c221b1f-1",
+    "hero": "Moskov",
+    "name": "Moskov Luckybox",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero311-icon_b2c8682e.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero316-icon_95108297.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/moskov4_600f90a6.zip"
   }
 ]
