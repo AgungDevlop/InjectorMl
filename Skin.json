@@ -504,18 +504,6 @@
     "url": "1"
   },
   {
-    "id": "Claude-GJ5cp5NYXK",
-    "hero": "Claude",
-    "name": "Claude Summer",
-    "type": "Original",
-    "role": [
-      "Marksman"
-    ],
-    "img1": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Claude.png/revision/latest?cb=20190615171431",
-    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero655-portrait.png/revision/latest?cb=20220525165638",
-    "url": "https://github.com/rahasia55/New-Default-skin/raw/main/claude%20summer.zip"
-  },
-  {
     "id": "Claude-cmD0f6kxa9",
     "hero": "Claude",
     "name": "Claude Epic",
