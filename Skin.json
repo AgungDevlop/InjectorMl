@@ -7867,5 +7867,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero181-icon_241462d0.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Breacher_Icon_70ab892d.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/layla3_d64bbc72.zip"
+  },
+  {
+    "id": "893c61be-e",
+    "hero": "Layla",
+    "name": "Layla Blue Spectre",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero181-icon_5846e6c1.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero185-icon_68b0e14a.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/layla4_f19fba49.zip"
   }
 ]
