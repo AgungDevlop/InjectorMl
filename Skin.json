@@ -8263,5 +8263,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero311-icon_3459a8d6.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero319-icon_e1d681e8.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/moskov7_91719997.zip"
+  },
+  {
+    "id": "5018e50a-b",
+    "hero": "Moskov",
+    "name": "Moskov Violet Spear",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero311-icon_923de3ad.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero103110-icon_1bf7cc9f.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/moskov8_c6597c56.zip"
   }
 ]
