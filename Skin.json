@@ -7495,5 +7495,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1211-icon_44d376bd.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1213-icon_17678f37.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/ixia1_a81c499c.zip"
+  },
+  {
+    "id": "b26f53a6-c",
+    "hero": "Popol & Kupa",
+    "name": "Popol & Kupa",
+    "type": "Backup",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero941-icon_7690e869.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero941-icon_40cbdd63.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20popol_3fa782c9.zip"
   }
 ]
