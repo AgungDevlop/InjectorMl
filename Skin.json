@@ -7951,5 +7951,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero131-icon_f7c158a8.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero132-icon_de61f0c1.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/clin1_624b8f6c.zip"
+  },
+  {
+    "id": "dcf3ed18-a",
+    "hero": "Clint",
+    "name": "Clint Valentine",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero131-icon_d660fe90.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero133-icon_0fd5869e.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/clin2_37988497.zip"
   }
 ]
