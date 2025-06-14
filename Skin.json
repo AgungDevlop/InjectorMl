@@ -8723,5 +8723,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1101-icon_d7c94386.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1104-icon_e8511d82.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/valen2_3a37e3fc.zip"
+  },
+  {
+    "id": "e08218fd-0",
+    "hero": "Valentina",
+    "name": "Valentina Collector",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1101-icon_3db51308.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1105-icon_f823b921.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/valen3_cb306aa3.zip"
   }
 ]
