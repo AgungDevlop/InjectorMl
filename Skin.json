@@ -7975,5 +7975,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero131-icon_ed7b7925.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero134-icon_4ba53017.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/clin3_0c38e4e0.zip"
+  },
+  {
+    "id": "505a9572-2",
+    "hero": "Clint",
+    "name": "Clint Special",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero131-icon_d26f4e4a.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero135-icon_fbd88bf8.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/clin4_f06f3fb2.zip"
   }
 ]
