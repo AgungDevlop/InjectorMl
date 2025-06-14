@@ -8567,5 +8567,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero501-icon_c9c975f0.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero501-icon_ebce32fd.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20zack_d8c94e42.zip"
+  },
+  {
+    "id": "3cd50925-b",
+    "hero": "Zhask",
+    "name": "Zhask Luckybox",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero501-icon_eb5ae949.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250614_144226_2f203d3c.jpg",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/zack1_04c1d324.zip"
   }
 ]
