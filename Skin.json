@@ -7555,5 +7555,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero941-icon_994d2eed.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero946-icon_172020c8.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/popol4_7e66f4e4.zip"
+  },
+  {
+    "id": "f3678ba2-6",
+    "hero": "Popol & Kupa",
+    "name": "Popol & Kupa All Star",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero941-icon_f9785feb.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250614_164230_e255b4db.jpg",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/popol5_794ce30f.zip"
   }
 ]
