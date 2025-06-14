@@ -8706,5 +8706,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero811-icon_faca89dd.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero819-icon_30c13094.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/esme6_ddf6ef96.zip"
+  },
+  {
+    "id": "f7b1c261-6",
+    "hero": "Esmeralda",
+    "name": "Esmeralda Blazing",
+    "type": "Original",
+    "role": [
+      "Mage",
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero811-icon_3162c26a.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero816-icon_642b51b9.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/esme7_a4f57ebf.zip"
   }
 ]
