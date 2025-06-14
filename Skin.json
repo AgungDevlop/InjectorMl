@@ -7783,5 +7783,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero011-icon_f76f368f.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero016-icon_cd146fc5.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/miya8_7edb06f7.zip"
+  },
+  {
+    "id": "56869e1d-6",
+    "hero": "Miya",
+    "name": "Miya Anniversary",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero011-icon_220f7e72.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero100110-icon_8a2ccf82.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/miya9_62abeffc.zip"
   }
 ]
