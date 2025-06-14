@@ -7627,5 +7627,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero121-icon_914fb3af.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero122-icon_7aadc284.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/bruno4_e35c79b1.zip"
+  },
+  {
+    "id": "f8324327-1",
+    "hero": "Bruno",
+    "name": "Bruno Neymar JR",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero121-icon_ffa163bb.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero129-icon_8e0431b1.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/bruno5_47c40fc2.zip"
   }
 ]
