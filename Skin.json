@@ -8227,5 +8227,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero311-icon_b2c8682e.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero316-icon_95108297.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/moskov4_600f90a6.zip"
+  },
+  {
+    "id": "a7d52dfe-b",
+    "hero": "Moskov",
+    "name": "Moskov Elite",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero311-icon_94be215b.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero317-icon_8c09c49b.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/moskov5_69cd4d46.zip"
   }
 ]
