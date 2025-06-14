@@ -8615,5 +8615,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero501-icon_6f9a4509.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero506-icon_ac9405b5.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/zack4_f2a46697.zip"
+  },
+  {
+    "id": "3df31238-1",
+    "hero": "Esmeralda",
+    "name": "Esmeralda",
+    "type": "Backup",
+    "role": [
+      "Mage",
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero811-icon_e6fe26e4.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero811-icon_7d9a49ae.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20esme_22844137.zip"
   }
 ]
