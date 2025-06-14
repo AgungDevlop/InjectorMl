@@ -7711,5 +7711,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero011-icon_d97b46f1.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero100112-icon_1b7dc67f.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/miya2_090c7804.zip"
+  },
+  {
+    "id": "aa9656c8-4",
+    "hero": "Miya",
+    "name": "Miya Captain Thorns",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero011-icon_cddd071d.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero014-icon_7f202940.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/miya3_330b8f9b.zip"
   }
 ]
