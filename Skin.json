@@ -7831,5 +7831,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero181-icon_55795e44.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero181-icon_0053acc3.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20layla_4118afff.zip"
+  },
+  {
+    "id": "ab8ec021-a",
+    "hero": "Layla",
+    "name": "Layla Bunny Babe",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero181-icon_7d65d47a.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero183-icon_f78f3d06.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/layla1_2dc9f012.zip"
   }
 ]
