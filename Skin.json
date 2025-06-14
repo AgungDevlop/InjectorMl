@@ -8641,5 +8641,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero811-icon_b7043050.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero813-icon_2a2ca1fb.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/esme1_c33356b2.zip"
+  },
+  {
+    "id": "59dc8da6-0",
+    "hero": "Esmeralda",
+    "name": "Esmeralda Valentine",
+    "type": "Original",
+    "role": [
+      "Mage",
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero811-icon_ad7b47b8.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero814-icon_9e8750e8.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/esme2_bf61e450.zip"
   }
 ]
