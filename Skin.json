@@ -7747,5 +7747,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero011-icon_93c6391c.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero018-icon_e481c371.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/miya5_3fc218aa.zip"
+  },
+  {
+    "id": "d16ce1eb-1",
+    "hero": "Miya",
+    "name": "Miya Limited",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero011-icon_6b9831cb.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero015-icon_99e68416.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/miya6_2a6e320d.zip"
   }
 ]
