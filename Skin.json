@@ -8347,5 +8347,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero401-icon_95ba3644.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero406-icon_5577e2ec.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kari4_0793ae69.zip"
+  },
+  {
+    "id": "941043a1-4",
+    "hero": "Karrie",
+    "name": "Karrie Gill Girl",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero401-icon_de93873e.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero407-icon_aaa125b1.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kari5_43dc1497.zip"
   }
 ]
