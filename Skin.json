@@ -8654,5 +8654,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero811-icon_ad7b47b8.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero814-icon_9e8750e8.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/esme2_bf61e450.zip"
+  },
+  {
+    "id": "9ed7e3a4-5",
+    "hero": "Esmeralda",
+    "name": "Esmeralda Starlight",
+    "type": "Original",
+    "role": [
+      "Mage",
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero811-icon_c9c07ba6.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero815-icon_e5b8883b.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/esme3_49a23123.zip"
   }
 ]
