@@ -7843,5 +7843,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero181-icon_7d65d47a.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero183-icon_f78f3d06.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/layla1_2dc9f012.zip"
+  },
+  {
+    "id": "85ff2a9d-6",
+    "hero": "Layla",
+    "name": "Layla Valentine",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero181-icon_8c35b029.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero184-icon_84d70ee4.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/layla2_b7e7b775.zip"
   }
 ]
