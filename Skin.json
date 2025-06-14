@@ -8743,5 +8743,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero731-icon_bf679caa.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero733-icon_0f2717aa.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/harit1_85af9b11.zip"
+  },
+  {
+    "id": "db3723a2-f",
+    "hero": "Harith",
+    "name": "Harith Lightborn",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero731-icon_20a0001f.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero735-icon_f2d57a28.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/harit2_2b98c718.zip"
   }
 ]
