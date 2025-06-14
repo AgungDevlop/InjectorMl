@@ -7663,5 +7663,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero121-icon_d26e2598.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero127-icon_a35ac44f.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/bruno7_267580a9.zip"
+  },
+  {
+    "id": "ec0084ae-8",
+    "hero": "Bruno",
+    "name": "Bruno Dawning Star",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero121-icon_3226372c.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero126-icon_39b62a32.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/bruno8_4e18e51d.zip"
   }
 ]
