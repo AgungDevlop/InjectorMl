@@ -8591,5 +8591,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero501-icon_e61d72d6.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero504-icon_38bb480b.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/zack2_3916fceb.zip"
+  },
+  {
+    "id": "6af3d10d-5",
+    "hero": "Zhask",
+    "name": "Zhask Special",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero501-icon_da2f1ce8.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero505-icon_295613ce.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/zack3_2519b60c.zip"
   }
 ]
