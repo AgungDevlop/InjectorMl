@@ -8693,5 +8693,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero811-icon_71794502.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero818-icon_d67cc9e9.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/esme5_de7d2a62.zip"
+  },
+  {
+    "id": "231cd76e-e",
+    "hero": "Esmeralda",
+    "name": "Esmeralda 515",
+    "type": "Original",
+    "role": [
+      "Mage",
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero811-icon_faca89dd.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero819-icon_30c13094.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/esme6_ddf6ef96.zip"
   }
 ]
