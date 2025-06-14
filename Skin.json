@@ -8383,5 +8383,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero401-icon_ca776c24.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero104010-icon_37a52fd1.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kari7_2c136b0f.zip"
+  },
+  {
+    "id": "9a74b0a0-9",
+    "hero": "Karrie",
+    "name": "Karrie Kishin",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero401-icon_7e884173.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero104011-icon_6167d8d4.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kari8_a98a4538.zip"
   }
 ]
