@@ -7759,5 +7759,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero011-icon_6b9831cb.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero015-icon_99e68416.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/miya6_2a6e320d.zip"
+  },
+  {
+    "id": "86de5fb8-e",
+    "hero": "Miya",
+    "name": "Miya Christmas",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero011-icon_e6279db5.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero013-icon_15349bd6.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/miya7_2e34bb24.zip"
   }
 ]
