@@ -7795,5 +7795,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero011-icon_220f7e72.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero100110-icon_8a2ccf82.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/miya9_62abeffc.zip"
+  },
+  {
+    "id": "452bfbf4-9",
+    "hero": "Miya",
+    "name": "Miya Collector",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero011-icon_421c4751.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero100111-icon_d50d674f.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/miya10_71383877.zip"
   }
 ]
