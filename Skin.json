@@ -7999,5 +7999,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero131-icon_15d0de5b.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero136-icon_eccb5661.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/clin5_416529f5.zip"
+  },
+  {
+    "id": "ac167410-4",
+    "hero": "Clint",
+    "name": "Clint M2",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero131-icon_d8d91f9a.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero137-icon_dc2ebb42.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/clin6_2f962973.zip"
   }
 ]
