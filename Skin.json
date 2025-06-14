@@ -7591,5 +7591,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero121-icon_3c30c455.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero124-icon_f6e7d34c.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/bruno1_63d81521.zip"
+  },
+  {
+    "id": "358c8aa8-7",
+    "hero": "Bruno",
+    "name": "Bruno Best DJ",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero121-icon_f9a023c9.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero123-icon_b540e9a2.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/bruno2_81012e8e.zip"
   }
 ]
