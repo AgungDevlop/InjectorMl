@@ -7567,5 +7567,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero941-icon_f9785feb.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250614_164230_e255b4db.jpg",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/popol5_794ce30f.zip"
+  },
+  {
+    "id": "9f2bf536-a",
+    "hero": "Bruno",
+    "name": "Bruno",
+    "type": "Backup",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero121-icon_4e520409.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero121-icon_e536676e.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20bruno_09e60a9e.zip"
   }
 ]
