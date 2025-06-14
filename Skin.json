@@ -8767,5 +8767,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero731-icon_9189477c.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero736-icon_752ae705.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/harit3_1f9cd27a.zip"
+  },
+  {
+    "id": "78f579fc-4",
+    "hero": "Harith",
+    "name": "Harith 515",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero731-icon_95cda846.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero734-icon_7fe78c26.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/harit4_e93e5bf7.zip"
   }
 ]
