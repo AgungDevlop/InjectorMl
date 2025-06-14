@@ -8579,5 +8579,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero501-icon_eb5ae949.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250614_144226_2f203d3c.jpg",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/zack1_04c1d324.zip"
+  },
+  {
+    "id": "be6d25c2-6",
+    "hero": "Zhask",
+    "name": "Zhask Zodiac",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero501-icon_e61d72d6.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero504-icon_38bb480b.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/zack2_3916fceb.zip"
   }
 ]
