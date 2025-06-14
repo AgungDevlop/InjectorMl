@@ -8483,5 +8483,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1101-icon_3a17049d.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1106-icon_fd3fff89.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/valen4_4f882f29.zip"
+  },
+  {
+    "id": "4401ea10-9",
+    "hero": "Xavier",
+    "name": "Xavier",
+    "type": "Backup",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1151-icon_1206f03f.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1151-icon_34ba3631.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20xavier_4a8e71ca.zip"
   }
 ]
