@@ -8687,5 +8687,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1011-icon_9728df7a.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1013-icon_62a31c59.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/yve1_5049cf48.zip"
+  },
+  {
+    "id": "c63bba03-d",
+    "hero": "Valentina",
+    "name": "Valentina",
+    "type": "Backup",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1101-icon_7e253963.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1101-icon_8809e93b.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20valen_facd7567.zip"
   }
 ]
