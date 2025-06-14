@@ -8179,5 +8179,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero311-icon_57d8f14c.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero311-icon_3993a8be.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20moskov_a2902ae8.zip"
+  },
+  {
+    "id": "d9eb4ce2-e",
+    "hero": "Moskov",
+    "name": "Moskov Snake Eye",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero311-icon_b9c6e97b.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero313-icon_80973463.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/moskov1_ed4fcee2.zip"
   }
 ]
