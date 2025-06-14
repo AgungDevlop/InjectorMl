@@ -8371,5 +8371,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero401-icon_09269cfc.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero409-icon_cd7f1c6e.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kari6_c8525e2f.zip"
+  },
+  {
+    "id": "33f3f378-7",
+    "hero": "Karrie",
+    "name": "Karrie Ice Talon",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero401-icon_ca776c24.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero104010-icon_37a52fd1.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kari7_2c136b0f.zip"
   }
 ]
