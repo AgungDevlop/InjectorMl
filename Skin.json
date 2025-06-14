@@ -504,18 +504,6 @@
     "url": "1"
   },
   {
-    "id": "Claude-NQwD6YWOextsnmuOPz0",
-    "hero": "Claude",
-    "name": "Claude",
-    "type": "Backup",
-    "role": [
-      "Marksman"
-    ],
-    "img1": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Claude.png/revision/latest?cb=20190615171431",
-    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero651-portrait.png/revision/latest?cb=20220525165627",
-    "url": "https://github.com/rahasia55/new-backup/releases/download/backup/claude.zip"
-  },
-  {
     "id": "Claude-0044KiRM6g",
     "hero": "Claude",
     "name": "Claude Christmas",
