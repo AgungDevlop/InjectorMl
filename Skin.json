@@ -7519,5 +7519,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero941-icon_317d54a6.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero943-icon_03d10456.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/popol1_170f1902.zip"
+  },
+  {
+    "id": "50a8fa34-1",
+    "hero": "Popol & Kupa",
+    "name": "Popol & Kupa Transformers",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero941-icon_5a05ef10.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero945-icon_570df61b.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/popol2_cae3cb10.zip"
   }
 ]
