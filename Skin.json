@@ -8047,5 +8047,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero131-icon_44eb1279.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero101310-icon_996e6f91.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/clin9_f91efe7b.zip"
+  },
+  {
+    "id": "3b561392-4",
+    "hero": "Clint",
+    "name": "Clint Mythic",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero131-icon_cef35cde.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero101312-icon_067734ff.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/clin10_7d744173.zip"
   }
 ]
