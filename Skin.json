@@ -7927,5 +7927,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero181-icon_89b9eb0d.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero188-icon_e31cbfc7.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/layla8_cef60500.zip"
+  },
+  {
+    "id": "65cf13fe-b",
+    "hero": "Clint",
+    "name": "Clint",
+    "type": "Backup",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero131-icon_c89c8ef5.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero131-icon_f3d29330.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20clin_fc74116f.zip"
   }
 ]
