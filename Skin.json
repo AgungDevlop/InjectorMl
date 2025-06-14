@@ -8735,5 +8735,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1101-icon_3db51308.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1105-icon_f823b921.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/valen3_cb306aa3.zip"
+  },
+  {
+    "id": "74457ae7-8",
+    "hero": "Valentina",
+    "name": "Valentina MSC",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1101-icon_3a17049d.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1106-icon_fd3fff89.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/valen4_4f882f29.zip"
   }
 ]
