@@ -8519,5 +8519,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1151-icon_1e6e045a.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1155-icon_73eb7abc.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/xavier2_5e6fa292.zip"
+  },
+  {
+    "id": "bf6e667d-0",
+    "hero": "Xavier",
+    "name": "Xavier Starlight",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1151-icon_386c9796.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1154-icon_a063fbba.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/xavier3_a967c6cd.zip"
   }
 ]
