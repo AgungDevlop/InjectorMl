@@ -760,5 +760,11 @@
     "her": "Kalea",
     "roll": "Tank",
     "URL": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/hero_images/Hero1281-icon_33efd543.png"
+  },
+  {
+    "id": "b329b973-6",
+    "her": "Zhuxin",
+    "roll": "Mage",
+    "URL": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/hero_images/Hero1251-icon_19be5c37.png"
   }
 ]
