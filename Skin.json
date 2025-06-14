@@ -8803,5 +8803,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero731-icon_78b95690.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero737-icon_381d005e.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/harit6_0ed23949.zip"
+  },
+  {
+    "id": "0421cb9e-a",
+    "hero": "Harith",
+    "name": "Harith Killua",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero731-icon_8f6115ee.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero739-icon_b67930e3.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/harit7_fbe464e7.zip"
   }
 ]
