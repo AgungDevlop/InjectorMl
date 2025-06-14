@@ -8667,5 +8667,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero811-icon_c9c07ba6.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero815-icon_e5b8883b.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/esme3_49a23123.zip"
+  },
+  {
+    "id": "830bbe72-8",
+    "hero": "Esmeralda",
+    "name": "Esmeralda Dawning Star",
+    "type": "Original",
+    "role": [
+      "Mage",
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero811-icon_d88326e6.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero817-icon_753ee4c6.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/esme4_b32aca1d.zip"
   }
 ]
