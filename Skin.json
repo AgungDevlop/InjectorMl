@@ -8359,5 +8359,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero401-icon_de93873e.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero407-icon_aaa125b1.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kari5_43dc1497.zip"
+  },
+  {
+    "id": "ad3f23ad-b",
+    "hero": "Karrie",
+    "name": "Karrie Wheel of Justice",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero401-icon_09269cfc.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero409-icon_cd7f1c6e.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kari6_c8525e2f.zip"
   }
 ]
