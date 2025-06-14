@@ -8167,5 +8167,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero601-icon_5e09a091.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero106010-icon_72060c70.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/hanabi8_2f52ed7a.zip"
+  },
+  {
+    "id": "14c4a020-5",
+    "hero": "Moskov",
+    "name": "Moskov",
+    "type": "Backup",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero311-icon_57d8f14c.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero311-icon_3993a8be.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20moskov_a2902ae8.zip"
   }
 ]
