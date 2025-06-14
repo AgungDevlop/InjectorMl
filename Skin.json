@@ -8507,5 +8507,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1151-icon_4da68546.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1153-icon_65ee794d.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/xavier1_6bb66200.zip"
+  },
+  {
+    "id": "9843f053-0",
+    "hero": "Xavier",
+    "name": "Xavier BTC",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1151-icon_1e6e045a.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1155-icon_73eb7abc.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/xavier2_5e6fa292.zip"
   }
 ]
