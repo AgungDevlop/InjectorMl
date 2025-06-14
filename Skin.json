@@ -7891,5 +7891,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero181-icon_2d15bab2.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero101810-icon_31332555.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/layla5_14b58f40.zip"
+  },
+  {
+    "id": "f91ee9f1-1",
+    "hero": "Layla",
+    "name": "Layla Aspirants",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero181-icon_0650cef1.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero189-icon_2290539f.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/layla6_3dc4975c.zip"
   }
 ]
