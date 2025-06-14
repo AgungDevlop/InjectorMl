@@ -8603,5 +8603,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero501-icon_da2f1ce8.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero505-icon_295613ce.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/zack3_2519b60c.zip"
+  },
+  {
+    "id": "23604c75-d",
+    "hero": "Zhask",
+    "name": "Zhask Starlight",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero501-icon_6f9a4509.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero506-icon_ac9405b5.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/zack4_f2a46697.zip"
   }
 ]
