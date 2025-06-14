@@ -8779,5 +8779,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero731-icon_95cda846.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero734-icon_7fe78c26.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/harit4_e93e5bf7.zip"
+  },
+  {
+    "id": "3bc6a25a-9",
+    "hero": "Harith",
+    "name": "Harith Christmas",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero731-icon_d65ab819.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero738-icon_77a09c50.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/harit5_9b0bfbb7.zip"
   }
 ]
