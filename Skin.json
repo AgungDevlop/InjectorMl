@@ -8755,5 +8755,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero731-icon_20a0001f.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero735-icon_f2d57a28.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/harit2_2b98c718.zip"
+  },
+  {
+    "id": "8ee6a516-7",
+    "hero": "Harith",
+    "name": "Harith Champions",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero731-icon_9189477c.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero736-icon_752ae705.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/harit3_1f9cd27a.zip"
   }
 ]
