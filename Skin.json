@@ -8531,5 +8531,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1191-icon_27bfeb0b.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1194-icon_454c7924.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/nova2_bb2e26cb.zip"
+  },
+  {
+    "id": "1f3c5b38-0",
+    "hero": "Zhuxin",
+    "name": "Zhuxin",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1251-icon_974059a0.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1251-icon_139a87b8.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20zuxin_d5353a33.zip"
   }
 ]
