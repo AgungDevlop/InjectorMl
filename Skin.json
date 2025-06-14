@@ -8119,5 +8119,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero601-icon_bcc46660.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero606-icon_3c105f55.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/hanabi4_0d85a5a3.zip"
+  },
+  {
+    "id": "72a73ae8-3",
+    "hero": "Hanabi",
+    "name": "Hanabi Special",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero601-icon_ddc4dffd.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero607-icon_5acf7133.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/hanabi5_3b98cba3.zip"
   }
 ]
