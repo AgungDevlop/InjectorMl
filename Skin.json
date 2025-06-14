@@ -8083,5 +8083,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero601-icon_a68c9c3a.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero603-icon_1cb3313e.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/hanabi1_b9078bbc.zip"
+  },
+  {
+    "id": "234d1e88-7",
+    "hero": "Hanabi",
+    "name": "Hanabi Starlight",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero601-icon_ed1a0860.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero605-icon_016f1bdf.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/hanabi2_f624ef56.zip"
   }
 ]
