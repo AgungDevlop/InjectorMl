@@ -8035,5 +8035,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero131-icon_710a2f81.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero139-icon_b913fe33.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/clin8_5e454974.zip"
+  },
+  {
+    "id": "4846d83d-6",
+    "hero": "Clint",
+    "name": "Clint Epic",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero131-icon_44eb1279.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero101310-icon_996e6f91.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/clin9_f91efe7b.zip"
   }
 ]
