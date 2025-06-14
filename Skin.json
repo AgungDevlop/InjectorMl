@@ -7531,5 +7531,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero941-icon_5a05ef10.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero945-icon_570df61b.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/popol2_cae3cb10.zip"
+  },
+  {
+    "id": "4fd2a81a-c",
+    "hero": "Popol & Kupa",
+    "name": "Popol & Kupa Starlight",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero941-icon_8f0bbc3a.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero944-icon_5985dc00.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/popol3_a8c2f968.zip"
   }
 ]
