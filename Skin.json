@@ -8992,5 +8992,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero931-icon_f35b7879.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero933-icon_72a33d1f.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/atlas1_85831409.zip"
+  },
+  {
+    "id": "b81a70db-2",
+    "hero": "Atlas",
+    "name": "Atlas Starlight",
+    "type": "Original",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero931-icon_a7485218.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero934-icon_1957127e.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/atlas2_d2f4c81f.zip"
   }
 ]
