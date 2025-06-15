@@ -8606,5 +8606,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero651-icon_f04a7d06.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero106511-icon_a12bcffb.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/claude8_b2210f5a.zip"
+  },
+  {
+    "id": "a718ba79-9",
+    "hero": "Claude",
+    "name": "Claude Prime",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero651-icon_4f3b2ca3.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero106512-icon_b487fc01.png",
+    "url": "https://git.agungbot.my.id/filezip/claude9_684e63f3.zip"
   }
 ]
