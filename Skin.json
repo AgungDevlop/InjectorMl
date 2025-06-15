@@ -9019,5 +9019,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero791-icon_aa5f8132.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero791-icon_52da8aea.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20genjer_4d30732a.zip"
+  },
+  {
+    "id": "ba0b2d42-b",
+    "hero": "Granger",
+    "name": "Granger Elite",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero791-icon_486c5430.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero793-icon_24033264.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/genjer1_ea5dc28d.zip"
   }
 ]
