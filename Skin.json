@@ -9139,5 +9139,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero431-icon_edc936af.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero431-icon_1219c4bc.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20iritel_916be52e.zip"
+  },
+  {
+    "id": "6350fad6-5",
+    "hero": "Irithel",
+    "name": "Irithel Nightarrow",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero431-icon_f00a14e6.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero434-icon_67505a15.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/iritel1_7de98982.zip"
   }
 ]
