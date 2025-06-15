@@ -9028,5 +9028,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero931-icon_470c8eb1.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero936-icon_65afe07d.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/atlas4_1d126f05.zip"
+  },
+  {
+    "id": "c3967a4f-7",
+    "hero": "Gatotkaca",
+    "name": "Gatotkaca",
+    "type": "Backup",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero411-icon_2bb994da.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero411-icon_327e2f67.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20gatot_94bcaeca.zip"
   }
 ]
