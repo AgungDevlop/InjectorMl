@@ -8810,5 +8810,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1001-icon_051b0da2.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1001-icon_f91cb8cc.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20brody_9926b43b.zip"
+  },
+  {
+    "id": "67e91639-c",
+    "hero": "Brody",
+    "name": "Brody S.T.U.N",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1001-icon_6c365fb0.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1003-icon_55e75ef4.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/brody1_1753b8e1.zip"
   }
 ]
