@@ -9091,5 +9091,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero791-icon_e9467ba6.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero797-icon_10cff58a.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/genjer6_c39a6a57.zip"
+  },
+  {
+    "id": "630029e2-a",
+    "hero": "Granger",
+    "name": "Granger Lightborn",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero791-icon_8048e366.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero795-icon_322b773b.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/genjer7_1ecd7e5f.zip"
   }
 ]
