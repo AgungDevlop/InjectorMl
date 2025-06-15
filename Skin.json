@@ -8846,5 +8846,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1001-icon_79c18511.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1005-icon_22454352.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/brody3_664e1f07.zip"
+  },
+  {
+    "id": "960d7ee9-7",
+    "hero": "Brody",
+    "name": "Brody MPL",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1001-icon_fbabbb55.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1006-icon_b0f723c9.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/brody4_42a6398b.zip"
   }
 ]
