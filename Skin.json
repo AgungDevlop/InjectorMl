@@ -8895,5 +8895,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero191-icon_840e386d.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero196-icon_a397bd14.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/mino3_c790bda1.zip"
+  },
+  {
+    "id": "df012d7c-a",
+    "hero": "Minotaur",
+    "name": "Minotaur Zodiac",
+    "type": "Original",
+    "role": [
+      "Tank",
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero191-icon_94b85878.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero195-icon_4f030b77.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/mino4_3e6138f9.zip"
   }
 ]
