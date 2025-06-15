@@ -8870,5 +8870,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1001-icon_104cbf73.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1007-icon_70813b15.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/brody5_f64917f4.zip"
+  },
+  {
+    "id": "185acac6-e",
+    "hero": "Brody",
+    "name": "Brody Neobeast",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1001-icon_d2a3f619.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1008-icon_9df77304.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/brody6_52fcfa70.zip"
   }
 ]
