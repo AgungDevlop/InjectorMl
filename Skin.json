@@ -8995,5 +8995,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1141-icon_b4676a55.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1145-icon_e425522d.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/melisa3_b7393321.zip"
+  },
+  {
+    "id": "0a4dcf8c-2",
+    "hero": "Melissa",
+    "name": "Melissa Collector",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1141-icon_d93f97a8.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1146-icon_9af04ef3.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/melisa4_2fa0b2d6.zip"
   }
 ]
