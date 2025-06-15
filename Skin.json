@@ -9498,5 +9498,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero441-icon_9e757bed.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero447-icon_bd61ad23.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/grok5_a96129b8.zip"
+  },
+  {
+    "id": "4e5a7b6c-c",
+    "hero": "Grock",
+    "name": "Grock Special",
+    "type": "Original",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero441-icon_9ef7c2c1.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero448-icon_d0ec9ccf.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/grok6_74f660e4.zip"
   }
 ]
