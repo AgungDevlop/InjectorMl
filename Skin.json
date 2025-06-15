@@ -9187,5 +9187,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero431-icon_e6806894.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero436-icon_32c71912.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/iritel4_e09074e4.zip"
+  },
+  {
+    "id": "519ed615-a",
+    "hero": "Irithel",
+    "name": "Irithel Ducati",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero431-icon_24e25509.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero437-icon_0028b88c.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/iritel5_79d19786.zip"
   }
 ]
