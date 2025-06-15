@@ -9263,5 +9263,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero531-icon_e20fcd66.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero536-icon_dffceeaf.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/lesley3_3d064737.zip"
+  },
+  {
+    "id": "0d519c22-0",
+    "hero": "Lesley",
+    "name": "Lesley Luckybox",
+    "type": "Original",
+    "role": [
+      "Marksman",
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero531-icon_3247b791.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero535-icon_2a6b1332.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/lesley4_357a8e66.zip"
   }
 ]
