@@ -9402,5 +9402,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero591-icon_6e9ea8cd.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero595-icon_7426d67c.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/uranus3_00037df0.zip"
+  },
+  {
+    "id": "ed5b6c11-b",
+    "hero": "Uranus",
+    "name": "Uranus Epic",
+    "type": "Original",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero591-icon_6357c915.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero596-icon_948a5243.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/uranus4_17fd0408.zip"
   }
 ]
