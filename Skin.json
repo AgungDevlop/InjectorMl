@@ -8420,5 +8420,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero711-icon_6d230909.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero711-icon_092fea03.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20kimi_25d7aed0.zip"
+  },
+  {
+    "id": "7f5efd48-4",
+    "hero": "Kimmy",
+    "name": "Kimmy Charge Leader",
+    "type": "Original",
+    "role": [
+      "Marksman",
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero711-icon_9c0e2bb1.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero715-icon_9f0d792b.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kimi1_6076678f.zip"
   }
 ]
