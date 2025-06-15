@@ -9426,5 +9426,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero591-icon_a0009ad1.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero597-icon_aac94c93.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/uranus5_1c5a8eee.zip"
+  },
+  {
+    "id": "9e95545e-4",
+    "hero": "Grock",
+    "name": "Grock",
+    "type": "Backup",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero441-icon_2d4020f5.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero441-icon_5a216094.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20grok_942d0a2e.zip"
   }
 ]
