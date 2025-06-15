@@ -8702,5 +8702,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero891-icon_232a3cb9.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero897-icon_9df6c1c5.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/ww5_5aabe42e.zip"
+  },
+  {
+    "id": "870bb33c-5",
+    "hero": "Wanwan",
+    "name": "Wanwan 11.11",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero891-icon_68ddd25d.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero898-icon_ec8db437.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/ww6_932a7e89.zip"
   }
 ]
