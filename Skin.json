@@ -9366,5 +9366,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero591-icon_8c884ebd.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero591-icon_50ece44e.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20Uranus_b154d2af.zip"
+  },
+  {
+    "id": "cd504fc7-4",
+    "hero": "Uranus",
+    "name": "Uranus Mech Protector",
+    "type": "Original",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero591-icon_34bb5743.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero593-icon_7c5aefbc.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/Uranus1_41dfe436.zip"
   }
 ]
