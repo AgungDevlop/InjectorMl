@@ -8726,5 +8726,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero891-icon_fc5ad592.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250615_132455_46edfa26.jpg",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/ww7_295420ba.zip"
+  },
+  {
+    "id": "7a9a4672-3",
+    "hero": "Beatrix",
+    "name": "Beatrix",
+    "type": "Backup",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1051-icon_f9518832.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1051-icon_7780454e.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20betrik_35c2e8e5.zip"
   }
 ]
