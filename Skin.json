@@ -8522,5 +8522,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero651-icon_991f9112.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero653-icon_e0dcf537.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/claude1_75aff345.zip"
+  },
+  {
+    "id": "2867304b-8",
+    "hero": "Claude",
+    "name": "Claude Summer",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero651-icon_8fd5f47b.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero655-icon_795ef0a3.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/claude2_44e7e3dc.zip"
   }
 ]
