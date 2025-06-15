@@ -9004,5 +9004,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero931-icon_a7485218.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero934-icon_1957127e.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/atlas2_d2f4c81f.zip"
+  },
+  {
+    "id": "734dc7c4-b",
+    "hero": "Atlas",
+    "name": "Atlas MSC",
+    "type": "Original",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero931-icon_8411b131.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero935-icon_6125ba57.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/atlas3_8008f2bf.zip"
   }
 ]
