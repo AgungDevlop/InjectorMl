@@ -8959,5 +8959,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1141-icon_1d96808a.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1141-icon_5efcf2d4.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20melisa_d5b03417.zip"
+  },
+  {
+    "id": "0e992ff5-b",
+    "hero": "Melissa",
+    "name": "Melissa Nobara",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1141-icon_9fd686bf.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1143-icon_5d27887e.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/melisa1_10489ae4.zip"
   }
 ]
