@@ -9199,5 +9199,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero431-icon_24e25509.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero437-icon_0028b88c.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/iritel5_79d19786.zip"
+  },
+  {
+    "id": "0b43f0bc-2",
+    "hero": "Irithel",
+    "name": "Irithel Checkered Knight",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero431-icon_144d152f.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero438-icon_17d94855.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/iritel6_6dbc5e51.zip"
   }
 ]
