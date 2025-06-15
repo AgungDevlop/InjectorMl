@@ -8786,5 +8786,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1051-icon_b1d55491.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1055-icon_51adeabe.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/betrik4_18c03daf.zip"
+  },
+  {
+    "id": "706be36c-6",
+    "hero": "Beatrix",
+    "name": "Beatrix Special",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1051-icon_59765b88.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1057-icon_e6afd708.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/betrik5_06c0535b.zip"
   }
 ]
