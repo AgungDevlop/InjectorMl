@@ -8690,5 +8690,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero891-icon_a50bd227.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero896-icon_83fb44be.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/ww4_ba2b8f91.zip"
+  },
+  {
+    "id": "e3cca26a-7",
+    "hero": "Wanwan",
+    "name": "Wanwan M World",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero891-icon_232a3cb9.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero897-icon_9df6c1c5.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/ww5_5aabe42e.zip"
   }
 ]
