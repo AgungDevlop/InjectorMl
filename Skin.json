@@ -8510,5 +8510,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero651-icon_7f77ddf8.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero651-icon_fef3c26b.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20claude_65abc723.zip"
+  },
+  {
+    "id": "fc6b4b80-5",
+    "hero": "Claude",
+    "name": "Claude Starlight",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero651-icon_991f9112.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero653-icon_e0dcf537.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/claude1_75aff345.zip"
   }
 ]
