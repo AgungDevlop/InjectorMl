@@ -9115,5 +9115,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero791-icon_fef34670.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero796-icon_a00ae13d.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/genjer8_00965eb8.zip"
+  },
+  {
+    "id": "0f61d7e2-8",
+    "hero": "Granger",
+    "name": "Granger Transformers",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero791-icon_08d2ecec.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero798-icon_6297ce42.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/genjer9_dbdfbc8b.zip"
   }
 ]
