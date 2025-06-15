@@ -9562,5 +9562,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero351-icon_30538f54.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero355-icon_b19d10c5.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/hilda3_ff975f3a.zip"
+  },
+  {
+    "id": "d74f2797-1",
+    "hero": "Hilda",
+    "name": "Hilda Special",
+    "type": "Original",
+    "role": [
+      "Tank",
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero351-icon_b266b09e.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero356-icon_4c664556.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/hilda4_a394468e.zip"
   }
 ]
