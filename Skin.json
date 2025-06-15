@@ -9055,5 +9055,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero791-icon_3838f277.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero107911-icon_3fe7da76.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/genjer3_b9fefe8d.zip"
+  },
+  {
+    "id": "d9be3549-3",
+    "hero": "Granger",
+    "name": "Granger Starlight",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero791-icon_8ea39827.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero794-icon_5ce60e49.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/genjer4_ca4dcdc0.zip"
   }
 ]
