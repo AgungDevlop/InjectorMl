@@ -9136,5 +9136,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero201-icon_b4e5774e.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero204-icon_fdff8a09.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/lolita2_49289ec6.zip"
+  },
+  {
+    "id": "85d9449d-7",
+    "hero": "Lolita",
+    "name": "Lolita Special",
+    "type": "Original",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero201-icon_566e8d97.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero206-icon_cc1d5e85.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/lolita3_7e67dc4a.zip"
   }
 ]
