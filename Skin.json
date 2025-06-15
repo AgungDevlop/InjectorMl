@@ -9172,5 +9172,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1041-icon_50841cf2.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1041-icon_0e44efd6.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20glo_11f570f4.zip"
+  },
+  {
+    "id": "fac22ef3-f",
+    "hero": "Gloo",
+    "name": "Gloo Special",
+    "type": "Original",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1041-icon_b37b85a1.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1043-icon_1ccd4e62.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/glo1_b4866563.zip"
   }
 ]
