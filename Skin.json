@@ -8459,5 +8459,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero711-icon_5a23dc64.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero714-icon_02045ed2.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kimi4_7ff18260.zip"
+  },
+  {
+    "id": "90afe481-3",
+    "hero": "Kimmy",
+    "name": "Kimmy Dragon Tamer",
+    "type": "Original",
+    "role": [
+      "Marksman",
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero711-icon_8b6c2ef6.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero716-icon_db835055.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kimi5_ec610ea6.zip"
   }
 ]
