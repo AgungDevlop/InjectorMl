@@ -8446,5 +8446,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero711-icon_96ad48af.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero719-icon_3dae8681.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kimi2_2bc344b2.zip"
+  },
+  {
+    "id": "f547a3d2-7",
+    "hero": "Kimmy",
+    "name": "Kimmy Luckybox",
+    "type": "Original",
+    "role": [
+      "Marksman",
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero711-icon_5a23dc64.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero714-icon_02045ed2.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kimi4_7ff18260.zip"
   }
 ]
