@@ -9175,5 +9175,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero431-icon_f4575d2b.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero435-icon_820ca18d.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/iritel3_980dcbac.zip"
+  },
+  {
+    "id": "fdefcb93-f",
+    "hero": "Irithel",
+    "name": "Irithel Luckybox",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero431-icon_e6806894.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero436-icon_32c71912.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/iritel4_e09074e4.zip"
   }
 ]
