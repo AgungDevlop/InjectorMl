@@ -9067,5 +9067,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero791-icon_8ea39827.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero794-icon_5ce60e49.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/genjer4_ca4dcdc0.zip"
+  },
+  {
+    "id": "9e34139f-6",
+    "hero": "Granger",
+    "name": "Granger Exorcist",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero791-icon_4ec6f420.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero107910-icon_aec3f081.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/genjer5_2b7fc986.zip"
   }
 ]
