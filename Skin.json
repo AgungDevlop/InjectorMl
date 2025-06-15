@@ -8934,5 +8934,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1071-icon_6f3bb1a0.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1075-icon_5d0c930d.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/natan3_989e5d30.zip"
+  },
+  {
+    "id": "618f8439-e",
+    "hero": "Natan",
+    "name": "Natan Special",
+    "type": "Original",
+    "role": [
+      "Marksman",
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1071-icon_5d285b93.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1076-icon_8d07c73f.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/natan4_e8d79dd2.zip"
   }
 ]
