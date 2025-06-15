@@ -9112,5 +9112,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero201-icon_69496266.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero201-icon_c60884c8.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20lolita_fc01557c.zip"
+  },
+  {
+    "id": "cb22b68e-7",
+    "hero": "Lolita",
+    "name": "Lolita Halloween",
+    "type": "Original",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero201-icon_3a4b7e5f.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero203-icon_33f60bac.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/lolita1_90741881.zip"
   }
 ]
