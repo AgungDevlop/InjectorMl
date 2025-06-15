@@ -9549,5 +9549,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero351-icon_4a0cb3b7.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero353-icon_67c9aa15.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/hilda2_9deed0b7.zip"
+  },
+  {
+    "id": "c3120c52-f",
+    "hero": "Hilda",
+    "name": "Hilda Zodiac",
+    "type": "Original",
+    "role": [
+      "Tank",
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero351-icon_30538f54.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero355-icon_b19d10c5.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/hilda3_ff975f3a.zip"
   }
 ]
