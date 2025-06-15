@@ -8594,5 +8594,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero651-icon_369b4f45.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero106510-icon_a2ce8b4d.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/claude7_8c8d2c10.zip"
+  },
+  {
+    "id": "3afaaa37-c",
+    "hero": "Claude",
+    "name": "Claude M6",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero651-icon_f04a7d06.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero106511-icon_a12bcffb.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/claude8_b2210f5a.zip"
   }
 ]
