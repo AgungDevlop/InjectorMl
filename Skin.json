@@ -9148,5 +9148,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero201-icon_566e8d97.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero206-icon_cc1d5e85.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/lolita3_7e67dc4a.zip"
+  },
+  {
+    "id": "90488723-c",
+    "hero": "Lolita",
+    "name": "Lolita Rising",
+    "type": "Original",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero201-icon_bacb3fb1.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero207-icon_e807cbe1.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/lolita4_946fde82.zip"
   }
 ]
