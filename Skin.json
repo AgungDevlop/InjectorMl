@@ -9160,5 +9160,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero201-icon_bacb3fb1.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero207-icon_e807cbe1.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/lolita4_946fde82.zip"
+  },
+  {
+    "id": "11b3d3ba-0",
+    "hero": "Gloo",
+    "name": "Gloo",
+    "type": "Backup",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1041-icon_50841cf2.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1041-icon_0e44efd6.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20glo_11f570f4.zip"
   }
 ]
