@@ -8908,5 +8908,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1071-icon_d7e0fcf3.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1073-icon_c66899ca.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/natan1_110cc6e2.zip"
+  },
+  {
+    "id": "d0ac54ea-b",
+    "hero": "Natan",
+    "name": "Natan Starlight",
+    "type": "Original",
+    "role": [
+      "Marksman",
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1071-icon_eaae43ac.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1074-icon_d5b099e8.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/natan2_89a60aea.zip"
   }
 ]
