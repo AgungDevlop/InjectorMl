@@ -9100,5 +9100,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero411-icon_f2897044.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero414-icon_a666d42d.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/gatot5_52a1788b.zip"
+  },
+  {
+    "id": "13b7575d-1",
+    "hero": "Lolita",
+    "name": "Lolita",
+    "type": "Backup",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero201-icon_69496266.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero201-icon_c60884c8.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20lolita_fc01557c.zip"
   }
 ]
