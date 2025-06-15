@@ -8908,5 +8908,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero191-icon_94b85878.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero195-icon_4f030b77.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/mino4_3e6138f9.zip"
+  },
+  {
+    "id": "c7f0a056-8",
+    "hero": "Baxia",
+    "name": "Baxia",
+    "type": "Backup",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero871-icon_400e5a55.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero871-icon_d588c158.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20baxia_2dd33eec.zip"
   }
 ]
