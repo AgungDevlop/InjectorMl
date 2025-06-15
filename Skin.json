@@ -9076,5 +9076,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero411-icon_46be017b.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero417-icon_099322a4.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/gatot3_d9b18cb0.zip"
+  },
+  {
+    "id": "33290d18-2",
+    "hero": "Gatotkaca",
+    "name": "Gatotkaca Starlight",
+    "type": "Original",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero411-icon_40d86c95.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero418-color01-icon_3dd9fec0.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/gatot4_a82b88a5.zip"
   }
 ]
