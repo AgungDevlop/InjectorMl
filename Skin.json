@@ -9328,5 +9328,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero531-icon_efa560b8.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero105310-icon_54d85193.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/lesley8_b47e70a2.zip"
+  },
+  {
+    "id": "3ffc0db1-0",
+    "hero": "Lesley",
+    "name": "Lesley Aspirants",
+    "type": "Original",
+    "role": [
+      "Marksman",
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero531-icon_7e099975.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero105311-icon_8ed5423e.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/lesley9_74383438.zip"
   }
 ]
