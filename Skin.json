@@ -8968,5 +8968,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero871-icon_52e3a9c3.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero876-icon_932136e0.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/baxia4_1e5faed6.zip"
+  },
+  {
+    "id": "feb5db88-e",
+    "hero": "Atlas",
+    "name": "Atlas",
+    "type": "Backup",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero931-icon_e92cc0ee.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero931-icon_bcafe1c0.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20atlas_9293b930.zip"
   }
 ]
