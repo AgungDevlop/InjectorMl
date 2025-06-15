@@ -9052,5 +9052,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero411-icon_bf35eb02.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero413-icon_7b6c36ef.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/gatot1_dc44bdd6.zip"
+  },
+  {
+    "id": "47c6c816-5",
+    "hero": "Gatotkaca",
+    "name": "Gatotkaca Spark",
+    "type": "Original",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero411-icon_638ebfed.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero416-icon_136a2d67.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/gatot2_63b5dfb6.zip"
   }
 ]
