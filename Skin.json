@@ -8920,5 +8920,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero871-icon_400e5a55.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero871-icon_d588c158.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20baxia_2dd33eec.zip"
+  },
+  {
+    "id": "f6c305d6-a",
+    "hero": "Baxia",
+    "name": "Baxia Elite",
+    "type": "Original",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero871-icon_ecc71acb.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero873-icon_f7b901cf.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/baxia1_eeb6340c.zip"
   }
 ]
