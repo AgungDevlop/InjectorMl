@@ -8822,5 +8822,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1001-icon_6c365fb0.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1003-icon_55e75ef4.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/brody1_1753b8e1.zip"
+  },
+  {
+    "id": "7b43b78a-f",
+    "hero": "Brody",
+    "name": "Brody Starlight",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1001-icon_831f3fd2.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1004-icon_7ad4869f.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/brody2_8bb7e189.zip"
   }
 ]
