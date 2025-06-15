@@ -8762,5 +8762,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1051-icon_186ecb0e.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1054-icon_1344550d.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/betrik2_59014266.zip"
+  },
+  {
+    "id": "ce0b1708-f",
+    "hero": "Beatrix",
+    "name": "Beatrix Prime",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1051-icon_427d49f2.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1056-icon_0d595b3f.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/betrik3_66e4df7f.zip"
   }
 ]
