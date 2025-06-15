@@ -8843,5 +8843,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero351-icon_b266b09e.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero356-icon_4c664556.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/hilda4_a394468e.zip"
+  },
+  {
+    "id": "20ee1e93-a",
+    "hero": "Minotaur",
+    "name": "Minotaur",
+    "type": "Backup",
+    "role": [
+      "Tank",
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero191-icon_678d5733.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero191-icon_35e04934.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20mino_02bf8102.zip"
   }
 ]
