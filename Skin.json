@@ -8983,5 +8983,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1141-icon_531e039c.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1144-icon_33532741.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/melisa2_67f1c953.zip"
+  },
+  {
+    "id": "ca01a20d-9",
+    "hero": "Melissa",
+    "name": "Melissa Sparkle",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1141-icon_b4676a55.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1145-icon_e425522d.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/melisa3_b7393321.zip"
   }
 ]
