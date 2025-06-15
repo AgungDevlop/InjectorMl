@@ -9486,5 +9486,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero441-icon_8dd2e823.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero445-icon_e3fe07fd.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/grok4_90e7b810.zip"
+  },
+  {
+    "id": "90a3c903-6",
+    "hero": "Grock",
+    "name": "Grock Season",
+    "type": "Original",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero441-icon_9e757bed.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero447-icon_bd61ad23.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/grok5_a96129b8.zip"
   }
 ]
