@@ -9031,5 +9031,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero791-icon_486c5430.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero793-icon_24033264.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/genjer1_ea5dc28d.zip"
+  },
+  {
+    "id": "5ea2b792-d",
+    "hero": "Granger",
+    "name": "Granger Create",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero791-icon_1c10b231.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero799-icon_09e00746.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/genjer2_ffb0f7d0.zip"
   }
 ]
