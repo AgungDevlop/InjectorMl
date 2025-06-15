@@ -8944,5 +8944,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero871-icon_f3edaac6.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero874-icon_e0df1854.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/baxia2_5e1f7ad9.zip"
+  },
+  {
+    "id": "48865733-c",
+    "hero": "Baxia",
+    "name": "Baxia Season",
+    "type": "Original",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero871-icon_a8822446.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero875-icon_344b2db2.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/baxia3_277ebfb0.zip"
   }
 ]
