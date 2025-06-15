@@ -8869,5 +8869,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero191-icon_49f501eb.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero194-icon_b944f40c.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/mino1_6ad6bcda.zip"
+  },
+  {
+    "id": "d99bf40d-4",
+    "hero": "Minotaur",
+    "name": "Minotaur Season",
+    "type": "Original",
+    "role": [
+      "Tank",
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero191-icon_42dd637b.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero193-icon_7ff0635a.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/mino2_7c4a7729.zip"
   }
 ]
