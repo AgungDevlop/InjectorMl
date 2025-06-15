@@ -8472,5 +8472,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero711-icon_8b6c2ef6.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero716-icon_db835055.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kimi5_ec610ea6.zip"
+  },
+  {
+    "id": "cb55e035-0",
+    "hero": "Kimmy",
+    "name": "Kimmy Starwars",
+    "type": "Original",
+    "role": [
+      "Marksman",
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero711-icon_863e3021.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero717-icon_085e582b.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kimi6_dc29e198.zip"
   }
 ]
