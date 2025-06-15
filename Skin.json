@@ -9040,5 +9040,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero411-icon_2bb994da.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero411-icon_327e2f67.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20gatot_94bcaeca.zip"
+  },
+  {
+    "id": "20b1af67-b",
+    "hero": "Gatotkaca",
+    "name": "Gatotkaca Arhat King",
+    "type": "Original",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero411-icon_bf35eb02.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero413-icon_7b6c36ef.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/gatot1_dc44bdd6.zip"
   }
 ]
