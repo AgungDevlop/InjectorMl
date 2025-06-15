@@ -9474,5 +9474,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero441-icon_4c97488b.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero446-icon_a3cf8987.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/grok3_e9339a7f.zip"
+  },
+  {
+    "id": "6a065ea8-e",
+    "hero": "Grock",
+    "name": "Grock Starlight",
+    "type": "Original",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero441-icon_8dd2e823.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero445-icon_e3fe07fd.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/grok4_90e7b810.zip"
   }
 ]
