@@ -8956,5 +8956,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero871-icon_a8822446.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero875-icon_344b2db2.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/baxia3_277ebfb0.zip"
+  },
+  {
+    "id": "c5a0e11b-9",
+    "hero": "Baxia",
+    "name": "Baxia Dauntless Shield",
+    "type": "Original",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero871-icon_52e3a9c3.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero876-icon_932136e0.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/baxia4_1e5faed6.zip"
   }
 ]
