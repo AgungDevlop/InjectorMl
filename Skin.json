@@ -9016,5 +9016,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero931-icon_8411b131.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero935-icon_6125ba57.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/atlas3_8008f2bf.zip"
+  },
+  {
+    "id": "795fa571-1",
+    "hero": "Atlas",
+    "name": "Atlas Collector",
+    "type": "Original",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero931-icon_470c8eb1.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero936-icon_65afe07d.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/atlas4_1d126f05.zip"
   }
 ]
