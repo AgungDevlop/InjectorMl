@@ -8630,5 +8630,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero651-icon_1eff7d1f.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero658-icon_b88c8aed.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/claude10_3df88e76.zip"
+  },
+  {
+    "id": "cf08f671-d",
+    "hero": "Wanwan",
+    "name": "Wanwan",
+    "type": "Backup",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero891-icon_8d1b4c9c.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero891-icon_41935ed9.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20wanwan_3eeb6e0c.zip"
   }
 ]
