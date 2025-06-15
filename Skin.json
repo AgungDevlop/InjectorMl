@@ -9211,5 +9211,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero431-icon_144d152f.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero438-icon_17d94855.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/iritel6_6dbc5e51.zip"
+  },
+  {
+    "id": "68b745b6-9",
+    "hero": "Lesley",
+    "name": "Lesley",
+    "type": "Backup",
+    "role": [
+      "Marksman",
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero531-icon_aa522ae8.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero531-icon_d808e6b7.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20lesley_bb9b6d88.zip"
   }
 ]
