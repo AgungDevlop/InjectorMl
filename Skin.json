@@ -9390,5 +9390,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero591-icon_27cd1e61.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero594-icon_c418451c.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/uranus2_34f4b5af.zip"
+  },
+  {
+    "id": "ba1005e7-e",
+    "hero": "Uranus",
+    "name": "Uranus Pinball Machine",
+    "type": "Original",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero591-icon_6e9ea8cd.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero595-icon_7426d67c.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/uranus3_00037df0.zip"
   }
 ]
