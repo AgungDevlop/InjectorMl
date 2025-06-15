@@ -8666,5 +8666,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero891-icon_1121f817.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero894-icon_8fb3eb70.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/ww2_faf18a92.zip"
+  },
+  {
+    "id": "ac51f328-4",
+    "hero": "Wanwan",
+    "name": "Wanwan Collector",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero891-icon_77a8114b.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero895-icon_495a9636.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/ww3_468e8524.zip"
   }
 ]
