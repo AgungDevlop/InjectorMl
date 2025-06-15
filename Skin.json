@@ -8798,5 +8798,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1051-icon_59765b88.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1057-icon_e6afd708.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/betrik5_06c0535b.zip"
+  },
+  {
+    "id": "edea3de8-b",
+    "hero": "Brody",
+    "name": "Brody",
+    "type": "Backup",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1001-icon_051b0da2.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1001-icon_f91cb8cc.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20brody_9926b43b.zip"
   }
 ]
