@@ -9315,5 +9315,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero531-icon_4f850155.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero538-icon_8ccb4319.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/lesley7_3ef8c644.zip"
+  },
+  {
+    "id": "109c841d-e",
+    "hero": "Lesley",
+    "name": "Lesley Starlight Annual",
+    "type": "Original",
+    "role": [
+      "Marksman",
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero531-icon_efa560b8.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero105310-icon_54d85193.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/lesley8_b47e70a2.zip"
   }
 ]
