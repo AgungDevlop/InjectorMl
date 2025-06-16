@@ -9703,5 +9703,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero491-icon_adcd163a.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero495-icon_589d0b23.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/hylos4_2602b16c.zip"
+  },
+  {
+    "id": "0215bf84-6",
+    "hero": "Hylos",
+    "name": "Hylos Bloodhoof Marauder",
+    "type": "Original",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero491-icon_6755b447.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero496-icon_c15b0d29.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/hylos5_cd5d39a1.zip"
   }
 ]
