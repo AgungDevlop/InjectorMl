@@ -9617,5 +9617,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero101-icon_389735fd.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero109-icon_90f1da55.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/franko7_30c36756.zip"
+  },
+  {
+    "id": "e52b434f-0",
+    "hero": "Franco",
+    "name": "Franco MPL",
+    "type": "Original",
+    "role": [
+      "Tank",
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero101-icon_db9cea2e.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero101010-icon_0cf37321.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/franko8_02538ac3.zip"
   }
 ]
