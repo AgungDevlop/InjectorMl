@@ -9679,5 +9679,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero491-icon_3687b3a9.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero493-icon_494c9e5c.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/hylos2_4f1f15d9.zip"
+  },
+  {
+    "id": "7c104bc8-8",
+    "hero": "Hylos",
+    "name": "Hylos Season",
+    "type": "Original",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero491-icon_5eab0bcd.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero494-icon_f092eb2a.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/hylos3_dc8a215a.zip"
   }
 ]
