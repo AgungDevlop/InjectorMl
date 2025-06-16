@@ -9763,5 +9763,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero781-icon_4a2d04a0.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero785-icon_9b7860e9.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kufra3_2f842f2f.zip"
+  },
+  {
+    "id": "8ef6beb0-1",
+    "hero": "Khufra",
+    "name": "Khufra Starlight",
+    "type": "Original",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero781-icon_13d53738.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero786-icon_8c1b744d.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kufra4_1eadda18.zip"
   }
 ]
