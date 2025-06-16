@@ -9357,5 +9357,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero091-icon_18c1d9e7.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero091-icon_ccd2d772.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20akai_aedab499.zip"
+  },
+  {
+    "id": "44b8badc-a",
+    "hero": "Akai",
+    "name": "Akai Monk",
+    "type": "Original",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero091-icon_d19c29e3.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero093-icon_ac45e606.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/akai1_f9d4c976.zip"
   }
 ]
