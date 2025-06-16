@@ -9261,5 +9261,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero061-icon_108b98c4.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero061-icon_9b65d2ec.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20tigrel_7726cf21.zip"
+  },
+  {
+    "id": "dcb3cbf1-3",
+    "hero": "Tigreal",
+    "name": "Tigreal Fallen Guard",
+    "type": "Original",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero061-icon_a5b2b660.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero063-icon_cef03cad.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/tigrel1_09401154.zip"
   }
 ]
