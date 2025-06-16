@@ -9489,5 +9489,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero701-icon_9c983645.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero704-icon_930e3197.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/belerik2_e41df4f3.zip"
+  },
+  {
+    "id": "e355e0f7-9",
+    "hero": "Belerick",
+    "name": "Belerick Emerald Guardian",
+    "type": "Original",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero701-icon_d59054df.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero705-icon_8a6e7c1e.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/belerik3_a85d9911.zip"
   }
 ]
