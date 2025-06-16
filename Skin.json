@@ -9847,5 +9847,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero321-icon_6e5b2d7d.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero328-icon_a6469d50.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/js4_88878024.zip"
+  },
+  {
+    "id": "5f13e558-9",
+    "hero": "Johnson",
+    "name": "Johnson Luckybox",
+    "type": "Original",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero321-icon_814622f2.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero325-icon_31ec7170.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/js5_cd1a1054.zip"
   }
 ]
