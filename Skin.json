@@ -9513,5 +9513,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero701-icon_ac2463e3.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero706-icon_f2b2cb1b.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/belerik4_69e02447.zip"
+  },
+  {
+    "id": "12e3c758-c",
+    "hero": "Franco",
+    "name": "Franco",
+    "type": "Backup",
+    "role": [
+      "Tank",
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero101-icon_5352fe75.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero101-icon_62e2b676.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20franko_bc879ea3.zip"
   }
 ]
