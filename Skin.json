@@ -9775,5 +9775,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero781-icon_13d53738.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero786-icon_8c1b744d.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kufra4_1eadda18.zip"
+  },
+  {
+    "id": "958072bf-8",
+    "hero": "Khufra",
+    "name": "Khufra Iron Hook",
+    "type": "Original",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero781-icon_aa40968a.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero787-icon_c73738f7.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kufra5_13efdd5d.zip"
   }
 ]
