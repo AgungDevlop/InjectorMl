@@ -9591,5 +9591,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero101-icon_f17040c4.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero104-icon_7356880a.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/Franko5_4cad3e29.zip"
+  },
+  {
+    "id": "f6cffc0f-b",
+    "hero": "Franco",
+    "name": "Franco Bone Crusher",
+    "type": "Original",
+    "role": [
+      "Tank",
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero101-icon_c247903d.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero108-icon_a70549b0.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/Franko6_5d303439.zip"
   }
 ]
