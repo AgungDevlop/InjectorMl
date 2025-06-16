@@ -9501,5 +9501,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero701-icon_d59054df.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero705-icon_8a6e7c1e.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/belerik3_a85d9911.zip"
+  },
+  {
+    "id": "1a3e8166-f",
+    "hero": "Belerick",
+    "name": "Belerick Epic",
+    "type": "Original",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero701-icon_ac2463e3.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero706-icon_f2b2cb1b.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/belerik4_69e02447.zip"
   }
 ]
