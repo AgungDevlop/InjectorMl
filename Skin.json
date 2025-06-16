@@ -9835,5 +9835,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero321-icon_11cc3eba.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero326-icon_7f6d175d.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/js3_30622321.zip"
+  },
+  {
+    "id": "539aa1c3-9",
+    "hero": "Johnson",
+    "name": "Johnson Anniversary",
+    "type": "Original",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero321-icon_6e5b2d7d.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero328-icon_a6469d50.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/js4_88878024.zip"
   }
 ]
