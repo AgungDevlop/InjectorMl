@@ -9552,5 +9552,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero101-icon_c496772e.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero105-icon_44c126b6.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/franko2_1cf16d0a.zip"
+  },
+  {
+    "id": "bd94a727-7",
+    "hero": "Franco",
+    "name": "Franco Luckybox",
+    "type": "Original",
+    "role": [
+      "Tank",
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero101-icon_2152f74c.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero106-icon_cdb570ae.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/franko3_75c446b1.zip"
   }
 ]
