@@ -9333,5 +9333,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero061-icon_30a2a874.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero068-icon_b5234b7a.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/tigrel6_9aadfc1b.zip"
+  },
+  {
+    "id": "4b602b9a-7",
+    "hero": "Tigreal",
+    "name": "Tigreal Pasha of Justice",
+    "type": "Original",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero061-icon_fd9ab905.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero069-icon_c9e7d5b8.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/tigrel7_fc1b2a90.zip"
   }
 ]
