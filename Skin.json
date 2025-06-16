@@ -9210,5 +9210,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1111-icon_d0007c08.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1113-icon_41b87bce.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/edit1_a8d3bdb3.zip"
+  },
+  {
+    "id": "9ddd37cd-5",
+    "hero": "Edith",
+    "name": "Edith BTC",
+    "type": "Original",
+    "role": [
+      "Tank",
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1111-icon_c18c9a3a.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1115-icon_edc03dfc.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/edit2_c5605d6e.zip"
   }
 ]
