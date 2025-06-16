@@ -9539,5 +9539,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero101-icon_f2de5b7f.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero103-icon_97f9e9da.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/franko1_95d0dacd.zip"
+  },
+  {
+    "id": "352abadd-5",
+    "hero": "Franco",
+    "name": "Franco Halloween",
+    "type": "Original",
+    "role": [
+      "Tank",
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero101-icon_c496772e.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero105-icon_44c126b6.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/franko2_1cf16d0a.zip"
   }
 ]
