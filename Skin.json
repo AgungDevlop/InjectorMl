@@ -9811,5 +9811,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero321-icon_8d2ef499.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero324-icon_ffeec987.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/js1_fdac6faf.zip"
+  },
+  {
+    "id": "c5fb952d-e",
+    "hero": "Johnson",
+    "name": "Johnson S.A.B.E.R",
+    "type": "Original",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero321-icon_25c61e70.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Automata_Icon_fad7e4c7.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/js2_512fa45c.zip"
   }
 ]
