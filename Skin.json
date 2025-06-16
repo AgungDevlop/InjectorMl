@@ -9565,5 +9565,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero101-icon_2152f74c.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero106-icon_cdb570ae.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/franko3_75c446b1.zip"
+  },
+  {
+    "id": "00e68896-e",
+    "hero": "Franco",
+    "name": "Franco Special",
+    "type": "Original",
+    "role": [
+      "Tank",
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero101-icon_1c9be236.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero102-icon_d0ab7724.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/franko4_d979fd74.zip"
   }
 ]
