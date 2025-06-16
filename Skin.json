@@ -9197,5 +9197,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1111-icon_c2093a0b.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1111-icon_e33d1778.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20edit_c8d67ab4.zip"
+  },
+  {
+    "id": "e77f1c97-7",
+    "hero": "Edith",
+    "name": "Edith Starlight",
+    "type": "Original",
+    "role": [
+      "Marksman",
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1111-icon_d0007c08.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1113-icon_41b87bce.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/edit1_a8d3bdb3.zip"
   }
 ]
