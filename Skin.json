@@ -9465,5 +9465,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero701-icon_c92cdef8.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero701-icon_de6d1127.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20belerik_e926be34.zip"
+  },
+  {
+    "id": "0378fa48-e",
+    "hero": "Belerick",
+    "name": "Belerick Elite",
+    "type": "Original",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero701-icon_5093e91f.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero703-icon_b0809bc0.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/belerik1_e23381b4.zip"
   }
 ]
