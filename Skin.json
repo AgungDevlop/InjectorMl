@@ -9297,5 +9297,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero061-icon_ea4cff39.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero064-icon_e062f639.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/tigrel3_90b1960f.zip"
+  },
+  {
+    "id": "3b7a0aee-a",
+    "hero": "Tigreal",
+    "name": "Tigreal Lightborn",
+    "type": "Original",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero061-icon_208320ee.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero065-icon_cd4e2ff7.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/tigrel4_14add50a.zip"
   }
 ]
