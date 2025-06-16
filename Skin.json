@@ -9405,5 +9405,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero091-icon_a6d0b446.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero097-icon_c28def3c.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/akai4_1e73b501.zip"
+  },
+  {
+    "id": "71f23409-e",
+    "hero": "Akai",
+    "name": "Akai Steam Recluse",
+    "type": "Original",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero091-icon_95e6fb26.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero096-icon_e4384ea2.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/akai5_85d591bb.zip"
   }
 ]
