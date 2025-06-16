@@ -9309,5 +9309,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero061-icon_208320ee.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero065-icon_cd4e2ff7.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/tigrel4_14add50a.zip"
+  },
+  {
+    "id": "d302f9b5-a",
+    "hero": "Tigreal",
+    "name": "Tigreal Gold Baron",
+    "type": "Original",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero061-icon_3b754511.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero067-icon_92c44320.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/tigrel5_179234e7.zip"
   }
 ]
