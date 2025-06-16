@@ -9453,5 +9453,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero091-icon_2251dbc1.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero100910-icon_1424a8b7.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/akai8_51df6dde.zip"
+  },
+  {
+    "id": "7b6d58d0-7",
+    "hero": "Belerick",
+    "name": "Belerick",
+    "type": "Backup",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero701-icon_c92cdef8.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero701-icon_de6d1127.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20belerik_e926be34.zip"
   }
 ]
