@@ -9655,5 +9655,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero491-icon_cfa42c58.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero491-icon_a149d224.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20hylos_01dcd04c.zip"
+  },
+  {
+    "id": "385fbe2d-d",
+    "hero": "Hylos",
+    "name": "Hylos Abyssal Shaman",
+    "type": "Original",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero491-icon_bcfaf058.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero492-icon_c1842a2f.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/hylos1_34dfa22e.zip"
   }
 ]
