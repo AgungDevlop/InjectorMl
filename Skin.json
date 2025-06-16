@@ -9643,5 +9643,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero101-icon_0e8be61a.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero107-icon_70869881.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/franko9_1ff6b2ca.zip"
+  },
+  {
+    "id": "55c11e1d-0",
+    "hero": "Hylos",
+    "name": "Hylos",
+    "type": "Backup",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero491-icon_cfa42c58.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero491-icon_a149d224.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20hylos_01dcd04c.zip"
   }
 ]
