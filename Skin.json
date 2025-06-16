@@ -9236,5 +9236,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1111-icon_57029eeb.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1114-icon_fef28b96.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/edit3_9a61d548.zip"
+  },
+  {
+    "id": "fc20496e-3",
+    "hero": "Edith",
+    "name": "Edith MPL",
+    "type": "Original",
+    "role": [
+      "Tank",
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1111-icon_1d3ed4b0.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1116-icon_09f0941e.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/edit4_11b99900.zip"
   }
 ]
