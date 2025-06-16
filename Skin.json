@@ -9715,5 +9715,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero491-icon_6755b447.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero496-icon_c15b0d29.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/hylos5_cd5d39a1.zip"
+  },
+  {
+    "id": "1a020163-1",
+    "hero": "Khufra",
+    "name": "Khufra",
+    "type": "Backup",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero781-icon_0d720871.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero781-icon_98136717.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20kufra_a720c941.zip"
   }
 ]
