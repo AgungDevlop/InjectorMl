@@ -9859,5 +9859,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero321-icon_814622f2.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero325-icon_31ec7170.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/js5_cd1a1054.zip"
+  },
+  {
+    "id": "1f77604c-e",
+    "hero": "Johnson",
+    "name": "Johnson Transformers",
+    "type": "Original",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero321-icon_3d2ed542.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero327-icon_921c16d0.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/js6_b8f02b45.zip"
   }
 ]
