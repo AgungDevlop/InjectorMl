@@ -9184,5 +9184,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1041-icon_b37b85a1.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1043-icon_1ccd4e62.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/glo1_b4866563.zip"
+  },
+  {
+    "id": "0879ac5c-5",
+    "hero": "Edith",
+    "name": "Edith",
+    "type": "Backup",
+    "role": [
+      "Tank",
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1111-icon_c2093a0b.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1111-icon_e33d1778.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20edit_c8d67ab4.zip"
   }
 ]
