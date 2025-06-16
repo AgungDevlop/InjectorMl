@@ -9871,5 +9871,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero321-icon_3d2ed542.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero327-icon_921c16d0.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/js6_b8f02b45.zip"
+  },
+  {
+    "id": "018dfe22-a",
+    "hero": "Johnson",
+    "name": "Johnson Legend",
+    "type": "Original",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero321-icon_6b5ac72d.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero329-icon_3a88438c.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/js7_28973c57.zip"
   }
 ]
