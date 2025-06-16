@@ -9429,5 +9429,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero091-icon_fc5f7bc3.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero098-icon_c0e805af.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/akai6_9e0a7616.zip"
+  },
+  {
+    "id": "9b76496c-a",
+    "hero": "Akai",
+    "name": "Akai Halloween",
+    "type": "Original",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero091-icon_cc6cf0a4.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero099-icon_448d4546.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/akai7_db1c309e.zip"
   }
 ]
