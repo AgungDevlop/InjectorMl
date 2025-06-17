@@ -9583,5 +9583,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero051-icon_b34fd4af.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero059-icon_8abd2b17.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/nana6_2a20481c.zip"
+  },
+  {
+    "id": "e457c33b-a",
+    "hero": "Nana",
+    "name": "Nana Mistbender",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero051-icon_35ee75b3.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero100510-icon_19dcab1f.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/nana7_d97b5c98.zip"
   }
 ]
