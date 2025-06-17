@@ -9379,5 +9379,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1241-icon_ce894506.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1243-icon_619bd241.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/chip1_3025b79f.zip"
+  },
+  {
+    "id": "a67b714b-7",
+    "hero": "Angela",
+    "name": "Angela",
+    "type": "Backup",
+    "role": [
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero551-icon_c29afa9f.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero551-icon_0de84016.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20angela_4afe3508.zip"
   }
 ]
