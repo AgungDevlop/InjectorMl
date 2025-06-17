@@ -9643,5 +9643,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero341-icon_fe8c3181.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero346-icon_ef82c923.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/estes3_539067ae.zip"
+  },
+  {
+    "id": "2205a11b-c",
+    "hero": "Estes",
+    "name": "Estes Champions",
+    "type": "Original",
+    "role": [
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero341-icon_2fcb19ab.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero347-icon_c0d30ba1.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/estes4_ae1f4f5a.zip"
   }
 ]
