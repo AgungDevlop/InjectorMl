@@ -9475,5 +9475,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero551-icon_0a38c8b6.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero559-icon_f8b2122f.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/angela7_0a25228f.zip"
+  },
+  {
+    "id": "8ead875d-0",
+    "hero": "Angela",
+    "name": "Angela Starlight Annual",
+    "type": "Original",
+    "role": [
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero551-icon_8d3c4cc9.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero105510-icon_5c1c456b.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/angela8_2cc6f5bc.zip"
   }
 ]
