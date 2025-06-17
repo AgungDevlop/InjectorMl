@@ -9799,5 +9799,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero481-icon_6a9ef85e.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero483-icon_42aaec67.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/digi1_55b8991b.zip"
+  },
+  {
+    "id": "fdb69abf-8",
+    "hero": "Diggie",
+    "name": "Diggie Elite",
+    "type": "Original",
+    "role": [
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero481-icon_67f7da2a.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero484-icon_cfdb6818.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/digi2_12581e42.zip"
   }
 ]
