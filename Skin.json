@@ -9607,5 +9607,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero341-icon_654118ac.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero341-icon_2fdf0fc5.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20estes_ad7d3cc4.zip"
+  },
+  {
+    "id": "29c44347-7",
+    "hero": "Estes",
+    "name": "Estes Luckybox",
+    "type": "Original",
+    "role": [
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero341-icon_4d634a89.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero343-icon_86d71110.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/Estes1_30e95020.zip"
   }
 ]
