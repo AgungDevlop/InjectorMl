@@ -9559,5 +9559,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero051-icon_78daf08c.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero056-icon_f2ec8141.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/nana4_54ed6dc9.zip"
+  },
+  {
+    "id": "9f6d292a-5",
+    "hero": "Nana",
+    "name": "Nana Collector",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero051-icon_b2e1aa3c.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero058-icon_adaeb38c.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/nana5_9daedbde.zip"
   }
 ]
