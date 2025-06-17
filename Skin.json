@@ -9871,5 +9871,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero761-icon_ea650788.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero765-icon_a346edcc.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/faramis3_d9652298.zip"
+  },
+  {
+    "id": "c2157866-6",
+    "hero": "Floryn",
+    "name": "Floryn",
+    "type": "Backup",
+    "role": [
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1121-icon_e52a6af8.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1121-icon_8afdf007.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20florin_eb4ea65b.zip"
   }
 ]
