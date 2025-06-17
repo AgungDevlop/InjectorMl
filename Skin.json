@@ -9487,5 +9487,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero551-icon_8d3c4cc9.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero105510-icon_5c1c456b.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/angela8_2cc6f5bc.zip"
+  },
+  {
+    "id": "c6c378f8-e",
+    "hero": "Angela",
+    "name": "Angela Kishin",
+    "type": "Original",
+    "role": [
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero551-icon_0f9af9e7.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero105511-icon_c5f4519b.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/Angela9_d9fcdae0.zip"
   }
 ]
