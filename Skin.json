@@ -9703,5 +9703,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero141-icon_70f56edc.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero144-icon_b2812fff.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/Rafaela1_64f7781e.zip"
+  },
+  {
+    "id": "6187bad4-f",
+    "hero": "Rafaela",
+    "name": "Rafaela Epic",
+    "type": "Original",
+    "role": [
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero141-icon_2ddf3473.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero143-icon_2b6c1281.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/rafaela2_276d81a4.zip"
   }
 ]
