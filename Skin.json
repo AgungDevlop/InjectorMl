@@ -9943,5 +9943,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero921-icon_c95be011.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero921-icon_1eb75ec8.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20karmila_92ff3c0d.zip"
+  },
+  {
+    "id": "78950ec8-2",
+    "hero": "Carmilla",
+    "name": "Carmilla Elite",
+    "type": "Original",
+    "role": [
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero921-icon_f4a43dd9.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero923-icon_33842ace.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/karmila1_f98e5d8b.zip"
   }
 ]
