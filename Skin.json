@@ -9715,5 +9715,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero141-icon_2ddf3473.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero143-icon_2b6c1281.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/rafaela2_276d81a4.zip"
+  },
+  {
+    "id": "530e8c71-6",
+    "hero": "Rafaela",
+    "name": "Rafaela S.A.B.E.R",
+    "type": "Original",
+    "role": [
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero141-icon_6c4e0036.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Savior_Icon_71920ceb.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/estes3_21093bb0.zip"
   }
 ]
