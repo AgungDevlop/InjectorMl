@@ -9775,5 +9775,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero141-icon_5c923011.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero149-icon_a3cbee67.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/rafaela7_e785b8ed.zip"
+  },
+  {
+    "id": "7bb3c38c-8",
+    "hero": "Diggie",
+    "name": "Diggie",
+    "type": "Backup",
+    "role": [
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero481-icon_319d617c.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero481-icon_83d24ca4.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20digi_4bd946bd.zip"
   }
 ]
