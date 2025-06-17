@@ -10003,5 +10003,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1021-icon_bf4ed19f.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1023-icon_72c81428.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/matilda1_b0e30688.zip"
+  },
+  {
+    "id": "ef78a81f-2",
+    "hero": "Mathilda",
+    "name": "Mathilda MPL",
+    "type": "Original",
+    "role": [
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1021-icon_4c980de8.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1024-icon_5639c6fb.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/matilda2_7f153e8b.zip"
   }
 ]
