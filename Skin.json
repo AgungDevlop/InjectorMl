@@ -9967,5 +9967,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero921-icon_0ce9fbbe.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero924-icon_89801ed9.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/karmila2_d97065cb.zip"
+  },
+  {
+    "id": "4fcb237d-7",
+    "hero": "Carmilla",
+    "name": "Carmilla Epic",
+    "type": "Original",
+    "role": [
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero921-icon_3905de3b.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero925-icon_3a96d764.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/carmilla%20epic_66ab8684.zip"
   }
 ]
