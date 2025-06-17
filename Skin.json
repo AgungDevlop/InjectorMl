@@ -9679,5 +9679,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero341-icon_6e704b8b.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250617_152515_7bef23ef.jpg",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/estes6_49ecdc56.zip"
+  },
+  {
+    "id": "f4fa1a2c-d",
+    "hero": "Rafaela",
+    "name": "Rafaela",
+    "type": "Backup",
+    "role": [
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero141-icon_f73c397d.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero141-icon_0e30332a.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20rafaela_77328a9b.zip"
   }
 ]
