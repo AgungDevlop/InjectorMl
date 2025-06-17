@@ -1,17 +1,5 @@
 [
   {
-    "id": "Floryn-NQwFheKjRPYH4e5kPE0",
-    "hero": "Floryn",
-    "name": "Floryn",
-    "type": "Backup",
-    "role": [
-      "Support"
-    ],
-    "img1": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Floryn.png/revision/latest?cb=20211211124501",
-    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Hero1121-portrait.png/revision/latest?cb=20220525170535",
-    "url": "https://github.com/rahasia55/new-backup/releases/download/backup/floryn.zip"
-  },
-  {
     "id": "Floryn-6AjGXQzoQl",
     "hero": "Floryn",
     "name": "Floryn Sanrio",
