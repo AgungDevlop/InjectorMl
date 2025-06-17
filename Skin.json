@@ -9631,5 +9631,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero341-icon_48a64f77.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero345-icon_e4ae44af.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/estes2_b0e10c13.zip"
+  },
+  {
+    "id": "c6e61ae7-0",
+    "hero": "Estes",
+    "name": "Estes Dragon Tamer",
+    "type": "Original",
+    "role": [
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero341-icon_fe8c3181.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero346-icon_ef82c923.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/estes3_539067ae.zip"
   }
 ]
