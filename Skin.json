@@ -9823,5 +9823,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero481-icon_e2371fc3.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero485-icon_74080df7.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/digi3_c6ccce95.zip"
+  },
+  {
+    "id": "71d4f1f4-e",
+    "hero": "Faramis",
+    "name": "Faramis",
+    "type": "Backup",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero761-icon_83231801.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero761-icon_4533ef10.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20faramis_45ae71f4.zip"
   }
 ]
