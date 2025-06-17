@@ -9451,5 +9451,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero551-icon_c135e137.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero557-icon_76057fa6.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/angela5_52a72d50.zip"
+  },
+  {
+    "id": "b7804159-7",
+    "hero": "Angela",
+    "name": "Angela Sanrio",
+    "type": "Original",
+    "role": [
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero551-icon_f135b146.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero558-icon_a9c1ae3f.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/angela6_b1094b12.zip"
   }
 ]
