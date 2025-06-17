@@ -9955,5 +9955,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero921-icon_f4a43dd9.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero923-icon_33842ace.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/karmila1_f98e5d8b.zip"
+  },
+  {
+    "id": "34f937ba-8",
+    "hero": "Carmilla",
+    "name": "Carmilla Valentine",
+    "type": "Original",
+    "role": [
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero921-icon_0ce9fbbe.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero924-icon_89801ed9.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/karmila2_d97065cb.zip"
   }
 ]
