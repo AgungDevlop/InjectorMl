@@ -9751,5 +9751,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero141-icon_fb75715b.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero148-icon_7e104c71.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/Rafaela5_83dc3f92.zip"
+  },
+  {
+    "id": "11ec4df7-e",
+    "hero": "Rafaela",
+    "name": "Rafaela Christmas",
+    "type": "Original",
+    "role": [
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero141-icon_83979409.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero147-icon_30fa56b7.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/rafaela6_24c47d42.zip"
   }
 ]
