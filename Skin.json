@@ -10039,5 +10039,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero301-icon_5eb5f2a2.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero301-icon_38a7f86e.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20yss_92d226a6.zip"
+  },
+  {
+    "id": "74146f57-0",
+    "hero": "Yi Sun Shin",
+    "name": "Yi Sun Shin Collector",
+    "type": "Original",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero301-icon_97bd4dcd.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero305-icon_0ef5c4c6.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/yss1_04db31c0.zip"
   }
 ]
