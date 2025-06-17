@@ -9535,5 +9535,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero051-icon_1985c84d.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero055-icon_0c4b0b1c.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/nana2_8d8c307a.zip"
+  },
+  {
+    "id": "80330ef0-8",
+    "hero": "Nana",
+    "name": "Nana Summer",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero051-icon_12fa7c64.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero057-icon_e34219d2.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/nana3_a7f9192f.zip"
   }
 ]
