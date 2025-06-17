@@ -9547,5 +9547,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero051-icon_12fa7c64.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero057-icon_e34219d2.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/nana3_a7f9192f.zip"
+  },
+  {
+    "id": "7b65ef24-7",
+    "hero": "Nana",
+    "name": "Nana Epic",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero051-icon_78daf08c.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero056-icon_f2ec8141.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/nana4_54ed6dc9.zip"
   }
 ]
