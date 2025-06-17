@@ -9463,5 +9463,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero551-icon_f135b146.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero558-icon_a9c1ae3f.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/angela6_b1094b12.zip"
+  },
+  {
+    "id": "94c2bb20-5",
+    "hero": "Angela",
+    "name": "Angela Aspirants",
+    "type": "Original",
+    "role": [
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero551-icon_0a38c8b6.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero559-icon_f8b2122f.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/angela7_0a25228f.zip"
   }
 ]
