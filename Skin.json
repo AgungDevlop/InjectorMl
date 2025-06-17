@@ -9787,5 +9787,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero481-icon_319d617c.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero481-icon_83d24ca4.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20digi_4bd946bd.zip"
+  },
+  {
+    "id": "0cbb6de2-e",
+    "hero": "Diggie",
+    "name": "Diggie Special",
+    "type": "Original",
+    "role": [
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero481-icon_6a9ef85e.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero483-icon_42aaec67.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/digi1_55b8991b.zip"
   }
 ]
