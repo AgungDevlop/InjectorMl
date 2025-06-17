@@ -9523,5 +9523,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero051-icon_da352b5c.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero054-icon_34a99280.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/nana1_45129ced.zip"
+  },
+  {
+    "id": "15780eaa-9",
+    "hero": "Nana",
+    "name": "Nana MPL",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero051-icon_1985c84d.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero055-icon_0c4b0b1c.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/nana2_8d8c307a.zip"
   }
 ]
