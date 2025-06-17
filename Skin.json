@@ -10015,5 +10015,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1021-icon_4c980de8.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1024-icon_5639c6fb.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/matilda2_7f153e8b.zip"
+  },
+  {
+    "id": "01e57049-d",
+    "hero": "Mathilda",
+    "name": "Mathilda Epic",
+    "type": "Original",
+    "role": [
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1021-icon_73da4b78.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1026-icon_fb627b6e.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/matilda3_4392c4ae.zip"
   }
 ]
