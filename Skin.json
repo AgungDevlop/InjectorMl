@@ -9763,5 +9763,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero141-icon_83979409.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero147-icon_30fa56b7.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/rafaela6_24c47d42.zip"
+  },
+  {
+    "id": "9b44bfde-1",
+    "hero": "Rafaela",
+    "name": "Rafaela Lunar Fest",
+    "type": "Original",
+    "role": [
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero141-icon_5c923011.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero149-icon_a3cbee67.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/rafaela7_e785b8ed.zip"
   }
 ]
