@@ -9859,5 +9859,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero761-icon_9c6005f5.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero764-icon_2e989398.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/faramis2_0f8ec9d3.zip"
+  },
+  {
+    "id": "c08e8d87-e",
+    "hero": "Faramis",
+    "name": "Faramis Mythic",
+    "type": "Original",
+    "role": [
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero761-icon_ea650788.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero765-icon_a346edcc.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/faramis3_d9652298.zip"
   }
 ]
