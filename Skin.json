@@ -9595,5 +9595,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero051-icon_35ee75b3.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero100510-icon_19dcab1f.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/nana7_d97b5c98.zip"
+  },
+  {
+    "id": "961cca89-d",
+    "hero": "Estes",
+    "name": "Estes",
+    "type": "Backup",
+    "role": [
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero341-icon_654118ac.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero341-icon_2fdf0fc5.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/backup%20estes_ad7d3cc4.zip"
   }
 ]
