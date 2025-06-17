@@ -1,17 +1,5 @@
 [
   {
-    "id": "Angela-NQwBikaPrtQLxuK0LYQ",
-    "hero": "Angela",
-    "name": "Angela",
-    "type": "Backup",
-    "role": [
-      "Support"
-    ],
-    "img1": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Angela.png/revision/latest?cb=20211231100018",
-    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero551-portrait.png/revision/latest?cb=20240611064021",
-    "url": "https://github.com/rahasia55/new-backup/releases/download/backup/angela.zip"
-  },
-  {
     "id": "Angela-Ry31WbhBGJ",
     "hero": "Angela",
     "name": "Angela Aspirant",
