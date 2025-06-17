@@ -9667,5 +9667,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero341-icon_0fc21015.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero349-icon_0dd8b5ca.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/estes5_9638581c.zip"
+  },
+  {
+    "id": "2f37f8f9-d",
+    "hero": "Estes",
+    "name": "Estes Arcane Magistrate",
+    "type": "Original",
+    "role": [
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero341-icon_6e704b8b.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250617_152515_7bef23ef.jpg",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/estes6_49ecdc56.zip"
   }
 ]
