@@ -10126,5 +10126,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero715-icon_27187a76.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero717-icon_5414e806.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/charge%20to%20starwars_ab8c0b24.zip"
+  },
+  {
+    "id": "7854f6e0-f",
+    "hero": "Kimmy",
+    "name": "Rising Nova To Starwars",
+    "type": "Upgrade",
+    "role": [
+      "Marksman",
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero718-icon_301903ce.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero717-icon_8be10ff5.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/rising%20to%20starwars_58d5c828.zip"
   }
 ]
