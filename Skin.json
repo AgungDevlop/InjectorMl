@@ -10139,5 +10139,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero718-icon_301903ce.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero717-icon_8be10ff5.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/rising%20to%20starwars_58d5c828.zip"
+  },
+  {
+    "id": "7d313c54-d",
+    "hero": "Kimmy",
+    "name": "Elite To Starwars",
+    "type": "Upgrade",
+    "role": [
+      "Marksman",
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero719-icon_c9c2fccf.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero717-icon_630db237.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/elite%20to%20starwars_59f13023.zip"
   }
 ]
