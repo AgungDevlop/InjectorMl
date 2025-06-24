@@ -10088,5 +10088,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero716-icon_e576bf14.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero717-icon_8597fc92.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kimmy%20dragon%20to%20starwars_835e7794.zip"
+  },
+  {
+    "id": "468cd36e-b",
+    "hero": "Dyrroth",
+    "name": "VENOM To GON",
+    "type": "Upgrade",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero856-icon_6ebedac2.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero858-icon_4592a5ac.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/dyrroth%20venom%20to%20gon_b88cefac.zip"
   }
 ]
