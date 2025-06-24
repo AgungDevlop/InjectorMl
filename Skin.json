@@ -10164,5 +10164,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero852-icon_e8ac7fdc.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero858-icon_797599e8.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/basic%20to%20gon_489635db.zip"
+  },
+  {
+    "id": "5a32ae4f-2",
+    "hero": "Dyrroth",
+    "name": "Starlight To GON",
+    "type": "Upgrade",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero854-icon_112bdd2c.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero858-icon_c30f6919.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/starlight%20to%20gon_eb02631f.zip"
   }
 ]
