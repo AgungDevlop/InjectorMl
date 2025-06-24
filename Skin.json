@@ -10075,5 +10075,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero301-icon_f39e2a1b.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero307-icon_7dffd8d2.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/yss3_4905432e.zip"
+  },
+  {
+    "id": "f1fa54a7-6",
+    "hero": "Kimmy",
+    "name": "Dragon Tamer To Starwars",
+    "type": "Upgrade",
+    "role": [
+      "Mage",
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero716-icon_e576bf14.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero717-icon_8597fc92.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/kimmy%20dragon%20to%20starwars_835e7794.zip"
   }
 ]
