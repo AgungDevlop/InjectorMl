@@ -10176,5 +10176,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero854-icon_112bdd2c.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero858-icon_c30f6919.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/starlight%20to%20gon_eb02631f.zip"
+  },
+  {
+    "id": "1af3e7ca-2",
+    "hero": "Chou",
+    "name": "Chou X Angela",
+    "type": "Custom Skin",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero261-icon_6e9a6082.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero556-icon_aecc1229.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/chou%20x%20angela_2841a96a.zip"
   }
 ]
