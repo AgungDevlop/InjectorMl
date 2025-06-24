@@ -10152,5 +10152,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero719-icon_c9c2fccf.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero717-icon_630db237.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/elite%20to%20starwars_59f13023.zip"
+  },
+  {
+    "id": "1bbc151a-8",
+    "hero": "Dyrroth",
+    "name": "Basic To GON",
+    "type": "Upgrade",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero852-icon_e8ac7fdc.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero858-icon_797599e8.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/basic%20to%20gon_489635db.zip"
   }
 ]
