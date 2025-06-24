@@ -10113,5 +10113,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero713-icon_33a30ca9.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero717-icon_79cb9593.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/starlight%20to%20starwars_f9c6ded3.zip"
+  },
+  {
+    "id": "a97eb887-3",
+    "hero": "Kimmy",
+    "name": "Charge Leader To Starwars",
+    "type": "Upgrade",
+    "role": [
+      "Marksman",
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero715-icon_27187a76.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero717-icon_5414e806.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/charge%20to%20starwars_ab8c0b24.zip"
   }
 ]
