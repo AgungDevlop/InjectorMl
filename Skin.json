@@ -10200,5 +10200,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero961-icon_7d345741.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250625_170631_74c55765.jpg",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/luo%20yi%20create_66ab740d.zip"
+  },
+  {
+    "id": "43acb3cf-f",
+    "hero": "Julian",
+    "name": "Julian MEOW",
+    "type": "Original",
+    "role": [
+      "Fighter",
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1161-icon_383763f3.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250625_194702_59b6dd43.jpg",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/julian%20fatcat_5daf4509.zip"
   }
 ]
