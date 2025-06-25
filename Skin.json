@@ -10213,5 +10213,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1161-icon_383763f3.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250625_194702_59b6dd43.jpg",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/julian%20fatcat_5daf4509.zip"
+  },
+  {
+    "id": "87decb46-3",
+    "hero": "Silvanna",
+    "name": "Silvanna MEOW",
+    "type": "Original",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero901-icon_96514c52.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250625_194637_42ee780e.jpg",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/silvanna%20fatcat_2bd6cf70.zip"
   }
 ]
