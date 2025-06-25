@@ -10225,5 +10225,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero901-icon_96514c52.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250625_194637_42ee780e.jpg",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/silvanna%20fatcat_2bd6cf70.zip"
+  },
+  {
+    "id": "d961e34a-a",
+    "hero": "Lesley",
+    "name": "Lesley MEOW",
+    "type": "Original",
+    "role": [
+      "Marksman",
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero531-icon_4658ccb2.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250625_194549_6a983b94.jpg",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/lesley%20fatcat_e61e0735.zip"
   }
 ]
