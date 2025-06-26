@@ -10238,5 +10238,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero531-icon_4658ccb2.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250625_194549_6a983b94.jpg",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/lesley%20fatcat_e61e0735.zip"
+  },
+  {
+    "id": "d7e7616b-f",
+    "hero": "Lancelot",
+    "name": "Lancelot x Killua",
+    "type": "Custom Skin",
+    "role": [
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero471-icon_837a3fac.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250626_233854_4266aa58.jpg",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/lance%20x%20killua_6ea2889e.zip"
   }
 ]
