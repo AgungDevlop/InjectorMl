@@ -10262,5 +10262,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero841-icon_10523dd2.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250626_193111_73d7e53d.jpg",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/ling%20x%20kokushibu_0516d550.zip"
+  },
+  {
+    "id": "a67ea037-b",
+    "hero": "Natan",
+    "name": "Natan MSC",
+    "type": "Original",
+    "role": [
+      "Marksman",
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1071-icon_d591eb04.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250627_030645_01c46085.jpg",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/natan%20msc_09cf488b.zip"
   }
 ]
