@@ -10437,5 +10437,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero104-icon_cf62b41a.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero109-icon_1275c68b.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/franco%20season%20to%20legend_b5efc6b7.zip"
+  },
+  {
+    "id": "070fcac3-5",
+    "hero": "Franco",
+    "name": "Halloween To Legend",
+    "type": "Upgrade",
+    "role": [
+      "Tank",
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero105-icon_f2e771e1.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero109-icon_1dc28268.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/halloween%20to%20legend_56507f8c.zip"
   }
 ]
