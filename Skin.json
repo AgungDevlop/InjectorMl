@@ -10386,5 +10386,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero175-icon_31fdcdd9.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero101710-icon_e76eb9a0.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/fanny%20star%20to%20aspirants_529a0a63.zip"
+  },
+  {
+    "id": "4586a3a0-c",
+    "hero": "Fanny",
+    "name": "Lightborn To Aspirants",
+    "type": "Upgrade",
+    "role": [
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero177-icon_b91b6cd8.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero101710-icon_0249ba20.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/fanny%20light%20to%20aspirants_93429232.zip"
   }
 ]
