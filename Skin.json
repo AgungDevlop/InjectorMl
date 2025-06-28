@@ -10398,5 +10398,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero177-icon_b91b6cd8.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero101710-icon_0249ba20.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/fanny%20light%20to%20aspirants_93429232.zip"
+  },
+  {
+    "id": "1db18173-7",
+    "hero": "Franco",
+    "name": "Special To Legend",
+    "type": "Upgrade",
+    "role": [
+      "Tank",
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero102-icon_ba28f2d0.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero109-icon_2af206a9.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/frnco%20special%20to%20legen_97961718.zip"
   }
 ]
