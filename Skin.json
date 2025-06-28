@@ -10511,5 +10511,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero602-icon_0d1bff45.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero106010-icon_158ebd2c.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/hanabi%20basic%20to%20soul_0dfbdd6d.zip"
+  },
+  {
+    "id": "d5b4625a-3",
+    "hero": "Hanabi",
+    "name": "Elite To Soul Vessel",
+    "type": "Upgrade",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero603-icon_ffef8eab.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero106010-icon_9197e7f4.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/hanabi%20elite%20to%20soul_92b193c5.zip"
   }
 ]
