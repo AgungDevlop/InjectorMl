@@ -10679,5 +10679,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero317-icon_c3ff3cae.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero103111-icon_0652cc77.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/moskov%20elite%20to%20astar_7000e71f.zip"
+  },
+  {
+    "id": "ee4f85fa-1",
+    "hero": "Moskov",
+    "name": "Epic To All Star",
+    "type": "Upgrade",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero318-icon_c9e0d4ce.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero103111-icon_02460a17.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/moskov%20epic%20to%20astar_0cc6f32e.zip"
   }
 ]
