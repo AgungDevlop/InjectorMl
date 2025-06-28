@@ -10535,5 +10535,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Nephila_Icon_2111a2cb.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero106010-icon_89b06e8f.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/hanabi%20venom%20to%20soul_3f2b257f.zip"
+  },
+  {
+    "id": "719ab099-4",
+    "hero": "Hanabi",
+    "name": "Starlight To Soul Vessel",
+    "type": "Upgrade",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero605-icon_01999b2a.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero106010-icon_d865be3a.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/hanabi%20star%20to%20soul_0e414d72.zip"
   }
 ]
