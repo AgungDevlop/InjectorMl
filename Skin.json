@@ -10559,5 +10559,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero607-icon_5cb4ac0b.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero106010-icon_c9880495.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/hanabi%20special%20to%20soul_48756088.zip"
+  },
+  {
+    "id": "24794130-2",
+    "hero": "Hayabusa",
+    "name": "Basic To Kakashi",
+    "type": "Upgrade",
+    "role": [
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero212-icon_5f002ac7.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero102111-icon_427e4258.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/haya%20basic%20to%20kakashi_fc8b01b1.zip"
   }
 ]
