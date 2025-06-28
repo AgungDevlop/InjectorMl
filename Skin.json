@@ -10463,5 +10463,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero108-icon_9bdb78e8.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero109-icon_e178ebb1.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/frnco%20basic%20to%20legend_d70a83ee.zip"
+  },
+  {
+    "id": "6cd16215-0",
+    "hero": "Granger",
+    "name": "Basic To Exorcist",
+    "type": "Upgrade",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero792-icon_2b40f281.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero107910-icon_449542dd.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/granger%20basic%20to%20exorcist_79eb7ed8.zip"
   }
 ]
