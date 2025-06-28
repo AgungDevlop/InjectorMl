@@ -10424,5 +10424,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero103-icon_c3fc0956.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero109-icon_44a19a95.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/frnco%20star%20to%20legend_7b16d627.zip"
+  },
+  {
+    "id": "7f658d57-d",
+    "hero": "Franco",
+    "name": "Season To Legend",
+    "type": "Upgrade",
+    "role": [
+      "Tank",
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero104-icon_cf62b41a.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero109-icon_1275c68b.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/franco%20season%20to%20legend_b5efc6b7.zip"
   }
 ]
