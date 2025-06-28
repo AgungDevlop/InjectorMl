@@ -10411,5 +10411,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero102-icon_ba28f2d0.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero109-icon_2af206a9.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/frnco%20special%20to%20legen_97961718.zip"
+  },
+  {
+    "id": "a41e7746-f",
+    "hero": "Franco",
+    "name": "Starlight To Legend",
+    "type": "Upgrade",
+    "role": [
+      "Tank",
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero103-icon_c3fc0956.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero109-icon_44a19a95.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/frnco%20star%20to%20legend_7b16d627.zip"
   }
 ]
