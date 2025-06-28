@@ -10583,5 +10583,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero213-icon_93cb2b75.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero102111-icon_ab0522cc.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/haya%20elite%20to%20kakashi_f015f08c.zip"
+  },
+  {
+    "id": "531ec33d-b",
+    "hero": "Hayabusa",
+    "name": "Summer To Kakashi",
+    "type": "Upgrade",
+    "role": [
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero214-icon_fd797c94.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero102111-icon_97eebc1b.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/haya%20summer%20to%20kakashi_64712c2d.zip"
   }
 ]
