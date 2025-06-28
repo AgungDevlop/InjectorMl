@@ -760,5 +760,11 @@
     "her": "Zhuxin",
     "roll": "Mage",
     "URL": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/hero_images/Hero1251-icon_19be5c37.png"
+  },
+  {
+    "id": "19c2c6e7-a",
+    "her": "Hayabusa",
+    "roll": "Assassin",
+    "URL": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/hero_images/Hero211-icon_23d5cbd3.png"
   }
 ]
