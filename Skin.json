@@ -10338,5 +10338,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero845-icon_a7fa172f.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero846-icon_4a91fbd1.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/ling%20special%20to%20collector_244853ce.zip"
+  },
+  {
+    "id": "68d16bf3-7",
+    "hero": "Ling",
+    "name": "Dragon Tamer To Collector",
+    "type": "Upgrade",
+    "role": [
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero844-icon_24a3a0ae.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero846-icon_231b223b.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/ling%20dragon%20to%20collect_ef0d5859.zip"
   }
 ]
