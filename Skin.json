@@ -10655,5 +10655,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero314-icon_7102e6a5.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero103111-icon_42b67198.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/moskov%20season%20to%20astar_4cd64866.zip"
+  },
+  {
+    "id": "8d2d10f1-7",
+    "hero": "Moskov",
+    "name": "Special To All Star",
+    "type": "Upgrade",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero315-icon_fe5e433e.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero103111-icon_b3074e45.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/moskov%20special%20to%20astar_d790ae89.zip"
   }
 ]
