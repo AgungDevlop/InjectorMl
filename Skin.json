@@ -10275,5 +10275,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1071-icon_d591eb04.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250627_030645_01c46085.jpg",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/natan%20msc_09cf488b.zip"
+  },
+  {
+    "id": "c09b7daf-8",
+    "hero": "Alucard",
+    "name": "Basic To Legend",
+    "type": "Upgrade",
+    "role": [
+      "Fighter",
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero078-icon_fa0f848b.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero077-icon_ab260ad2.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/alu%20basic%20to%20legend_5cb17efd.zip"
   }
 ]
