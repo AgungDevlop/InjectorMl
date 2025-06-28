@@ -10374,5 +10374,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero173-icon_c7835cf0.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero101710-icon_93785c3d.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/fanny%20season%20to%20aspirants_8259f5e6.zip"
+  },
+  {
+    "id": "01fbfc60-c",
+    "hero": "Fanny",
+    "name": "Starlight To Aspirants",
+    "type": "Upgrade",
+    "role": [
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero175-icon_31fdcdd9.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero101710-icon_e76eb9a0.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/fanny%20star%20to%20aspirants_529a0a63.zip"
   }
 ]
