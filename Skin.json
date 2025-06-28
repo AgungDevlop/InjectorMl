@@ -10619,5 +10619,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero219-icon_6218bc5a.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero102111-icon_c020ac19.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/haya%20elitee%20to%20kakashi_f8dba391.zip"
+  },
+  {
+    "id": "9848dc3a-9",
+    "hero": "Moskov",
+    "name": "Basic To All Star",
+    "type": "Upgrade",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero312-icon_ee629443.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero103111-icon_0fd4e6b7.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/moskov%20basic%20to%20astar_ef115546.zip"
   }
 ]
