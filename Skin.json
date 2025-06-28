@@ -10499,5 +10499,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero795-icon_df643fb7.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero107910-icon_12abade4.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/granger%20light%20to%20exorcist_9cdcd2a8.zip"
+  },
+  {
+    "id": "85e8b1f2-f",
+    "hero": "Hanabi",
+    "name": "Basic To Soul Vessel",
+    "type": "Upgrade",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero602-icon_0d1bff45.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero106010-icon_158ebd2c.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/hanabi%20basic%20to%20soul_0dfbdd6d.zip"
   }
 ]
