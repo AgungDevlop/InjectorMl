@@ -10350,5 +10350,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero844-icon_24a3a0ae.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero846-icon_231b223b.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/ling%20dragon%20to%20collect_ef0d5859.zip"
+  },
+  {
+    "id": "23452ac7-9",
+    "hero": "Fanny",
+    "name": "Elite To Aspirants",
+    "type": "Upgrade",
+    "role": [
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero172-icon_8dc7ea98.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero101710-icon_648169a4.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/fanny%20elite%20to%20aspirants_48b07078.zip"
   }
 ]
