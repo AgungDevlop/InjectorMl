@@ -10450,5 +10450,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero105-icon_f2e771e1.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero109-icon_1dc28268.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/halloween%20to%20legend_56507f8c.zip"
+  },
+  {
+    "id": "9bb4fbd7-5",
+    "hero": "Franco",
+    "name": "Basic To Legend",
+    "type": "Upgrade",
+    "role": [
+      "Tank",
+      "Support"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero108-icon_9bdb78e8.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero109-icon_e178ebb1.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/frnco%20basic%20to%20legend_d70a83ee.zip"
   }
 ]
