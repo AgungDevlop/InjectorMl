@@ -10607,5 +10607,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero217-icon_7a74dc74.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero102111-icon_f32e0707.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/haya%20star%20to%20kakashi_fb6b5fb3.zip"
+  },
+  {
+    "id": "4c6518e3-5",
+    "hero": "Hayabusa",
+    "name": "Ninja To Kakashi",
+    "type": "Upgrade",
+    "role": [
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero219-icon_6218bc5a.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero102111-icon_c020ac19.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/haya%20elitee%20to%20kakashi_f8dba391.zip"
   }
 ]
