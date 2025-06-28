@@ -10595,5 +10595,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero214-icon_fd797c94.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero102111-icon_97eebc1b.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/haya%20summer%20to%20kakashi_64712c2d.zip"
+  },
+  {
+    "id": "8b322b31-3",
+    "hero": "Hayabusa",
+    "name": "Starlight To Kakashi",
+    "type": "Upgrade",
+    "role": [
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero217-icon_7a74dc74.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero102111-icon_f32e0707.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/haya%20star%20to%20kakashi_fb6b5fb3.zip"
   }
 ]
