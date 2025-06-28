@@ -10301,5 +10301,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero073-icon_f114f9b9.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero077-icon_a524cf2d.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/alu%20season%20to%20legend_74be1c00.zip"
+  },
+  {
+    "id": "236d85e1-3",
+    "hero": "Alucard",
+    "name": "Starlight To Legend",
+    "type": "Upgrade",
+    "role": [
+      "Fighter",
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero075-icon_babe3d5a.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero075-icon_181aa9f1.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/alu%20star%20to%20legend_2b5951e3.zip"
   }
 ]
