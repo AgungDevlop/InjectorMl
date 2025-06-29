@@ -10727,5 +10727,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero771-icon_de94ffdf.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250629_202618_c66ec472.jpg",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/badang%20x%20madara_a416c63f.zip"
+  },
+  {
+    "id": "dce0dba6-7",
+    "hero": "Yin",
+    "name": "Yin x Gojo",
+    "type": "Custom Skin",
+    "role": [
+      "Fighter",
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1131-icon_317e5680.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250629_202541_ae3ea4ad.jpg",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/yin%20x%20gojo%20purple_2745d79c.zip"
   }
 ]
