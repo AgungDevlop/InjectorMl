@@ -10703,5 +10703,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero103110-icon_a804e91f.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero103111-icon_8ce24770.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/moskov%20violet%20to%20astar_0c876795.zip"
+  },
+  {
+    "id": "bead5e70-a",
+    "hero": "Chou",
+    "name": "Chou x Sakura",
+    "type": "Custom Skin",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero261-icon_d43636b9.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250629_202641_28d47aaa.jpg",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/chou%20x%20sakura_656e4faa.zip"
   }
 ]
