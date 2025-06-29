@@ -10715,5 +10715,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero261-icon_d43636b9.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250629_202641_28d47aaa.jpg",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/chou%20x%20sakura_656e4faa.zip"
+  },
+  {
+    "id": "22502562-6",
+    "hero": "Badang",
+    "name": "Badang x Madara",
+    "type": "Custom Skin",
+    "role": [
+      "Fighter"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero771-icon_de94ffdf.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250629_202618_c66ec472.jpg",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/badang%20x%20madara_a416c63f.zip"
   }
 ]
