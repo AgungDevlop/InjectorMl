@@ -10805,5 +10805,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero308-icon_d8ccfdf8.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero305-icon_8695c275.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/season%20to%20collect_52bfdbe6.zip"
+  },
+  {
+    "id": "ee1af184-e",
+    "hero": "Aamon",
+    "name": "Basic To Soul Vessel",
+    "type": "Upgrade",
+    "role": [
+      "Assassin",
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1092-icon_fabb7ca7.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1095-icon_4da0e6d9.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/amon%20basic%20to%20soul_fc29c1ba.zip"
   }
 ]
