@@ -10753,5 +10753,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero071-icon_b413df2a.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250701_235641_d014975d.jpg",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/alu%20x%20kirito_d901e866.zip"
+  },
+  {
+    "id": "7ca5d5fb-6",
+    "hero": "Yi Sun Shin",
+    "name": "Apocalypse To Collector",
+    "type": "Upgrade",
+    "role": [
+      "Marksman",
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero303-icon_249774a7.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero305-icon_60e80a79.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/apocalypse%20to%20collect_77a3880d.zip"
   }
 ]
