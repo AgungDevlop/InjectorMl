@@ -10779,5 +10779,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero304-icon_23ba9ba7.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero305-icon_b6610f60.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/roguish%20to%20collect_680ef611.zip"
+  },
+  {
+    "id": "1d690094-1",
+    "hero": "Yi Sun Shin",
+    "name": "Starlight To Collector",
+    "type": "Upgrade",
+    "role": [
+      "Marksman",
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero306-icon_4400cb94.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero305-icon_dc16ad28.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/starlight%20to%20collect_c0ed0770.zip"
   }
 ]
