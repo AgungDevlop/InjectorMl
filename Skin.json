@@ -10818,5 +10818,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1092-icon_fabb7ca7.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1095-icon_4da0e6d9.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/amon%20basic%20to%20soul_fc29c1ba.zip"
+  },
+  {
+    "id": "a9142f02-5",
+    "hero": "Aamon",
+    "name": "Elite To Soul Vessel",
+    "type": "Upgrade",
+    "role": [
+      "Mage",
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1093-icon_4a72e518.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1095-icon_881e6f88.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/amon%20elite%20to%20soul_74100dc7.zip"
   }
 ]
