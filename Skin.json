@@ -10831,5 +10831,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1093-icon_4a72e518.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1095-icon_881e6f88.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/amon%20elite%20to%20soul_74100dc7.zip"
+  },
+  {
+    "id": "b204106d-a",
+    "hero": "Aamon",
+    "name": "Starlight To Soul Vessel",
+    "type": "Upgrade",
+    "role": [
+      "Mage",
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1094-icon_d4f12e24.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1095-icon_78d44bfa.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/amon%20starlight%20to%20soul_c8dc6c4a.zip"
   }
 ]
