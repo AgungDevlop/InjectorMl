@@ -10844,5 +10844,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1094-icon_d4f12e24.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero1095-icon_78d44bfa.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/amon%20starlight%20to%20soul_c8dc6c4a.zip"
+  },
+  {
+    "id": "14d91302-e",
+    "hero": "Hayabusa",
+    "name": "Hayabusa x Killua",
+    "type": "Custom Skin",
+    "role": [
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero211-icon%20(2)_bc9367c6.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250703_131947_c5259a8b.jpg",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/haya%20x%20killua_075563ed.zip"
   }
 ]
