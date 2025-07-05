@@ -10856,5 +10856,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero211-icon%20(2)_bc9367c6.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250703_131947_c5259a8b.jpg",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/haya%20x%20killua_075563ed.zip"
+  },
+  {
+    "id": "f6d99a16-f",
+    "hero": "Johnson",
+    "name": "Johnson x Balmond",
+    "type": "Custom Skin",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero321-icon_ac798a6b.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250705_135546_0cc2be14.jpg",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/js%20x%20balmon_bf0e577b.zip"
   }
 ]
