@@ -10868,5 +10868,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero321-icon_ac798a6b.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250705_135546_0cc2be14.jpg",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/js%20x%20balmon_bf0e577b.zip"
+  },
+  {
+    "id": "2dfa7d29-7",
+    "hero": "Johnson",
+    "name": "Johnson x Banana Boat",
+    "type": "Custom Skin",
+    "role": [
+      "Tank"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero321-icon_65684d90.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250705_184034_7e621988.jpg",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/js%20x%20banana_119f0496.zip"
   }
 ]
