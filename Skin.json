@@ -10880,5 +10880,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero321-icon_65684d90.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250705_184034_7e621988.jpg",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/js%20x%20banana_119f0496.zip"
+  },
+  {
+    "id": "c8addd85-b",
+    "hero": "Alucard",
+    "name": "Alucard x Tung Tung Sahur",
+    "type": "Custom Skin",
+    "role": [
+      "Fighter",
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero071-icon%20(1)_60f3543c.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250706_210936_b1c725d7.jpg",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/alu%20x%20tung%20sahur_3597292b.zip"
   }
 ]
