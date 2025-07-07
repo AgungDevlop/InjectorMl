@@ -10893,5 +10893,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero071-icon%20(1)_60f3543c.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250706_210936_b1c725d7.jpg",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/alu%20x%20tung%20sahur_3597292b.zip"
+  },
+  {
+    "id": "ce68526f-c",
+    "hero": "Benedetta",
+    "name": "Benedetta x Shinobu",
+    "type": "Custom Skin",
+    "role": [
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero971-icon_9fea8616.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250707_125224_2d4c9478.jpg",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/bened%20x%20shinobu_6384c7fb.zip"
   }
 ]
