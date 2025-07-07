@@ -10905,5 +10905,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero971-icon_9fea8616.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250707_125224_2d4c9478.jpg",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/bened%20x%20shinobu_6384c7fb.zip"
+  },
+  {
+    "id": "d57048ae-a",
+    "hero": "Moskov",
+    "name": "Luckybox To All Star",
+    "type": "Upgrade",
+    "role": [
+      "Marksman"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero316-icon_ef2c9505.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero103111-icon%20(1)_443e0727.png",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/moskov%20lucky%20to%20alstar_88bc5c6a.zip"
   }
 ]
