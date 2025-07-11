@@ -10929,5 +10929,18 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero471-icon_5e691ddf.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250711_162657_d99985b5.jpg",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/lance%20x%20zenitsu_4b2ff70b.zip"
+  },
+  {
+    "id": "a61f8f2b-8",
+    "hero": "Julian",
+    "name": "Julian x Itachi",
+    "type": "Custom Skin",
+    "role": [
+      "Assassin",
+      "Mage"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero1161-icon_8f5c835b.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250711_162739_2af7080e.jpg",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/julian%20x%20itachi_673e0ed9.zip"
   }
 ]
