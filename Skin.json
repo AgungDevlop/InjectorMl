@@ -10917,5 +10917,17 @@
     "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero316-icon_ef2c9505.png",
     "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/Hero103111-icon%20(1)_443e0727.png",
     "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/moskov%20lucky%20to%20alstar_88bc5c6a.zip"
+  },
+  {
+    "id": "3ffb780e-d",
+    "hero": "Lancelot",
+    "name": "Lancelot x Zenitsu",
+    "type": "Custom Skin",
+    "role": [
+      "Assassin"
+    ],
+    "img1": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img1/Hero471-icon_5e691ddf.png",
+    "img2": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/img2/20250711_162657_d99985b5.jpg",
+    "url": "https://raw.githubusercontent.com/AgungDevlop/InjectorMl/main/Skin/lance%20x%20zenitsu_4b2ff70b.zip"
   }
 ]
