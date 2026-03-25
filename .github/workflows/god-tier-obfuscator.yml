@@ -1,0 +1,96 @@
+name: God Tier Omni Mode + Auto Version Bump
+
+on:
+  push:
+    branches: [ main, master ]
+    paths:
+      - 'NeonCore.apk'
+  workflow_dispatch:
+
+jobs:
+  build_and_protect:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 1. Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: 2. Set up Python & Java JDK 17
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      - uses: actions/setup-java@v4
+        with:
+          java-version: '17'
+          distribution: 'temurin'
+
+      - name: 3. Install System Tools (Zipalign, Signer, dll)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y zipalign apksigner zip wget git
+
+      - name: 4. Download Apktool & Setup Obfuscapk
+        run: |
+          git clone https://github.com/ClaudiuGeorgiu/Obfuscapk.git
+          cd Obfuscapk
+          python3.10 -m pip install -q -r src/requirements.txt
+          wget -q https://github.com/iBotPeaches/Apktool/releases/download/v2.9.3/apktool_2.9.3.jar -O apktool.jar
+          
+          # Membuat Wrapper untuk Apktool Anti-Error
+          echo '#!/bin/bash' > apktool
+          echo 'args=()' >> apktool
+          echo 'for arg in "$@"; do' >> apktool
+          echo '  args+=("$arg")' >> apktool
+          echo '  if [[ "$arg" == "d" || "$arg" == "decode" ]]; then args+=("-r"); fi' >> apktool
+          echo '  if [[ "$arg" == "b" || "$arg" == "build" ]]; then args+=("-c" "--use-aapt2"); fi' >> apktool
+          echo 'done' >> apktool
+          echo 'java -jar '"$GITHUB_WORKSPACE"'/Obfuscapk/apktool.jar "${args[@]}"' >> apktool
+          chmod +x apktool
+
+      - name: 5. AUTO VERSION BUMP (Naikkan Versi ke 1.7)
+        run: |
+          echo "[*] Mengekstrak Metadata APK..."
+          java -jar $GITHUB_WORKSPACE/Obfuscapk/apktool.jar d -s -f NeonCore.apk -o unpacked_apk
+          
+          echo "[*] Mengubah Versi dari 1.6 menjadi 1.7..."
+          # Mengganti versionName di apktool.yml secara paksa
+          sed -i "s/versionName: .*/versionName: '1.7'/g" unpacked_apk/apktool.yml
+          
+          echo "[*] Membangun ulang APK dengan Versi Baru..."
+          java -jar $GITHUB_WORKSPACE/Obfuscapk/apktool.jar b unpacked_apk -o NeonCore_v17.apk --use-aapt2
+          
+          # Timpa APK lama dengan APK versi 1.7
+          mv NeonCore_v17.apk NeonCore.apk
+          rm -rf unpacked_apk
+
+      - name: 6. Execute MULTIVERSE OMNI MODE (Obfuscation)
+        run: |
+          export PATH="$GITHUB_WORKSPACE/Obfuscapk:$PATH"
+          export PYTHONPATH="$GITHUB_WORKSPACE/Obfuscapk/src"
+          export APKTOOL_PATH="$GITHUB_WORKSPACE/Obfuscapk/apktool"
+          
+          echo "[*] Memulai Enkripsi Tingkat Dewa pada APK Versi 1.7..."
+          python3.10 -m obfuscapk.cli -o ConstStringEncryption -o AdvancedReflection -o ArithmeticBranch -o CallIndirection -o Goto -o MethodOverload -o Nop -o DebugRemoval -o Reorder -o Rebuild -d NeonCore_obfuscated.apk NeonCore.apk
+
+      - name: 7. Inject Jebakan Hacker
+        run: |
+          mkdir -p assets
+          echo "================================================================" > assets/Z_BACA_INI_HACKER.txt
+          echo "Lu mau nyari celah di v1.7? Mending turu bang!" >> assets/Z_BACA_INI_HACKER.txt
+          echo "================================================================" >> assets/Z_BACA_INI_HACKER.txt
+          zip -ur NeonCore_obfuscated.apk assets/Z_BACA_INI_HACKER.txt
+
+      - name: 8. Optimasi Blok Data (Zipalign)
+        run: |
+          zipalign -p -f 4 NeonCore_obfuscated.apk NeonCore_aligned.apk
+
+      - name: 9. Generate Keystore & Super Sign (V1+V2+V3)
+        run: |
+          keytool -genkey -v -keystore godtier.keystore -alias godtier -keyalg RSA -keysize 2048 -validity 10000 -storepass 12345678 -keypass 12345678 -dname "CN=GodTier, O=NeonCore, C=ID"
+          apksigner sign --ks godtier.keystore --ks-pass pass:12345678 --v1-signing-enabled true --v2-signing-enabled true --v3-signing-enabled true --out NeonCore_v1.7_Protected.apk NeonCore_aligned.apk
+
+      - name: 10. Upload Final Protected APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: NeonCore_v1.7_GodTier_Release
+          path: NeonCore_v1.7_Protected.apk
