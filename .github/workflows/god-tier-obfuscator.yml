@@ -1,10 +1,6 @@
 name: God Tier Omni Mode + Bump + Cache
 
 on:
-  push:
-    branches: [ main, master ]
-    paths:
-      - 'NeonCore.apk'
   workflow_dispatch:
 
 jobs:
@@ -15,11 +11,10 @@ jobs:
       - name: 1. Checkout Repository
         uses: actions/checkout@v4
 
-      - name: 2. Set up Python 3.10 & Enable PIP Cache
+      - name: 2. Set up Python 3.10
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-          cache: 'pip' # Otomatis menyimpan cache library Python agar install instan
 
       - name: 3. Set up Java JDK 17
         uses: actions/setup-java@v4
@@ -32,22 +27,21 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y zipalign apksigner zip wget git
 
-      - name: 5. Load Obfuscapk Engine dari Cache
+      - name: 5. Load Obfuscapk Engine Cache
         id: cache-engine
         uses: actions/cache@v4
         with:
           path: Obfuscapk
-          key: ${{ runner.os }}-obfuscapk-engine-v1
+          key: ${{ runner.os }}-obfuscapk-engine-v2
 
       - name: 6. Setup Obfuscapk & Apktool (Jika Cache Kosong)
         if: steps.cache-engine.outputs.cache-hit != 'true'
         run: |
-          echo "[*] Cache tidak ditemukan. Mengunduh Obfuscapk dan Apktool..."
+          echo "[*] Mengunduh Obfuscapk dan Apktool..."
           git clone https://github.com/ClaudiuGeorgiu/Obfuscapk.git
           cd Obfuscapk
           wget -q https://github.com/iBotPeaches/Apktool/releases/download/v2.9.3/apktool_2.9.3.jar -O apktool.jar
           
-          # Membuat Wrapper untuk Apktool Anti-Error
           echo '#!/bin/bash' > apktool
           echo 'args=()' >> apktool
           echo 'for arg in "$@"; do' >> apktool
@@ -63,19 +57,26 @@ jobs:
           cd Obfuscapk
           python3.10 -m pip install -q -r src/requirements.txt
 
-      - name: 8. AUTO VERSION BUMP (Naikkan Versi ke 1.7)
+      - name: 8. AUTO VERSION BUMP (Naikkan Versi Otomatis)
         run: |
           echo "[*] Mengekstrak Metadata APK..."
           java -jar $GITHUB_WORKSPACE/Obfuscapk/apktool.jar d -s -f NeonCore.apk -o unpacked_apk
           
-          echo "[*] Mengubah Versi menjadi 1.7..."
-          sed -i "s/versionName: .*/versionName: '1.7'/g" unpacked_apk/apktool.yml
+          OLD_VER=$(grep "versionName:" unpacked_apk/apktool.yml | head -n 1 | awk '{print $2}' | tr -d "'" | tr -d '"')
+          MAJOR=$(echo $OLD_VER | cut -d. -f1)
+          MINOR=$(echo $OLD_VER | cut -d. -f2)
+          NEW_MINOR=$((MINOR + 1))
+          NEW_VER="$MAJOR.$NEW_MINOR"
           
-          echo "[*] Membangun ulang APK dengan Versi Baru..."
-          java -jar $GITHUB_WORKSPACE/Obfuscapk/apktool.jar b unpacked_apk -o NeonCore_v17.apk --use-aapt2
+          echo "[*] Versi Berubah: $OLD_VER -> $NEW_VER"
+          sed -i "s/versionName: '$OLD_VER'/versionName: '$NEW_VER'/g" unpacked_apk/apktool.yml
+          sed -i "s/versionName: \"$OLD_VER\"/versionName: \"$NEW_VER\"/g" unpacked_apk/apktool.yml
           
-          mv NeonCore_v17.apk NeonCore.apk
+          java -jar $GITHUB_WORKSPACE/Obfuscapk/apktool.jar b unpacked_apk -o NeonCore_bumped.apk --use-aapt2
+          
+          mv NeonCore_bumped.apk NeonCore.apk
           rm -rf unpacked_apk
+          echo "NEW_VER=$NEW_VER" >> $GITHUB_ENV
 
       - name: 9. Execute MULTIVERSE OMNI MODE (Obfuscation)
         run: |
@@ -83,14 +84,14 @@ jobs:
           export PYTHONPATH="$GITHUB_WORKSPACE/Obfuscapk/src"
           export APKTOOL_PATH="$GITHUB_WORKSPACE/Obfuscapk/apktool"
           
-          echo "[*] Memulai Enkripsi Tingkat Dewa..."
+          echo "[*] Memulai Enkripsi Tingkat Dewa pada versi ${{ env.NEW_VER }}..."
           python3.10 -m obfuscapk.cli -o ConstStringEncryption -o AdvancedReflection -o ArithmeticBranch -o CallIndirection -o Goto -o MethodOverload -o Nop -o DebugRemoval -o Reorder -o Rebuild -d NeonCore_obfuscated.apk NeonCore.apk
 
       - name: 10. Inject Jebakan Hacker
         run: |
           mkdir -p assets
           echo "================================================================" > assets/Z_BACA_INI_HACKER.txt
-          echo "Lu mau nyari celah di v1.7? Mending turu bang!" >> assets/Z_BACA_INI_HACKER.txt
+          echo "Lu mau nyari celah di v${{ env.NEW_VER }}? Mending turu bang!" >> assets/Z_BACA_INI_HACKER.txt
           echo "================================================================" >> assets/Z_BACA_INI_HACKER.txt
           zip -ur NeonCore_obfuscated.apk assets/Z_BACA_INI_HACKER.txt
 
@@ -101,10 +102,10 @@ jobs:
       - name: 12. Generate Keystore & Super Sign (V1+V2+V3)
         run: |
           keytool -genkey -v -keystore godtier.keystore -alias godtier -keyalg RSA -keysize 2048 -validity 10000 -storepass 12345678 -keypass 12345678 -dname "CN=GodTier, O=NeonCore, C=ID"
-          apksigner sign --ks godtier.keystore --ks-pass pass:12345678 --v1-signing-enabled true --v2-signing-enabled true --v3-signing-enabled true --out NeonCore_v1.7_Protected.apk NeonCore_aligned.apk
+          apksigner sign --ks godtier.keystore --ks-pass pass:12345678 --v1-signing-enabled true --v2-signing-enabled true --v3-signing-enabled true --out "NeonCore_v${{ env.NEW_VER }}_Protected.apk" NeonCore_aligned.apk
 
       - name: 13. Upload Final Protected APK
         uses: actions/upload-artifact@v4
         with:
-          name: NeonCore_v1.7_GodTier_Release
-          path: NeonCore_v1.7_Protected.apk
+          name: "NeonCore_v${{ env.NEW_VER }}_GodTier"
+          path: "NeonCore_v${{ env.NEW_VER }}_Protected.apk"
