@@ -32,7 +32,7 @@ jobs:
         uses: actions/cache@v4
         with:
           path: Obfuscapk
-          key: ${{ runner.os }}-obfuscapk-engine-v2
+          key: ${{ runner.os }}-obfuscapk-engine-v3
 
       - name: 6. Setup Obfuscapk & Apktool (Jika Cache Kosong)
         if: steps.cache-engine.outputs.cache-hit != 'true'
@@ -83,6 +83,8 @@ jobs:
           export PATH="$GITHUB_WORKSPACE/Obfuscapk:$PATH"
           export PYTHONPATH="$GITHUB_WORKSPACE/Obfuscapk/src"
           export APKTOOL_PATH="$GITHUB_WORKSPACE/Obfuscapk/apktool"
+          export BUNDLE_DECOMPILER_PATH="$GITHUB_WORKSPACE/Obfuscapk/apktool"
+          export BUNDLE_COMPILER_PATH="$GITHUB_WORKSPACE/Obfuscapk/apktool"
           
           echo "[*] Memulai Enkripsi Tingkat Dewa pada versi ${{ env.NEW_VER }}..."
           python3.10 -m obfuscapk.cli -o ConstStringEncryption -o AdvancedReflection -o ArithmeticBranch -o CallIndirection -o Goto -o MethodOverload -o Nop -o DebugRemoval -o Reorder -o Rebuild -d NeonCore_obfuscated.apk NeonCore.apk
